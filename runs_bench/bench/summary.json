@@ -1,0 +1,21 @@
+{
+  "run_name": "bench",
+  "cell": "lstm",
+  "params": {
+    "total": 6325408,
+    "encoder_cells": 2625536,
+    "decoder_cells": 1050624,
+    "recurrent_cells_total": 3676160
+  },
+  "device": "mps",
+  "best_epoch": 1,
+  "best_val_loss": 6.042090184609512,
+  "best_val_ppl": 420.77160671462866,
+  "train_loss_eval_at_best": 6.042864917573475,
+  "train_loss_dropout_at_best": 6.621374461823533,
+  "val_bleu_greedy_at_best": NaN,
+  "epochs_run": 1,
+  "stopped_early": false,
+  "total_train_seconds": 30.716850996017456,
+  "mean_epoch_seconds": 30.716848850250244
+}

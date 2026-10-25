@@ -1,0 +1,602 @@
+id,src,tgt,group
+test-0,لوطيلات مابايناش فيهوم موريحين بزاف.,the hotels don't seem very comfortable.,لوطيلات مابايناش فيهوم موريحين بزاف
+test-1,بغيت نعرف شحال بقا ليا تلوقت باش نقرا,I'd like to know how much time I have left to study,بغيت نعرف شحال بقا ليا تلوقت باش نقرا
+test-2,خسني نمشي دابا,I have to go now,خسني نمشي دابا
+test-3,تانضن أنا هادشي إقدر إكون حل,I do think that could be a solution,تانضن انا هادشي اقدر اكون حل
+test-4,حرفيان، لباب ديالو مسدود,"Literally, his door is locked.",حرفيان لباب ديالو مسدود
+test-5,واش الناس اللي خدامين معاك تايحسو بتاوتور بحالك؟,Do you have colleagues who feel stressed like you?,واش الناس اللي خدامين معاك تايحسو بتاوتور بحالك
+test-6,واش دوزتي شي تاجاريب ماعادياش ألا فشكل موءخاران؟,Have you had any unusual or unpleasant experiences recently?,واش دوزتي شي تاجاريب ماعادياش الا فشكل موءخاران
+test-7,دابا نصيفتها ليك أقتما كملات.,I'll send it over to you as soon as it's finished.,دابا نصيفتها ليك اقتما كملات
+test-8,التڭال ليا أناهو مايمكنش نصوڭ,I've been told that I can't drive,التڭال ليا اناهو مايمكنش نصوڭ
+test-9,صافي، شي باس ماكاين,"Well, that's okay",صافي شي باس ماكاين
+test-10,الله إخلي ليك ماعز عليك,may God protect your loved ones,الله اخلي ليك ماعز عليك
+test-11,كيداير هاد الليلا؟,How are you tonight?,كيداير هاد الليلا
+test-12,واش إمكن إهز جوج تناس؟,Can it carry two people?,واش امكن اهز جوج تناس
+test-13,والاكين مالك كاتمشا أ لابس ل پاراشوت؟,But why are you walking around with a parachute on you?,والاكين مالك كاتمشا ا لابس ل پاراشوت
+test-14,وا هوما ڭاع ڭودو إتنيو لفرشيطا ديالي,They even managed to bend my fork,وا هوما ڭاع ڭودو اتنيو لفرشيطا ديالي
+test-15,كايطلعوها علينا!,They're taunting us!,كايطلعوها علينا
+test-16,سير تنعس بكري,get to bed early,سير تنعس بكري
+test-17,أش باليك، مزيان؟,Does that sound good?,اش باليك مزيان
+test-18,أنا فراسي ڭلت ليك تهدر معا لواليدا ديالك؟,I thought I asked you to speak to your mom?,انا فراسي ڭلت ليك تهدر معا لواليدا ديالك
+test-19,عندي سكرتاير اللي تادير هادشي.,I have an assistant to do that.,عندي سكرتاير اللي تادير هادشي
+test-20,أ كايباليك نقدرو نتساطحو معا شي حاياوانات؟,And you think we can run into other animals?,ا كايباليك نقدرو نتساطحو معا شي حاياوانات
+test-21,فاش كانشوف ف فلفلا خدرا، كاتولي فلفلا حمرا,"When I look at a green pepper, it becomes a red pepper",فاش كانشوف ف فلفلا خدرا كاتولي فلفلا حمرا
+test-22,هير مرا مرا.,It's only from time to time.,هير مرا مرا
+test-23,واش هادشي خاطير أ دوكتور؟,"Is it serious, Doctor?",واش هادشي خاطير ا دوكتور
+test-24,كلات تلاتا ت الجرانات أ جوج بربوشات,she ate three frogs and two snails,كلات تلاتا ت الجرانات ا جوج بربوشات
+test-25,كاتمرضني,You're teasing me,كاتمرضني
+test-26,موحالش.,Probably not.,موحالش
+test-27,غزالين,They're really cute!,غزالين
+test-28,ألا، كايحمقو,"Oh no, they're too cute",الا كايحمقو
+test-29,ألا إمكن اللوون لموفضال ديالك؟,Or maybe your favorite color?,الا امكن اللوون لموفضال ديالك
+test-30,مش أ جوج باباغاوات.,A cat and two parakeets.,مش ا جوج باباغاوات
+test-31,أودي، كانبقاو نتفرجو ف تلفازا واخا كانعرفو أنانا كانضيعو بزاف تلوقت,"Well, we keep watching TV, even if we know we're spending too much time there",اودي كانبقاو نتفرجو ف تلفازا واخا كانعرفو انانا كانضيعو بزاف تلوقت
+test-32,ماڭاهنطيبش شعريا صحابني التبصيل ديال روز!,I'm not cooking pasta I thought it was the rice dish!,ماڭاهنطيبش شعريا صحابني التبصيل ديال روز
+test-33,إوا علاش كاتهضرو؟,So what are you talking about?,اوا علاش كاتهضرو
+test-34,كايڭولو أناني شويا راديكالي.,They think I am a bit extreme.,كايڭولو اناني شويا راديكالي
+test-35,أش هاد كترت تخربيق.,What a lot of nonsense.,اش هاد كترت تخربيق
+test-36,دابا نعيط ليك,I will call you,دابا نعيط ليك
+test-37,طلع عليا ب 30 دهس,it costed me 30 dhs,طلع عليا ب 30 دهس
+test-38,موهيم، خلينا مانساوش نديرو شويا ت الرياضا فوست السيمانا باش نحيدو هادشي كولو.,"Well, let's not forget to do a bit of sports in the week to eliminate all this.",موهيم خلينا مانساوش نديرو شويا ت الرياضا فوست السيمانا باش نحيدو هادشي كولو
+test-39,كليان كتر غاتكون لقاضيا مبرعا.,More customers would be great.,كليان كتر غاتكون لقاضيا مبرعا
+test-40,حاض ساعيد أ شف!,"Good luck, boss!",حاض ساعيد ا شف
+test-41,عاد زيد، ماكاينش لما.,"Besides, there's no water.",عاد زيد ماكاينش لما
+test-42,اللي نقدرو نديرو دابا هوا نتسناو.,All we have to do now is wait.,اللي نقدرو نديرو دابا هوا نتسناو
+test-43,أنا خايف شي شويا.,I'm a little scared.,انا خايف شي شويا
+test-44,تودرات ليا ل ماڭانا,I lost my watch,تودرات ليا ل ماڭانا
+test-45,كتر من هاكا,more than that,كتر من هاكا
+test-46,هادشي كافي,that's enough,هادشي كافي
+test-47,راهوم مشغولين,they're very busy,راهوم مشغولين
+test-48,واش هاد طريق غاديا ل ضاخلا,does this road go to Dakhla,واش هاد طريق غاديا ل ضاخلا
+test-49,شحال تلوقت غادي تاخود ف طوموبيل,how long does it take by car,شحال تلوقت غادي تاخود ف طوموبيل
+test-50,كيداز ل فيلم؟,how was the movie?,كيداز ل فيلم
+test-51,أشمن وقيتا غادي ل بلاكا ت توبيس؟,what time are you going to the bus station?,اشمن وقيتا غادي ل بلاكا ت توبيس
+test-52,شويا,a few,شويا
+test-53,راه كاينين شي كتوبا فوق الطبلا,there are some books on the table,راه كاينين شي كتوبا فوق الطبلا
+test-54,هاني جاي دغيا,I'll be right back,هاني جاي دغيا
+test-55,نشوفو إلا ترات شي حاجا ب زربا,Let's see if anything happens quickly.,نشوفو الا ترات شي حاجا ب زربا
+test-56,نتا كادحك بزاف,Oh you are so funny,نتا كادحك بزاف
+test-57,وركت علا ل بوطون ديال لورڭنس نس ساعا هادي,I pushed the emergency button half an hour ago,وركت علا ل بوطون ديال لورڭنس نس ساعا هادي
+test-58,واش كاتعرف كيفاش تغووت بجهد، ولا تغني بجهد,"Do you know how to scream very loud, or sing very loud?",واش كاتعرف كيفاش تغووت بجهد ولا تغني بجهد
+test-59,ماعادا إلا دارت شي كسيدا ب توموبيل، بتابيعت لحال,"Unless she has a car accident, of course.",ماعادا الا دارت شي كسيدا ب توموبيل بتابيعت لحال
+test-60,لعسهوب غادي يعاونوك باش تبرا أ تعاود توڭوف علا رجليك,The medicinal herbs will allow you to heal and get back on your feet!,لعسهوب غادي يعاونوك باش تبرا ا تعاود توڭوف علا رجليك
+test-61,والاكين، أيه، لعافيا تقدر تنفعنا,"But, yes, fire can serve us.",والاكين ايه لعافيا تقدر تنفعنا
+test-62,يمكن ليك تسوول ڭاع ل أسإلا لي بقاو مورا ماتقرا هاد ل ويكند,You can ask all the questions that will be left after your studying this weekend.,يمكن ليك تسوول ڭاع ل اسالا لي بقاو مورا ماتقرا هاد ل ويكند
+test-63,أ فوڭ هادشي، غادي تكون لحلوا ف هاد ستاڭ,"On top of that, there will be cake in this review internship.",ا فوڭ هادشي غادي تكون لحلوا ف هاد ستاڭ
+test-64,أ، بلمعقول، واش عمرك بساح خدمتي شي حاجا قريتيها فل قيسم؟,"And, seriously, do you ever really use anything you learnt in class?",ا بلمعقول واش عمرك بساح خدمتي شي حاجا قريتيها فل قيسم
+test-65,طل من شرجم.,Look out the window!,طل من شرجم
+test-66,سحاب زوين والاكين حنا لفوڭ بزاف!,the clouds are beautiful but we are so high up!,سحاب زوين والاكين حنا لفوڭ بزاف
+test-67,هادشي شاعيري لي كاتڭول، والاكين راه ماشي إجابي!,"It's poetic what you say, but it's not very positive!",هادشي شاعيري لي كاتڭول والاكين راه ماشي اجابي
+test-68,خوصوصان سيمانا جايا، محتاجك ديري واحد ل پرزنتاصيون علا لماوضوع اللي عزيز عليك.,"Especially for next week, I need you to do a presentation on your favorite subject:",خوصوصان سيمانا جايا محتاجك ديري واحد ل پرزنتاصيون علا لماوضوع اللي عزيز عليك
+test-69,أ أشناهووا لماوضوع اللي عزيز عليا ف ناضارك؟,And what do you think is my favourite subject?,ا اشناهووا لماوضوع اللي عزيز عليا ف ناضارك
+test-70,هادي شحال من سيمانا ماشفنا بعضيياتنا.,It's been a few weeks since we've seen each other.,هادي شحال من سيمانا ماشفنا بعضيياتنا
+test-71,يمكن يكونو كبر منك بزاف.,They can be much older than you.,يمكن يكونو كبر منك بزاف
+test-72,موفاجاأ هادي ملي شفناك.,What a surprise to see you.,موفاجاا هادي ملي شفناك
+test-73,كانلعب لپيانو,I do play the piano,كانلعب لپيانو
+test-74,هووا مرفح بجهد، ديما كنت كانڭول أنشد شي حاجا فاش أيموت.,"He is so rich, I always thought I would get something out of it when he passed away.",هووا مرفح بجهد ديما كنت كانڭول انشد شي حاجا فاش ايموت
+test-75,واش هادا عاصير ديال ليمون سغير؟,Is that a small orange juice?,واش هادا عاصير ديال ليمون سغير
+test-76,أ واش بغيتي تلج فيه؟,And would you like ice in it?,ا واش بغيتي تلج فيه
+test-77,أ لماكلا هنا مزيانا.,And meals are pretty good.,ا لماكلا هنا مزيانا
+test-78,فيكرا زينا هادي,What a good idea,فيكرا زينا هادي
+test-79,أ من لفوق، عندهوم كيكات لداد.,"Plus, they have good cakes.",ا من لفوق عندهوم كيكات لداد
+test-80,هادا سير!,It's a secret!,هادا سير
+test-81,ڭولت نعرض علا راشيدا، كاتعرفيها.,"I thought I'd invite Rachida, you know her.",ڭولت نعرض علا راشيدا كاتعرفيها
+test-82,راك عارف ماتقدرش تجي بلا كلبها,You know without her dog she won't come,راك عارف ماتقدرش تجي بلا كلبها
+test-83,واخا والاكين تخليه برا.,Ok but it'll have to stay outside.,واخا والاكين تخليه برا
+test-84,مابقا والو.,There are none left.,مابقا والو
+test-85,أ الدو راإع بزاف.,And the light is absolutely splendid.,ا الدو رااع بزاف
+test-86,أ كاين ديما أفلام باش تبدل لجوو.,And there's always movies to change your mind.,ا كاين ديما افلام باش تبدل لجوو
+test-87,غادي نكونو تما من دابا خمسا ديال دقايق.,We'll be there in five minutes.,غادي نكونو تما من دابا خمسا ديال دقايق
+test-88,سباح لخير.,Good morning.,سباح لخير
+test-89,أ أهام من هادشي، هاد لعالاقا كانت كاضرك.,"And most importantly, this relationship was hurting you.",ا اهام من هادشي هاد لعالاقا كانت كاضرك
+test-90,يمكن خاصك تمشي تعالجي عند شي طبيب نفسي أخور.,Maybe you should go to therapy with another psychiatrist.,يمكن خاصك تمشي تعالجي عند شي طبيب نفسي اخور
+test-91,هادشي غادي يخلي بالك ملهي.,That'll keep my mind occupied.,هادشي غادي يخلي بالك ملهي
+test-92,فاطيما، عافاك خليني نفكر فيه، باغي نرتاح.,"Fatima, please let me worry about it, I want to rest.",فاطيما عافاك خليني نفكر فيه باغي نرتاح
+test-93,ماغادي نڭول حتا كلما.,I won't say a word.,ماغادي نڭول حتا كلما
+test-94,أشنو بغيتي؟,What would you like?,اشنو بغيتي
+test-95,مشينا؟,Shall we?,مشينا
+test-96,جاني لمالال، أ نتا؟,"I'm getting a little bored, aren't you?",جاني لمالال ا نتا
+test-97,ماكرهتش نديرو شي ڭليسا خاصا، غير صحابنا لقراب.,"Well I would quite like an intimate gathering, just our close friends.",ماكرهتش نديرو شي ڭليسا خاصا غير صحابنا لقراب
+test-98,بغيت ندوور ل ميريكان,I'd like to call the United States,بغيت ندوور ل ميريكان
+test-99,دابا ندوور ليك.,I'll give you a call.,دابا ندوور ليك
+test-100,بغيتي شويا تلما؟,Would you like some water?,بغيتي شويا تلما
+test-101,شكون سيفت هاد الريسالا؟,Who sent this letter?,شكون سيفت هاد الريسالا
+test-102,واش واخا تشري هادا؟,Would you like to buy this?,واش واخا تشري هادا
+test-103,بنتك,Your daughter,بنتك
+test-104,واش كاتلعب ل باسكت؟,Do you play basketball?,واش كاتلعب ل باسكت
+test-105,شحال هاداك؟,How much is that?,شحال هاداك
+test-106,مافهمتش شنو كاتڭول,I don't understand what your saying,مافهمتش شنو كاتڭول
+test-107,واش كاين شي واهد أخور جاي؟,Is anyone else coming?,واش كاين شي واهد اخور جاي
+test-108,فين نقدر نكري شي طوموبيل؟,Where can I rent a car?,فين نقدر نكري شي طوموبيل
+test-109,واش كاتضن خاطيح شتا ليوما؟,Do you think it'll rain today?,واش كاتضن خاطيح شتا ليوما
+test-110,بعيد علا هنا,It's far from here,بعيد علا هنا
+test-111,هاسنا ساحبت كاريم,Hasna is Karim's girlfriend,هاسنا ساحبت كاريم
+test-112,ديما تايدير ليا هادشي,He always does that for me,ديما تايدير ليا هادشي
+test-113,بغيت نسيفط هادشي ل ميريكان,I want to send this to the United States,بغيت نسيفط هادشي ل ميريكان
+test-114,عافاك تسناني,Please wait for me,عافاك تسناني
+test-115,شي كتوبا,Some books,شي كتوبا
+test-116,فيناهوا تريكويا؟,Where is my shirt?,فيناهوا تريكويا
+test-117,داركوم زوينا بزاف,Your house is very nice,داركوم زوينا بزاف
+test-118,أنا عارف بلي راه ل پك كاين معاك، هوا مازيان بزف.,"I know you have your computer with you, it's perfect.",انا عارف بلي راه ل پك كاين معاك هوا مازيان بزف
+test-119,أش باليك ف وهيسكي؟,How about a whiskey?,اش باليك ف وهيسكي
+test-120,نادوا ديالك كاتبان موهيما.,Your seminar sounds interesting.,نادوا ديالك كاتبان موهيما
+test-121,كيفاش قدرتي تكون متأكد لهاد داراجا؟!,How can you be so sure?!,كيفاش قدرتي تكون متاكد لهاد داراجا
+test-122,عاندنا أنشيتا ماختالفا، كانساولك!!,"We do have various activities, I ask you!!",عاندنا انشيتا ماختالفا كانساولك
+test-123,أنا كانعزف علا لپيانو,I do play the piano,انا كانعزف علا لپيانو
+test-124,فيكرا مازيانا!,What a good idea!,فيكرا مازيانا
+test-125,شوكران بزف علا لموعاوانا ديالك.,Thanks very much for your help.,شوكران بزف علا لموعاوانا ديالك
+test-126,أه أه، تلاقيت معا لاتيفا فتريقي، بانت ليا درايفا بزف,"Oh yes, I met Latifa on my way in, she did seem very nice",اه اه تلاقيت معا لاتيفا فتريقي بانت ليا درايفا بزف
+test-127,كانت فشكال مالي كانت فلأتروحا.,She's been so weird since she's on the thesis.,كانت فشكال مالي كانت فلاتروحا
+test-128,كانضن هادا هوا ساباب ليكان مخاليني ديما مرتابتا بيك,I think that's why I've always been so attached to you,كانضن هادا هوا ساباب ليكان مخاليني ديما مرتابتا بيك
+test-129,غادي ياخاد لينا بزاف ديال لواقت باش نرجعو من تريق ليجينا منها,It will take us hours to get back the way we come,غادي ياخاد لينا بزاف ديال لواقت باش نرجعو من تريق ليجينا منها
+test-130,ڭاع داكشي لفارانسي، كايتلاحد ديما.,"All those French things, always being noticed.",ڭاع داكشي لفارانسي كايتلاحد ديما
+test-131,هادشي مناسب ف لعوتلا.,It's convenient for the holidays.,هادشي مناسب ف لعوتلا
+test-132,أه,Yeah.,اه
+test-133,عقل، أخير مرا، رفضات,"Remember, the last time, she had declined",عقل اخير مرا رفضات
+test-134,شوف، نتا لقدام!,"Look, you're in front!",شوف نتا لقدام
+test-135,كان كايغني فڭاع ل أوقات.,He used to sing all the time.,كان كايغني فڭاع ل اوقات
+test-136,لجاو مزيان بزاف، كانتمنا مايكونش خاياب بزاف!,"The weather is so good, I hope it's not too bad!",لجاو مزيان بزاف كانتمنا مايكونش خاياب بزاف
+test-137,أيخاسني نرجاع لدار فلواقت باش نڭاد لغدا ألا غادي إوقاع ليا ناوبات أنبقا نسخاف مرا خرا,I must get home in time to prepare lunch or I'll get those fainting spells again,ايخاسني نرجاع لدار فلواقت باش نڭاد لغدا الا غادي اوقاع ليا ناوبات انبقا نسخاف مرا خرا
+test-138,مافكرتش ناخود ل باف ديالي.,I didn't think to take my megaphone.,مافكرتش ناخود ل باف ديالي
+test-139,واش كاتعراف كيفاش توجه راساك غير بماكان شمش؟,Do you know how to direct yourself by the position of the sun?,واش كاتعراف كيفاش توجه راساك غير بماكان شمش
+test-140,إمكان ليك تخدام ب لخاراإت ديال ڭوڭل...,You can use Google Maps...,امكان ليك تخدام ب لخاراات ديال ڭوڭل
+test-141,ماكانشوف تا موشكيل ف أناني نخدم الدروج,I don't see any drawbacks to use the stairs,ماكانشوف تا موشكيل ف اناني نخدم الدروج
+test-142,خلينا نشوفو واش كايعجابهوم لخوبز لبياد ولا لقاهوي,Let's see if they prefer white or brown bread,خلينا نشوفو واش كايعجابهوم لخوبز لبياد ولا لقاهوي
+test-143,كانحاس بخايبات أمال شوييا,I'm a little disappointed,كانحاس بخايبات امال شوييا
+test-144,شوف هادا، كول مرا كايمشي لطارف ديال لخوبز باش يسراقو لمولاه,"Look at this one, every time he goes for the piece of bread to steal from his rightful recipient",شوف هادا كول مرا كايمشي لطارف ديال لخوبز باش يسراقو لمولاه
+test-145,هادا علا قبال نهار ديال لحافلا,That's for the day of the party!,هادا علا قبال نهار ديال لحافلا
+test-146,أه عافاك نقادرو نديرو شي حاجا خرا,Oh please can we do something else,اه عافاك نقادرو نديرو شي حاجا خرا
+test-147,واهد ساعا من دابا؟,In about an hour?,واهد ساعا من دابا
+test-148,أشنو بغيتي؟,What do you want?,اشنو بغيتي
+test-149,غادي يخاليه يحاس حسان، أ تخاليه فارحان,"It'll make him feel better, and it'll make him happy.",غادي يخاليه يحاس حسان ا تخاليه فارحان
+test-150,سول لواليدا باش تاخود شي حاجا ليها حتا هييا,Ask my mother to get something for her too!,سول لواليدا باش تاخود شي حاجا ليها حتا هييا
+test-151,خاسو يرطاب بزاربا فلما,It should soften quite quickly in the water,خاسو يرطاب بزاربا فلما
+test-152,علا لمشاش؟,On cats?,علا لمشاش
+test-153,ماتخافش، حتا أنا لقيت راسي هنا,"Don't worry, I've ended up here too",ماتخافش حتا انا لقيت راسي هنا
+test-154,شوييا ديال لخوضرا,A puff of vegetables,شوييا ديال لخوضرا
+test-155,أشمان ديسير كاتسوب؟,What dessert are you making?,اشمان ديسير كاتسوب
+test-156,ياربي، ماكانحاسش براسي مازيان,"Oh, my God, I don't feel well.",ياربي ماكانحاسش براسي مازيان
+test-157,طوموبيل خسرات داكشي علاش خليتها ف جانب طريق,The car broke down so I had to leave it at the side of the road,طوموبيل خسرات داكشي علاش خليتها ف جانب طريق
+test-158,أنا، نهاري كان مومتاز,"Me, my day has been excellent.",انا نهاري كان مومتاز
+test-159,والاكين، كيفاش وصلتي لدار؟,But how did you get home?,والاكين كيفاش وصلتي لدار
+test-160,إلا كان عنداك صح، كانءمال مايكونش داكشي خاتير.,"If you're right, I hope it's nothing serious.",الا كان عنداك صح كانءمال مايكونش داكشي خاتير
+test-161,أه فهمت دابا!,Oh I understand now!,اه فهمت دابا
+test-162,أناس، راك جيتي معطال تاني هاد صباح!,"Anas, you arrived late again this morning!",اناس راك جيتي معطال تاني هاد صباح
+test-163,واش كاضن بلي نقدار نخاليه إسيني لييا فلمانديل؟,Do you think I could get them to autograph a napkin?,واش كاضن بلي نقدار نخاليه اسيني لييا فلمانديل
+test-164,أه فيكرا مازيانا أناك دير طاباق ديال لحام,"Yeah, it's a good idea to put on a meat plate!",اه فيكرا مازيانا اناك دير طاباق ديال لحام
+test-165,كانفكر نعيش ف ضاخلا هادشي ليبقا فهياتي، كانت تاجريبا بدلات ليا حياتي,"I'm thinking to live in Dakhla for the rest of my life, it was a life changing experience",كانفكر نعيش ف ضاخلا هادشي ليبقا فهياتي كانت تاجريبا بدلات ليا حياتي
+test-166,لايسعد لماسا,Have a lovely rest of your evening,لايسعد لماسا
+test-167,أه، كانضن بلي أيخسنا نواركو علا بوتون موكالامات طاواريء.,"Yes, I think we should press the emergency call button.",اه كانضن بلي ايخسنا نواركو علا بوتون موكالامات طاواريء
+test-168,تلاقينا ف شاريع، عالام!,"We met on the street, it was fun!",تلاقينا ف شاريع عالام
+test-169,خدامت ف بزاف ديال لبلايص,I've worked in a lot of different places,خدامت ف بزاف ديال لبلايص
+test-170,والاكين من غير هادشي، ماكانعرفش عليه شي حاجا,"but other than that, it's not something I know anything about",والاكين من غير هادشي ماكانعرفش عليه شي حاجا
+test-171,ماعامرو كان عندي,I've never had it,ماعامرو كان عندي
+test-172,ماعامرني خديتها,I've never had it,ماعامرني خديتها
+test-173,والاكين شكون اللي سطل؟,But who's stupid?,والاكين شكون اللي سطل
+test-174,عان طاريق إعادا تادوير، أ إدراك لموحيطاط أ نلقاو ماصادير جديدا ديال طاقا,"by recycling, being mindful of the ocean and finding new sources of energy",عان طاريق اعادا تادوير ا ادراك لموحيطاط ا نلقاو ماصادير جديدا ديال طاقا
+test-175,بغيت ناقرا كتار علا لكاوكاب أ كيفاش نقادرو نبادلو سولوك ديالنا ل أفضال,I would like to study more about the planet and how we can change our behaviour for the better,بغيت ناقرا كتار علا لكاوكاب ا كيفاش نقادرو نبادلو سولوك ديالنا ل افضال
+test-176,من باعد طاباق ديال لحام أ ديسير بفاكيها لحامرا,"Then a dish with meat, and then dessert with red fruit.",من باعد طاباق ديال لحام ا ديسير بفاكيها لحامرا
+test-177,هادشي أصلي,this is original!,هادشي اصلي
+test-178,هادشي أريڭينال,this is original!,هادشي اريڭينال
+test-179,إلا بديتي بهادو,If you get those started,الا بديتي بهادو
+test-180,"هادشي أكتار إتارا ليهتيمام من تاريخك فعيلم ل أنساب أ لكانز""",it's much more interesting than your history of genealogist and treasure,هادشي اكتار اتارا ليهتيمام من تاريخك فعيلم ل انساب ا لكانز
+test-181,واش قريتيها؟,Have you read it?,واش قريتيها
+test-182,سباه لخير!,Good morning!,سباه لخير
+test-183,إمكن كايتساما تاڭين والاكين مامتأكادش,"I think it's called Tagine, but I'm not sure",امكن كايتساما تاڭين والاكين مامتاكادش
+test-184,كول واحدا عندها شويا من فرماج أ لحام,each with it's own unique cheese and meat combo,كول واحدا عندها شويا من فرماج ا لحام
+test-185,أه، لا، غادي نكون خايف بزاف إلا عارفو بيلا كانتصانات عليهوم,"Oh, no, I'd be too afraid if they found out I was listening",اه لا غادي نكون خايف بزاف الا عارفو بيلا كانتصانات عليهوم
+test-186,فراسي نتا أستاد تل أنڭلايس,I know you're an English teacher,فراسي نتا استاد تل انڭلايس
+test-187,هادشي خاسو إتحل بزاربا,This needs to be sorted out quickly,هادشي خاسو اتحل بزاربا
+test-188,غير هاد ألام صغيرا,It's just all these little pains,غير هاد الام صغيرا
+test-189,غاليبان كايواريوني ولادي كيفاش نشعلو أ ناكتاب إمايلس، والاكين...,"My children often show me how to turn it on and even how to write e-mails, but...",غاليبان كايواريوني ولادي كيفاش نشعلو ا ناكتاب امايلس والاكين
+test-190,كولشي خاسو يمشي بزاربا بناسبا ليهوم,Everything has to go fast for them...,كولشي خاسو يمشي بزاربا بناسبا ليهوم
+test-191,هادشي كامل كايدوز بزاربا,It's all happening so fast!,هادشي كامل كايدوز بزاربا
+test-192,ملي كايڭول ل شوايب بلي راه راه بغا إبدل لجوو,when he tells Chouaib he needs a change of air,ملي كايڭول ل شوايب بلي راه راه بغا ابدل لجوو
+test-193,والاكين غادي نمشي معاك فهادي,"But, i'm going to go with you on this one",والاكين غادي نمشي معاك فهادي
+test-194,ألا بجوج؟,Or both?,الا بجوج
+test-195,إمكان لينا نبتازوهوم باش إغنيو لينا,We could blackmail them into singing,امكان لينا نبتازوهوم باش اغنيو لينا
+test-196,أودي راه حتا شعري لساق فل پهوتوكوپيوس!,I mean I even got my hair stuck in the photocopier!,اودي راه حتا شعري لساق فل پهوتوكوپيوس
+test-197,كاتسمي راسك بار والاكين مقادارش تسربيني,You call yourself a bar but won't serve me,كاتسمي راسك بار والاكين مقادارش تسربيني
+test-198,علا أي حال، مزيان حيت شفتاك، أغادي ندويو مرا خرا فاش تضبر علا لعايينات,"Anyway, lovely to see you again, and we'll speak again when you get the samples",علا اي حال مزيان حيت شفتاك اغادي ندويو مرا خرا فاش تضبر علا لعايينات
+test-199,غادي تخرج هاد لعام,She's graduating this year,غادي تخرج هاد لعام
+test-200,لا، بغيت نمشي ل أمريكا لجانوبيا أبلخوسوس لبرازيل,"No, I would love to go to South America and particularly Brazil",لا بغيت نمشي ل امريكا لجانوبيا ابلخوسوس لبرازيل
+test-201,أش أيخسنا نعطيوهوم ياكلو؟,What shall we give them to eat?,اش ايخسنا نعطيوهوم ياكلو
+test-202,كيف راك هاد لعشييا,How are you this evening?,كيف راك هاد لعشييا
+test-203,شوكران والاكين واش ماغاديش تاخود شوييا معايا؟,Thanks but aren't you going to have some with me?,شوكران والاكين واش ماغاديش تاخود شوييا معايا
+test-204,"أ إمكن لينا التا نعاردو علا لفرمليا لي تساتحت معاها ملي كنت جاي""",or we can also invite the nurse that I ran into when I came in,ا امكن لينا التا نعاردو علا لفرمليا لي تساتحت معاها ملي كنت جاي
+test-205,كانقساد، بالاك!,"I mean, whatever!",كانقساد بالاك
+test-206,غادي نرجاع دابا,I'll be right back,غادي نرجاع دابا
+test-207,شويا أنجي,I'll be right back,شويا انجي
+test-208,أنا ماشطون علا لواليدا,I am worried about my mother,انا ماشطون علا لواليدا
+test-209,إلا كان هادشي ماسموح؟,If that's allowed?,الا كان هادشي ماسموح
+test-210,كانشوف شنو بغيتي تڭول,I see what you mean now,كانشوف شنو بغيتي تڭول
+test-211,قليل فاش كانشوفو وجوه جديدا,It's rare to see any new faces,قليل فاش كانشوفو وجوه جديدا
+test-212,صافي، صافي!,"That's it, that's it!",صافي صافي
+test-213,والاكين أنا داكي عليهوم,Except I'm too smart for them,والاكين انا داكي عليهوم
+test-214,إمكان نبارمجوها فل ويكند الجاي ديال ماي,We could arrange this for a weekend of May,امكان نبارمجوها فل ويكند الجاي ديال ماي
+test-215,مامتءكادش، فلحاقيقا,"I'm not sure, actually",مامتءكادش فلحاقيقا
+test-216,أشنو لموشكيلا ديالي ألا كانقرا؟,What's wrong with me reading?,اشنو لموشكيلا ديالي الا كانقرا
+test-217,أنا صاراحاتان مازال ماكانعرفش ل كوككتايلس ديالي,I really don't know my cocktails yet,انا صاراحاتان مازال ماكانعرفش ل كوككتايلس ديالي
+test-218,واخا شوكران ليك بزاف,"Okay, thank you very much",واخا شوكران ليك بزاف
+test-219,أشمن ناويع ديال لموسيقا ليكنتي كاتفاكر فيها,What sort of music were you thinking of?,اشمن ناويع ديال لموسيقا ليكنتي كاتفاكر فيها
+test-220,تاقدار تكون ماتفاتاح,You could be open minded!!,تاقدار تكون ماتفاتاح
+test-221,راها أغنييا ديال لسي ڭور من الستينات، خاساك تسماع ليها ف يوتوب,"It is a song by Lesley Gore from the 1960's, you should listen to it on youtube",راها اغنييا ديال لسي ڭور من الستينات خاساك تسماع ليها ف يوتوب
+test-222,عارف ماعنداكش بلاصا كبيرا,I know you dont have much space,عارف ماعنداكش بلاصا كبيرا
+test-223,أه غادي تكون مومتيعا,"Ah yes, she would be good fun",اه غادي تكون مومتيعا
+test-224,يالاه نابداو ب أسإلا ساهلا,Then let's start with simple questions,يالاه نابداو ب اسالا ساهلا
+test-225,منين تعارضات عليا تارقييا,When I was offered promotion,منين تعارضات عليا تارقييا
+test-226,هوا متكي عليك بزاف، باينا,"He's resting a lot on you, obviously.",هوا متكي عليك بزاف باينا
+test-227,واش عامراك كنتي فلغابا لقريبا؟,have you ever been in the woods nearby?,واش عامراك كنتي فلغابا لقريبا
+test-228,عاود لييا علا فاتنا,Tell me about Fatna,عاود لييا علا فاتنا
+test-229,أه شوف، هاداك هرون لهيه,"Oh look, is that a Heron over there",اه شوف هاداك هرون لهيه
+test-230,خاسني ناخود ليها تسويرا,I must take a picture of it,خاسني ناخود ليها تسويرا
+test-231,أنا كانعيش لهيه,I live over there,انا كانعيش لهيه
+test-232,لخودرا هيا لي كاينا,Vegetable it is,لخودرا هيا لي كاينا
+test-233,تورتا ديال ليمون إمكن؟,Lemon tart perhaps?,تورتا ديال ليمون امكن
+test-234,سعيب نختار,It's hard to choose,سعيب نختار
+test-235,أياه، نهار صعيب بزاف.,"Yes, very hard day",اياه نهار صعيب بزاف
+test-236,الريمايا رييادا كاتعيي بزاف,Archery is a pretty tiring sport,الريمايا رييادا كاتعيي بزاف
+test-237,بغيت نمشي معاك، والاكين ماشي ليوم,"I'd like to go with you, but not today",بغيت نمشي معاك والاكين ماشي ليوم
+test-238,أنا متأكد بلي غادي نرباح,I'm sure I'll win,انا متاكد بلي غادي نرباح
+test-239,واش إمكان لينا نخورجو؟,Can we get off?,واش امكان لينا نخورجو
+test-240,غادي نطلاب منهوم ليك تانتا,I'll ask them for you too,غادي نطلاب منهوم ليك تانتا
+test-241,والاكين هادشي ماكايڭولش لييا أشنو كايديرو نضاضر فهاد لحالا؟,But that doesn't tell me what the glasses are doing in this case?,والاكين هادشي ماكايڭولش لييا اشنو كايديرو نضاضر فهاد لحالا
+test-242,سماحليا ماكنتش قاصد نبراك علا 'يرسال',I'm sorry I didn't mean to press 'send',سماحليا ماكنتش قاصد نبراك علا يرسال
+test-243,بساح أنا ماكانعرفش هادشي,It's true that I don't know that,بساح انا ماكانعرفش هادشي
+test-244,تاغايور لموناخ,climate change,تاغايور لموناخ
+test-245,كاندور فبلاستي من شحال هادا,I have been walking in circles for ages,كاندور فبلاستي من شحال هادا
+test-246,غادي تكون ليلا كبيرا هاد ليلا هنا.,It's going to be a big night in here tonight,غادي تكون ليلا كبيرا هاد ليلا هنا
+test-247,غير فهمتيني غالات,you just misunderstood me,غير فهمتيني غالات
+test-248,لا، معا لأساف,"No, unfortunately",لا معا لاساف
+test-249,لا، ليل أساف,"No, unfortunately",لا ليل اساف
+test-250,كانعراف ناداريا والاكين لخاوف ماشي ديما عقلاني,I know the theory but anxiety is not always rational,كانعراف ناداريا والاكين لخاوف ماشي ديما عقلاني
+test-251,غادي نحاوال نوقاف تشغيل أمانفاكرش فهادشي,I will try to switch off and not think about it,غادي نحاوال نوقاف تشغيل امانفاكرش فهادشي
+test-252,كاندان بلي شامپاڭن كاتبان مومتيعا كتار,I think the champagne sounds more fun,كاندان بلي شامپاڭن كاتبان مومتيعا كتار
+test-253,خاساتان فليل,It's especially at night,خاساتان فليل
+test-254,تالج، لا ڭلاس,"Snow, ice-cream",تالج لا ڭلاس
+test-255,أنا مامتأكادش بلي حنا محتاجينهوم,I'm not sure we need them,انا مامتاكادش بلي حنا محتاجينهوم
+test-256,أشنو ليكايخليك متحاماس؟,What turns you on?,اشنو ليكايخليك متحاماس
+test-257,ماعرفش لكلما بل فارانكيا,I don't know the word in French,ماعرفش لكلما بل فارانكيا
+test-258,واخا، بيما أناك هنا غادي دير داكشي لي كانڭول ليك,"Well, since you are here you will do as I say",واخا بيما اناك هنا غادي دير داكشي لي كانڭول ليك
+test-259,كاتساوب كوكتيلات هنا؟,Do you do cocktails here?,كاتساوب كوكتيلات هنا
+test-260,كانحاس بشوييا ديال جوع,I'm feeling a little peckish,كانحاس بشوييا ديال جوع
+test-261,ديما كايزيد جاو زوين,It always puts a good atmosphere,ديما كايزيد جاو زوين
+test-262,عاندي مايكفي من لواقت باش ناختار أغنييا ديالي,I've got enough time to choose my song then!,عاندي مايكفي من لواقت باش ناختار اغنييا ديالي
+test-263,ماساء لخير أنيسا,"Good evening, miss",ماساء لخير انيسا
+test-264,ماكاينش بزاف ديال الدو، أ من لور، شاعراك تويل ڭيدني,"There's not much light, and from the back, your long hair misled me",ماكاينش بزاف ديال الدو ا من لور شاعراك تويل ڭيدني
+test-265,ڭاع لخرين تباعو,All others are sold out,ڭاع لخرين تباعو
+test-266,لعوطال راه ديال هادشي,the holidays are for that,لعوطال راه ديال هادشي
+test-267,واش تقدار تلقا إشارا ديال ڭپص علا تيفون ديالك باش نعرفو فين حنا,Can you get a GPS signal on your phone to find out where we are?,واش تقدار تلقا اشارا ديال ڭپص علا تيفون ديالك باش نعرفو فين حنا
+test-268,عاندي حتا شوييا ديال بيسكويت ديال شوكلات باقي,I've got some chocolate biscuits left too,عاندي حتا شوييا ديال بيسكويت ديال شوكلات باقي
+test-269,ڭالييا شي حاد بيلا كنت حسان من قبال والاكين كانضن كانو كايداحكو علييا,Someone said I was better than usual but I think they were just poking fun at me,ڭالييا شي حاد بيلا كنت حسان من قبال والاكين كانضن كانو كايداحكو علييا
+test-270,والاكين منين ركابنا لماسعاد، بدا راإس ديالي كايعاواد لييا ديك لقيصا,But when we got in the lift my boss started to tell me this story,والاكين منين ركابنا لماسعاد بدا رااس ديالي كايعاواد لييا ديك لقيصا
+test-271,طاياران لأوال مرا راه موناسابا خاصا,Flying for the first time is a bit of a special occasion,طاياران لاوال مرا راه موناسابا خاصا
+test-272,طاباق ديالنا لموماياز ليوما هووا دجاج,Our special dish today is chicken,طاباق ديالنا لموماياز ليوما هووا دجاج
+test-273,سماح لييا، والاكين داك لكالب ماشي ديالي,"Sorry, but the dog in question is not mine!",سماح لييا والاكين داك لكالب ماشي ديالي
+test-274,كاتبان لييا خوطا مزيانا,That sounds like a good plan,كاتبان لييا خوطا مزيانا
+test-275,أش كاتقساد ب طهاي؟,What do you mean by the Thai?,اش كاتقساد ب طهاي
+test-276,أشمن ناوع ديال تابادول كاتقساد؟,what kind of exchange do you mean?,اشمن ناوع ديال تابادول كاتقساد
+test-277,حنا كاملين بزز علينا نعيشو معا باعديياتنا,We're all forced to live together,حنا كاملين بزز علينا نعيشو معا باعديياتنا
+test-278,كانخاسرو ڭاع لماعاليم ديالها,We're losing all its landmarks,كانخاسرو ڭاع لماعاليم ديالها
+test-279,كانضن خاسنا نمشيو لحاديقا موراها، نقادرو نديرو شوا,"I think we should go to the park next, we can have a barbecue.",كانضن خاسنا نمشيو لحاديقا موراها نقادرو نديرو شوا
+test-280,ولا لأزواج لمالاكييان جداد، هاها,"Or the new royal couple, haha!",ولا لازواج لمالاكييان جداد هاها
+test-281,سماح لييا معاتال والاكين أنا ف تيليفون,Sorry so slow but I m on my phone,سماح لييا معاتال والاكين انا ف تيليفون
+test-282,فنيهايا ديال سيمانا إدان,this weekend then!,فنيهايا ديال سيمانا ادان
+test-283,سماحليا حيت دوزتي بحال هاد نهار لخايب,I'm sorry you've had such a bad day,سماحليا حيت دوزتي بحال هاد نهار لخايب
+test-284,غدا إمكان لييا نسوڭ بيك لخدما,Tomorrow I can drive you to work,غدا امكان لييا نسوڭ بيك لخدما
+test-285,قبل ماتمشيو,before you go,قبل ماتمشيو
+test-286,بلموناسابا، راه شوها,"It's a shame, by the way",بلموناسابا راه شوها
+test-287,والاكين غادي نواجاد إقتيراح ديالك، نالقا ساباب واجيه لمونضيم,But I'm going to try to set up your suggestion: Find a good reason for orgniser,والاكين غادي نواجاد اقتيراح ديالك نالقا ساباب واجيه لمونضيم
+test-288,كانضن هادا ياقدار يكون حال,I do think that could be a solution,كانضن هادا ياقدار يكون حال
+test-289,بعد لمرات كانداحكو علا لجدات ليكايشربو لبابونج، والاكين غادي نڭوليك واحاد لحاجا، كايعجابني,"Sometimes we laugh at the grandmothers who drink chamomile, but I'll tell you one thing, I like it!",بعد لمرات كانداحكو علا لجدات ليكايشربو لبابونج والاكين غادي نڭوليك واحاد لحاجا كايعجابني
+test-290,ستامتاع ب نهار دوكتور,"Enjoy the rest of the day, Doctor.",ستامتاع ب نهار دوكتور
+test-291,بغيت ناعراف شحال ديال لواقت باقي لييا باش نقرا,I'd like to know how much time I have left to study,بغيت ناعراف شحال ديال لواقت باقي لييا باش نقرا
+test-292,والاكين غادي نجاواب علا لس إمايلس غير فساعات ديال لخادما,But I will only answer emails during working hours,والاكين غادي نجاواب علا لس امايلس غير فساعات ديال لخادما
+test-293,كيفاش دوزتيها من لبوليس,how did you get that through security?,كيفاش دوزتيها من لبوليس
+test-294,عتيني ساك لواراقي,hand me the paper bag.,عتيني ساك لواراقي
+test-295,علاش جبادتو ل پيلوت,why did you have to mention the pilot!,علاش جبادتو ل پيلوت
+test-296,لوطيلات ماكايبانوش موريحين بزاف.,the hotels don't seem very comfortable.,لوطيلات ماكايبانوش موريحين بزاف
+test-297,واش نتا من ميريكان؟,Are you from the U.S.?,واش نتا من ميريكان
+test-298,واش نتي من ميريكان؟,Are you from the U.S.?,واش نتي من ميريكان
+test-299,واش نتوما من ميريكان؟,Are you from the U.S.?,واش نتوما من ميريكان
+test-300,الله إعطيك صحا,May God grant you health too,الله اعطيك صحا
+test-301,هادي طبلا,This is a table,هادي طبلا
+test-302,عاود عافاك,Repeat please,عاود عافاك
+test-303,عاودي عافاك,Repeat please,عاودي عافاك
+test-304,بغيت نصبن,I want to do laundry,بغيت نصبن
+test-305,هادي التمنيا أ خمسا أ تلاتين,It is eight thirty-five,هادي التمنيا ا خمسا ا تلاتين
+test-306,هادي التمنيا أ سبع قسام,It is eight thirty-five,هادي التمنيا ا سبع قسام
+test-307,هادي لحضاش قل قسماين,It is ten minutes to eleven,هادي لحضاش قل قسماين
+test-308,ألي بغا كاس تلما,Ali wants a glass of water,الي بغا كاس تلما
+test-309,لعام اللي فات، سافرنا ل نو يورك.,"Last year, we traveled to New York.",لعام اللي فات سافرنا ل نو يورك
+test-310,هادي هيا لمرا لخامسا هاد شهار!,that's the fifth time this month!,هادي هيا لمرا لخامسا هاد شهار
+test-311,ماكانقدارش نتخايال اللا نوها كاتلعاب لڭولف,I can't imagine Mrs Noha playing golf,ماكانقدارش نتخايال اللا نوها كاتلعاب لڭولف
+test-312,أ خاساك يكون ماقالات ديالك أحسان ماكتابتي,And your essay must be the best you've ever written,ا خاساك يكون ماقالات ديالك احسان ماكتابتي
+test-313,راه كنت كانجري بزاف فلمادراسا,I did a lot of running in high school,راه كنت كانجري بزاف فلمادراسا
+test-314,إقدرو إكونو عندي أشريطا فشي بلاسا,I should still have tapes somewhere,اقدرو اكونو عندي اشريطا فشي بلاسا
+test-315,هيا تاتبيق ديال موسيقا,It's an online music app,هيا تاتبيق ديال موسيقا
+test-316,هادشي ماشي غابيي,It's not stupid,هادشي ماشي غابيي
+test-317,هاد الطريق خاويا,This road is empty,هاد الطريق خاويا
+test-318,ماكانحسش براسي مزيان,I am not feeling well,ماكانحسش براسي مزيان
+test-319,لخدما صعيبا,The job is hard,لخدما صعيبا
+test-320,هاد الجلابا جاتك مضيقا,This Jellaba is tight,هاد الجلابا جاتك مضيقا
+test-321,جدا ماتت,My grandmother passed away,جدا ماتت
+test-322,هادي صاحبتي,This is my girlfriend,هادي صاحبتي
+test-323,هادا صاحبي,This is my boyfriend,هادا صاحبي
+test-324,ماسمعتكش شنو ڭلتي,I didn't hear what you said,ماسمعتكش شنو ڭلتي
+test-325,رمضان قريب,Ramadan is close,رمضان قريب
+test-326,لجوو سخون,it is hot,لجوو سخون
+test-327,الشمس حارا,it is very sunny,الشمس حارا
+test-328,سافي كانواعدك,"okay, I promise you",سافي كانواعدك
+test-329,نتا كداب,you are a liar,نتا كداب
+test-330,كولا جمعا,every Friday,كولا جمعا
+test-331,التاواضوع مزيان,modesty is great,التاواضوع مزيان
+test-332,ماتنعسش بزاف,don't sleep too much,ماتنعسش بزاف
+test-333,ماجبتش نوقطا مزيانا,I didn't score well,ماجبتش نوقطا مزيانا
+test-334,كاياكول بزاف,he eats too much,كاياكول بزاف
+test-335,كانحسدك,I envy you,كانحسدك
+test-336,شي نهار أخور,another day,شي نهار اخور
+test-337,لبيت ديالك كاين ف الطبقا التانيا,your room is on the second floor,لبيت ديالك كاين ف الطبقا التانيا
+test-338,لبيت سغير,the room is small,لبيت سغير
+test-339,نتا حمق,you are crazy,نتا حمق
+test-340,مانقدرش نشروب,I can't drink,مانقدرش نشروب
+test-341,بان لييا,I think,بان لييا
+test-342,مالك ماكاتضحكش؟,why are you not laughing?,مالك ماكاتضحكش
+test-343,أنا ماشي حتال لهيه,I'm not okay,انا ماشي حتال لهيه
+test-344,كترت التخمام,overthinking,كترت التخمام
+test-345,كاين فلحبس,he is in the prison,كاين فلحبس
+test-346,كايطيح التلج,it's snowing,كايطيح التلج
+test-347,هادي موصيبا,this is a catastrophe,هادي موصيبا
+test-348,ماشي بحال هاكدا,not like this,ماشي بحال هاكدا
+test-349,تغديت معطل,I had a late lunch,تغديت معطل
+test-350,ماكايسمعش لييا,he doesn't listen to me,ماكايسمعش لييا
+test-351,غانغني أغنييا,I'll sing a song,غانغني اغنييا
+test-352,لفراش قديم,the furniture is old,لفراش قديم
+test-353,سناني بيضين,my teeth are white,سناني بيضين
+test-354,داز لييا الصالير,I've received my salary,داز لييا الصالير
+test-355,سصالير ماكافيش,the salary isn't enough,سصالير ماكافيش
+test-356,ماتلاقيتش معاه,I didn't met him,ماتلاقيتش معاه
+test-357,رجليه كبار,his feet are big,رجليه كبار
+test-358,خلعتيني,you scared me,خلعتيني
+test-359,مابغاش يسلفني,he didn't want to loan me money,مابغاش يسلفني
+test-360,واش جاك لمالال؟,do you feel bored,واش جاك لمالال
+test-361,كانديرو كولا نهار,I do it everyday,كانديرو كولا نهار
+test-362,كانستاعملو ديما,I always use it,كانستاعملو ديما
+test-363,عندي لبشرا موختاليطا,I have a mixed skin,عندي لبشرا موختاليطا
+test-364,محتاج لفلوس,I need money,محتاج لفلوس
+test-365,قبل ماتمشي,before you go,قبل ماتمشي
+test-366,داير مليون,it costs one million,داير مليون
+test-367,غانشوف كيفاش,I will see how,غانشوف كيفاش
+test-368,كايقرا مزيان,he studies hard,كايقرا مزيان
+test-369,حرقت لغدا,I burned the lunch,حرقت لغدا
+test-370,ساك مزور,fake bag,ساك مزور
+test-371,واش غاتنعس دابا؟,will you sleep now?,واش غاتنعس دابا
+test-372,بغيت نهاجر,I want to immigrate,بغيت نهاجر
+test-373,بغيت نطلق,I want to get divorced,بغيت نطلق
+test-374,عندي عوسر لهاضم,I have a problem of indigestion,عندي عوسر لهاضم
+test-375,دير براسك مكلخ,pretend as being stupid,دير براسك مكلخ
+test-376,ماكانعرف ندير والو,I'm not good at doing anything,ماكانعرف ندير والو
+test-377,خويا الصغير,my little brother,خويا الصغير
+test-378,ماكانتسوقش لحتا واحد,I don't care about anyone,ماكانتسوقش لحتا واحد
+test-379,سيفت لييا نمرتك,send me your phone number,سيفت لييا نمرتك
+test-380,واش حتا هووا كايبغيك؟,does he also love you?,واش حتا هووا كايبغيك
+test-381,كتب بشكوييا,write slowly,كتب بشكوييا
+test-382,بحالاش؟,Like what?,بحالاش
+test-383,واش كاتلعب ل باصكت؟,Do you play basketball?,واش كاتلعب ل باصكت
+test-384,فرحني ليوما,He made me happy today,فرحني ليوما
+test-385,كايدحك,He is laughing,كايدحك
+test-386,واش كايلعب التينيس,Does he play tennis,واش كايلعب التينيس
+test-387,هووا ماشي موهنديس,He is not an engeneer,هووا ماشي موهنديس
+test-388,كايشرب كاس ديال لما,He drinks a glass of water,كايشرب كاس ديال لما
+test-389,خرج يتمشا,He went for a walk,خرج يتمشا
+test-390,مشا يشري لحوايج,He went shopping for clothes,مشا يشري لحوايج
+test-391,قرا كتاب ف الجردا,He read a book in the park,قرا كتاب ف الجردا
+test-392,كاياكول بزربا,He eats quickly,كاياكول بزربا
+test-393,كان كايغسل لولادو,He was bathing his kids,كان كايغسل لولادو
+test-394,عقل علا هضرتي,Mark my words,عقل علا هضرتي
+test-395,هادشي ماشي معقول,This is not fair,هادشي ماشي معقول
+test-396,بشحال كاتبيعو؟,How much do you sell it?,بشحال كاتبيعو
+test-397,تطبلا قصيرا؟,the table is short,تطبلا قصيرا
+test-398,فوج معا راسك,Enjoy yourself!,فوج معا راسك
+test-399,تعدا علييا,He abused me,تعدا علييا
+test-400,منين خديتيه؟,Where did you get it?,منين خديتيه
+test-401,عندو بزاف مايعاود,He has a lot to talk about,عندو بزاف مايعاود
+test-402,شنو لجاديد,What's new?,شنو لجاديد
+test-403,مابغاش يبرزطك,He doesn't want to bother you,مابغاش يبرزطك
+test-404,كايضرو راصو,He has a headache,كايضرو راصو
+test-405,هووا ف الشينوا,he is in China,هووا ف الشينوا
+test-406,لبڭرا كاتعطينا ل حليب,Cow gives us milk,لبڭرا كاتعطينا ل حليب
+test-407,لحنش صرط جرانا,The snake swollowed a frog,لحنش صرط جرانا
+test-408,عندو الدار ديالو,He has a house of his own,عندو الدار ديالو
+test-409,كايعيش فهاد الضار بوحدو,He lives in this house by himself,كايعيش فهاد الضار بوحدو
+test-410,عندي متيحان غدا,I have exam tomorrow,عندي متيحان غدا
+test-411,ماعنديش معا نهار التنين,I hate Mondays,ماعنديش معا نهار التنين
+test-412,واش بصح بغيتي تكوني كوافورا؟,Do you really want to be a hairdresser?,واش بصح بغيتي تكوني كوافورا
+test-413,هاد تفاحا حامضا نيت,This apple is really sour,هاد تفاحا حامضا نيت
+test-414,السخونييا رضات لحليب حامض,The heat turned the milk sour,السخونييا رضات لحليب حامض
+test-415,غادي نتوحش طيابك,I will miss your cooking,غادي نتوحش طيابك
+test-416,هووا حمر لخوبز,He toasted bread,هووا حمر لخوبز
+test-417,ف لفطور، كانشرب كاس ديال عاسير دليمون,"For breakfast, I have a glass of orange juice",ف لفطور كانشرب كاس ديال عاسير دليمون
+test-418,يالاه نتغداو !,Let's have lunch !,يالاه نتغداو
+test-419,واش جاك لعطش؟,Are you thirsty?,واش جاك لعطش
+test-420,كايعجبني الشكل ديال وجهو,I like his face shape,كايعجبني الشكل ديال وجهو
+test-421,خويت لقهوا علا سروالي,I spiiled coffe on my pants,خويت لقهوا علا سروالي
+test-422,قلب جياب ديال السروال,He checked his pants pockets,قلب جياب ديال السروال
+test-423,التقاشر ريحتهوم خانزا,The socks smell bad,التقاشر ريحتهوم خانزا
+test-424,خصني صمطا,I need a belt,خصني صمطا
+test-425,كانلبس لكولون ف لاصال,I wear leggings at the gym,كانلبس لكولون ف لاصال
+test-426,تلصقو معا بعضيياتهوم,They are glued together,تلصقو معا بعضيياتهوم
+test-427,نتا مكلخ,You are dumb,نتا مكلخ
+test-428,كانستمتع ب لحيصا ديال اللونڭلي,I enjoy Englsh class,كانستمتع ب لحيصا ديال اللونڭلي
+test-429,أنا كانتعلم الطاليانييا,I am learning italian,انا كانتعلم الطاليانييا
+test-430,بغيت نتعلم لروسييا,I want to learn russian,بغيت نتعلم لروسييا
+test-431,تعلمت التوركييا من لأفلام,I learned turkish from movies,تعلمت التوركييا من لافلام
+test-432,بديت كانتعلم لبورتوغالييا,I started learning portuguese,بديت كانتعلم لبورتوغالييا
+test-433,لوغات الصوم وا لبوكم,The language of deaf and dumb,لوغات الصوم وا لبوكم
+test-434,لهيند كاينا ف أسيا,India is in Asia,لهيند كاينا ف اسيا
+test-435,تلاقينا ف سويسرا,We met in Switzerland,تلاقينا ف سويسرا
+test-436,والاكين كاين غير جامع واحد,But there is only one mosque,والاكين كاين غير جامع واحد
+test-437,الشتا خيط من السما,It's raining cats and dogs,الشتا خيط من السما
+test-438,ماتخويش فييا لأعصاب ديالك,Don't take it out in me,ماتخويش فييا لاعصاب ديالك
+test-439,ماعنديش لڭانا ل...,I am not in the mood...,ماعنديش لڭانا ل
+test-440,كانحس براصي مسخسخ,I feel exhausted,كانحس براصي مسخسخ
+test-441,باراكا علييا,I've had enough,باراكا علييا
+test-442,حريرتي حريرا,I am in a soup,حريرتي حريرا
+test-443,كايعجبني النمش,I like freckles,كايعجبني النمش
+test-444,كنت غير كاندحك معاك,I am just pulling your leg,كنت غير كاندحك معاك
+test-445,كنت غير كانتفلا معاك,I am just pulling your leg,كنت غير كانتفلا معاك
+test-446,لي وقع وقع,What's gone is gone,لي وقع وقع
+test-447,عزيز عليه الناميما,He really likes gossiping,عزيز عليه الناميما
+test-448,خسر فلوسو ف لقمر,He lost his money gambling,خسر فلوسو ف لقمر
+test-449,خدا جغما ديال أتاي,He took a sip of tea,خدا جغما ديال اتاي
+test-450,كانمدغ لمسكا,I chew gum,كانمدغ لمسكا
+test-451,ماكانعضش,I won't bite,ماكانعضش
+test-452,تلبت كريدي من لبانكا,I asked the bank for a loan,تلبت كريدي من لبانكا
+test-453,تابعان,You bet,تابعان
+test-454,شوكران علا لكادو,Thank you for the gift,شوكران علا لكادو
+test-455,تشهيت نتفرج ف فيلم واتاإقي,I am in the mood for a documentory movie,تشهيت نتفرج ف فيلم واتااقي
+test-456,مايمكنش تحكم علا كتاب من لغلاف ديالو,You can't judge a book by it's cover,مايمكنش تحكم علا كتاب من لغلاف ديالو
+test-457,خصك غير تصبر,You'll just have to be patient,خصك غير تصبر
+test-458,ف لأحلام ديالك,In your dreams!,ف لاحلام ديالك
+test-459,عرفتي شنو؟,You know what?,عرفتي شنو
+test-460,كنت كانتساءل,I was wondering,كنت كانتساءل
+test-461,من ويجهات الناضار ديالي,From my point of view,من ويجهات الناضار ديالي
+test-462,إوا صافي,Whatever,اوا صافي
+test-463,شفتي؟,see?,شفتي
+test-464,كانواعدك غادي نسالي ف لوقت,I promise that I'll finsh on time,كانواعدك غادي نسالي ف لوقت
+test-465,خصني خاتم جديد,I need a new ring,خصني خاتم جديد
+test-466,كانتخلع دغيا,I get scared very easily,كانتخلع دغيا
+test-467,خود ليك دوش,Take a shower,خود ليك دوش
+test-468,فين جات لبوصطا؟,Where is the post office?,فين جات لبوصطا
+test-469,واش فهمتي شنو كانقصد؟,Do you understand what I mean?,واش فهمتي شنو كانقصد
+test-470,غادي نشري تموبيل جديدا,I will buy a new car,غادي نشري تموبيل جديدا
+test-471,شنو لأعراد اللي فيك؟,What are your symptoms?,شنو لاعراد اللي فيك
+test-472,فييا لحريق ف ضهري,I have pain in my back,فييا لحريق ف ضهري
+test-473,تاقافات جديدا,New cultures,تاقافات جديدا
+test-474,بغيت نكتاشف التاقافا لهيندييا,I want to discover Indian culture,بغيت نكتاشف التاقافا لهيندييا
+test-475,ماكانخاف من حتا واحد,I don't fear anyone,ماكانخاف من حتا واحد
+test-476,واش نقدر نحبس؟,can I stop?,واش نقدر نحبس
+test-477,هاهيا,here she is,هاهيا
+test-478,فهمت,I get it,فهمت
+test-479,صباح لخير,good morning,صباح لخير
+test-480,صباحلخير,good morning,صباحلخير
+test-481,وقت كامل,full-time,وقت كامل
+test-482,واقت كامل,full-time,واقت كامل
+test-483,عندو أهاميا,relevant,عندو اهاميا
+test-484,عاندو أهاميا,relevant,عاندو اهاميا
+test-485,فيه الصداع,noisy,فيه الصداع
+test-486,فيه صداع,noisy,فيه صداع
+test-487,فيه الضاجيج,noisy,فيه الضاجيج
+test-488,فيه ضاجيج,noisy,فيه ضاجيج
+test-489,فيه الداجيج,noisy,فيه الداجيج
+test-490,طالعا ليا لقردا,I'm angry,طالعا ليا لقردا
+test-491,دابا,now,دابا
+test-492,دروك,now,دروك
+test-493,ولبارح,the day before yesterday,ولبارح
+test-494,والبارح,the day before yesterday,والبارح
+test-495,دوجانبير,december,دوجانبير
+test-496,شهر طناش,december,شهر طناش
+test-497,شهار طناش,december,شهار طناش
+test-498,زعفان,angry,زعفان
+test-499,زاعفان,angry,زاعفان
+test-500,كاعي,angry,كاعي
+test-501,أودي,whatever,اودي
+test-502,لايسعد الصاباح,good morning,لايسعد الصاباح
+test-503,لايسعد صاباح,good morning,لايسعد صاباح
+test-504,لايسعدصاباح,good morning,لايسعدصاباح
+test-505,لايسعدساباح,good morning,لايسعدساباح
+test-506,أنا مزوج مزوجا,i am married,انا مزوج مزوجا
+test-507,واسه تايتيح تلج بزاف هنا؟,does it snow a lot here?,واسه تايتيح تلج بزاف هنا
+test-508,بسهحال هادا...؟,how much is that...?,بسهحال هادا
+test-509,بسهحال هادي...؟,how much is that...?,بسهحال هادي
+test-510,تانحاس بلعيا,i feel tired,تانحاس بلعيا
+test-511,فين جا سبيتار؟ عافاك,where is the hospital? please,فين جا سبيتار عافاك
+test-512,واسه عجباتك لقاسابات ملي تعاودو؟,do you like castles being restored?,واسه عجباتك لقاسابات ملي تعاودو
+test-513,بغيت نس إترو دلحليب,i want 1⁄2 a liter of milk,بغيت نس اترو دلحليب
+test-514,أنا و ولد عني عدنا نفس لعمر,my (male) cousin and i are the same age,انا و ولد عني عدنا نفس لعمر
+test-515,بغيت نعراف أش كاين؟,i want to know what's happening?,بغيت نعراف اش كاين
+test-516,فهامت,i get it,فهامت
+test-517,عاجبني لون هاد تابلا,i like the colour of this table,عاجبني لون هاد تابلا
+test-518,أنا معاتال,i am late,انا معاتال
+test-519,أنا معاتلا,i am late,انا معاتلا
+test-520,ديني هنا عافاك,"take me there, please",ديني هنا عافاك
+test-521,سير علا ليسار,you go left,سير علا ليسار
+test-522,شنو لي بغيتي ؟,what would you like?,شنو لي بغيتي
+test-523,أه، واسخون بزاف !,"yes, very hot also!",اه واسخون بزاف
+test-524,واش هاد تران كايوقاف فلمدينا؟,does this train stop at the city?,واش هاد تران كايوقاف فلمدينا
+test-525,كاين شي هامام فل بيت؟,is there a bathroom in the room?,كاين شي هامام فل بيت
+test-526,بشحال ليلا؟,how much is it for a night?,بشحال ليلا
+test-527,واش خاتار لعومان هنا؟,is it dangerous to swim here?,واش خاتار لعومان هنا
+test-528,أشنو هييا أحوال تاقس ديال خادا؟,what is the weather forecast for tomorrow?,اشنو هييا احوال تاقس ديال خادا
+test-529,لجاو غادي ياتبادال,the weather is going to change,لجاو غادي ياتبادال
+test-530,خايكون ريح بزاف,it will be very windy,خايكون ريح بزاف
+test-531,أش هاب لخاتر؟,what would you like?,اش هاب لخاتر
+test-532,خيرها ف خيرها,better luck next time,خيرها ف خيرها
+test-533,عمرت ساحبي بزيت ديال سخار,i covered my friend in baby oil,عمرت ساحبي بزيت ديال سخار
+test-534,سقت فلمتيحان,i failed the exam,سقت فلمتيحان
+test-535,يالاه فقت من نعاس,i just woke up,يالاه فقت من نعاس
+test-536,بقا فيا لحال خاسني نمشي فحالي,i'm so sad that i need to leave,بقا فيا لحال خاسني نمشي فحالي
+test-537,هاد لبوتا تقيلا بزاف,this box is so heavy,هاد لبوتا تقيلا بزاف
+test-538,أنشارك ف موساباقا ديال لقيراأ,i'm entering a reading competition,انشارك ف موساباقا ديال لقيراا
+test-539,بغيت ندوزو وقيتا زوينا,i want to have some fun with you,بغيت ندوزو وقيتا زوينا
+test-540,تلع لفوق,go up...,تلع لفوق
+test-541,جا علا ليمن ديالك,it's on your right,جا علا ليمن ديالك
+test-542,نقدر نحل شرجم ؟,can i open the window?,نقدر نحل شرجم
+test-543,ماعندكش قياس سغر ؟,do you have a smaller size?,ماعندكش قياس سغر
+test-544,فين جات بلاسا ديال تقياس ؟,where is the fitting room?,فين جات بلاسا ديال تقياس
+test-545,ماديرش فبالك سافي سمحت ليك,don't worry you're forgiven!,ماديرش فبالك سافي سمحت ليك
+test-546,بغيت والاكين ڭلبي كيڭول لا,"my body say yes, but my heart say no",بغيت والاكين ڭلبي كيڭول لا
+test-547,لواليدا كاتقلب علا ختي سخيرا,my mother is looking after my baby sister,لواليدا كاتقلب علا ختي سخيرا
+test-548,واحد راجل قسير شرا لولدو شي أقلام من واحد لماحال,the short man has bought his son some crayons from a shop,واحد راجل قسير شرا لولدو شي اقلام من واحد لماحال
+test-549,راجل شارف يالاه ورا لپرميس ديالو لبوليسي,the oldman has just shown the policeman his driving license,راجل شارف يالاه ورا لپرميس ديالو لبوليسي
+test-550,لوراق كانو مخربقين فواحد لكارتونا كبيرا,the papers were mixed together in a big box,لوراق كانو مخربقين فواحد لكارتونا كبيرا
+test-551,مافهمش نوكتا,he can't take the joke,مافهمش نوكتا
+test-552,عندي واحد ليستا,i've got a list,عندي واحد ليستا
+test-553,هادشي ماشي سال كيفما كايبان ليك,it is not so easy as you think,هادشي ماشي سال كيفما كايبان ليك
+test-554,شميت ريحا لمعيقا ديال توما فتياب,i smelled the fragrance of garlic cooking,شميت ريحا لمعيقا ديال توما فتياب
+test-555,هاد لماحال حسن,this shop is much nicer,هاد لماحال حسن
+test-556,كاين شي جاديد,what's new?,كاين شي جاديد
+test-557,سوبنا ليستا و عتيناها لسامانتها,i'll make a list and give it to samantha,سوبنا ليستا و عتيناها لسامانتها
+test-558,جاه ساهل يخرج هاداك لپوزل,he solved the puzzle with ease,جاه ساهل يخرج هاداك لپوزل
+test-559,لكلاب سخار زويونين,the newborn puppies were adorable,لكلاب سخار زويونين
+test-560,لعاليم دار واحد لكتيشاف هربان,the scientist made a groundbreaking discovery,لعاليم دار واحد لكتيشاف هربان
+test-561,علا لقواليت ديال لپرودويت تشريه بهاد تامان را شي حاجا هربانا,the price was a steal for the features the item offered,علا لقواليت ديال لپرودويت تشريه بهاد تامان را شي حاجا هربانا
+test-562,رييادا كاتحافد علا سحا,sports promotes the overall health,رييادا كاتحافد علا سحا
+test-563,رييادا كاتعيشك حايات سيحييا,playing sports promotes a healthy lifestyle,رييادا كاتعيشك حايات سيحييا
+test-564,كيفاش كادير باش تحافد علا سحتك ؟,how do you keep up with your health ?,كيفاش كادير باش تحافد علا سحتك
+test-565,أش كايعجبك تمشي لحافالات ولا تبقا فدار ؟,do you enjoy attending live events or prefer staying in?,اش كايعجبك تمشي لحافالات ولا تبقا فدار
+test-566,كيفاش كاتبقا تندم ؟,how do you stay organized?,كيفاش كاتبقا تندم
+test-567,كيكايعجبك دوز لعشييا ؟,how do you like to spend your evenings?,كيكايعجبك دوز لعشييا
+test-568,واش كيعجبك تمشي لا سال ؟,do you like going to the gym?,واش كيعجبك تمشي لا سال
+test-569,أشناهووا أحسن كتاب قريتيه فسخر؟,what's your favorite childhood book?,اشناهووا احسن كتاب قريتيه فسخر
+test-570,ماعمرك ماسافرتي برا ؟,have you ever traveled abroad?,ماعمرك ماسافرتي برا
+test-571,كايخرس ورد فلجاردا,they're planting flowers in the garden,كايخرس ورد فلجاردا
+test-572,كيكتاشف واحد لخابا قريبا ليه,he's exploring a nearby forest,كيكتاشف واحد لخابا قريبا ليه
+test-573,مبلانين يشوفو واحد لفيلم فليل,they're planning a movie night,مبلانين يشوفو واحد لفيلم فليل
+test-574,إنا أخاني كيعجبك تسمع ليهوم معا سحابك ؟,what songs do you enjoy listening to with friends?,انا اخاني كيعجبك تسمع ليهوم معا سحابك
+test-575,ماعمرك ماشاركتي فشي ماتش رييادي خايري ؟,have you ever participated in a sports charity match?,ماعمرك ماشاركتي فشي ماتش رييادي خايري
+test-576,تانختارو شي اليلا نتفرجو فيها فشي فيلم، راني موجد ليستا ديال لفيلمات,"let's plan a movie night soon, i've got a list of must watch films",تانختارو شي اليلا نتفرجو فيها فشي فيلم راني موجد ليستا ديال لفيلمات
+test-577,توحشت لييام لي كان همي هووا نكمل تامارين فوقتهوم,i miss the days when our biggest worry was finishing homework on time,توحشت لييام لي كان همي هووا نكمل تامارين فوقتهوم
+test-578,كون خير عرفت فاكك كيفكرو لحاياوانات ديالي,i wish i could understand what my pets are thinking,كون خير عرفت فاكك كيفكرو لحاياوانات ديالي
+test-579,ماكرهكتش تكون عندي شي ماشين نرجع بيها لوقت باش نعتي ناساإح لراسي,i wish i had a time machine to give advice to my younger self,ماكرهكتش تكون عندي شي ماشين نرجع بيها لوقت باش نعتي ناسااح لراسي
+test-580,أنا مقتانع لڭلاس إقدر إقاد حتا أسعاب نهارات,i'm convinced that ice cream can mend even the toughest days,انا مقتانع لڭلاس اقدر اقاد حتا اسعاب نهارات
+test-581,واش عندك شي بلاسا كاتمشي ليها فاش كاتحس براسك ماشي هوا هاداك ؟,is there a place you like going to when feeling uneasy ?,واش عندك شي بلاسا كاتمشي ليها فاش كاتحس براسك ماشي هوا هاداك
+test-582,شنو أكبار عاإق واجهتيه ف حياتك ؟,what is the greatest challenge or struggle you have ever faced?,شنو اكبار عااق واجهتيه ف حياتك
+test-583,شنو هيا أكبار تخاميرا درتي ؟,what is the biggest risk you ever took?,شنو هيا اكبار تخاميرا درتي
+test-584,شنو أخراب حاجا ترات ليك ف حياتك ؟,what is the strangest coincidence that ever happened to you?,شنو اخراب حاجا ترات ليك ف حياتك
+test-585,شنو ل حاجا لي ماكاتحملش والاكين كولشي كاتعجبو ؟,what do you dislike that everyone else seems to like?,شنو ل حاجا لي ماكاتحملش والاكين كولشي كاتعجبو
+test-586,وسف راسك ف تلاتا ديال كلمات,describe yourself in three words,وسف راسك ف تلاتا ديال كلمات
+test-587,قتانعت أنانا سرعنا لفن,i'm convinced that we've mastered art,قتانعت انانا سرعنا لفن
+test-588,فانادارك حفادنا خايعجبوهوم لقيساس لي عجبونا حنا فسخرنا,do you think our grandchildren will be as amused by our childhood stories as we are?,فانادارك حفادنا خايعجبوهوم لقيساس لي عجبونا حنا فسخرنا
+test-589,عقلتي ملي كنا كانداربو و نزربو فلشقا ديال دار باش نشوفو شكون لي خايسالي شقا ديال دار لول,remember when we'd compete to see who could finish their chores first?,عقلتي ملي كنا كانداربو و نزربو فلشقا ديال دار باش نشوفو شكون لي خايسالي شقا ديال دار لول
+test-590,جربت وسفا جديدا لعشا,i tried a new recipe for dinner,جربت وسفا جديدا لعشا
+test-591,إسلاح ديال ديور زوين,home improvement projects are fun,اسلاح ديال ديور زوين
+test-592,واش هاد لرپدويت عندو شي ڭارانتي ولا والو ؟,is this product covered under any warranty or return policy?,واش هاد لرپدويت عندو شي ڭارانتي ولا والو
+test-593,تقدر توريني فين جا لرايون ديال دكشي ديال لحاياوانات ؟,can you guide me to the section with pet supplies and accessories?,تقدر توريني فين جا لرايون ديال دكشي ديال لحاياوانات
+test-594,نيت بجوج نرتاحو,we both could use a little break,نيت بجوج نرتاحو
+test-595,تقدر تشرح لينا لخوتا لي درتوها باش تستاخلو نيقات دعف ديال لخاسم ؟,can you talk about the strategies your team employed to exploit the opponent's weaknesses?,تقدر تشرح لينا لخوتا لي درتوها باش تستاخلو نيقات دعف ديال لخاسم
+test-596,تلاقين معا خاسم قاسح,we faced a tough opponent,تلاقين معا خاسم قاسح
+test-597,سالام عقلتي علا هاداك سفر ديال لسايف لي فات ؟,"hey, do you remember that trip we took last summer?",سالام عقلتي علا هاداك سفر ديال لسايف لي فات
+test-598,حسيت بحالا تحقق لييا لحولم ديالي,it felt like a wish come true,حسيت بحالا تحقق لييا لحولم ديالي
+test-599,ناري كانتسنا خير إمتا يجي سفر جاي,i'm really looking forward to our next trip,ناري كانتسنا خير امتا يجي سفر جاي
+test-600,لي سمعت راهوم كيخلتو ماداقات ديال لماكلا ديلا بولدان كتيرا ؟,i've heard they combine flavors from different cuisines,لي سمعت راهوم كيخلتو ماداقات ديال لماكلا ديلا بولدان كتيرا

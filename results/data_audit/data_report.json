@@ -1,0 +1,273 @@
+{
+  "args": {
+    "input": "data/raw/sentences.csv",
+    "out_dir": "data/processed",
+    "seed": 42,
+    "val_frac": 0.05,
+    "test_frac": 0.05,
+    "min_words": 1,
+    "max_words": 60,
+    "max_latin_ratio": 0.0,
+    "ratio_mad_k": 5.0,
+    "ratio_min_chars": 12,
+    "cross_ratio": 2.5,
+    "max_variants": 0,
+    "normalize_alef": false
+  },
+  "raw": {
+    "n_rows": 87785,
+    "missing_eng": {
+      "count": 75042,
+      "rate": 0.8548385259440678
+    },
+    "missing_darija": {
+      "count": 0,
+      "rate": 0.0
+    },
+    "missing_darija_ar": {
+      "count": 0,
+      "rate": 0.0
+    },
+    "rows_with_eng_and_darija_ar": 12743,
+    "rows_with_darija_ar_but_no_eng": 75042,
+    "rows_with_eng_but_no_darija_ar": 0,
+    "exact_duplicate_rows": 75,
+    "duplicate_english_strings": 1199,
+    "duplicate_eng_darija_ar_pairs": 336,
+    "script_distribution_eng": {
+      "latin": 12743
+    },
+    "words_per_sentence_eng": {
+      "mean": 5.8406968531742915,
+      "min": 1.0,
+      "p5": 1.0,
+      "p25": 3.0,
+      "p50": 5.0,
+      "p75": 7.0,
+      "p95": 13.0,
+      "p99": 17.0,
+      "max": 38.0
+    },
+    "script_distribution_darija": {
+      "latin": 87783,
+      "mixed": 2
+    },
+    "words_per_sentence_darija": {
+      "mean": 4.229389986899812,
+      "min": 1.0,
+      "p5": 2.0,
+      "p25": 3.0,
+      "p50": 4.0,
+      "p75": 5.0,
+      "p95": 8.0,
+      "p99": 11.0,
+      "max": 29.0
+    },
+    "script_distribution_darija_ar": {
+      "arabic": 87476,
+      "mixed": 309
+    },
+    "words_per_sentence_darija_ar": {
+      "mean": 4.229389986899812,
+      "min": 1.0,
+      "p5": 2.0,
+      "p25": 3.0,
+      "p50": 4.0,
+      "p75": 5.0,
+      "p95": 8.0,
+      "p99": 11.0,
+      "max": 29.0
+    }
+  },
+  "funnel": [
+    {
+      "step": "raw_rows",
+      "removed": 0,
+      "remaining": 87785
+    },
+    {
+      "step": "missing_english",
+      "removed": 75042,
+      "remaining": 12743
+    },
+    {
+      "step": "missing_darija_arabic",
+      "removed": 0,
+      "remaining": 12743
+    },
+    {
+      "step": "english_contains_arabic_letters",
+      "removed": 0,
+      "remaining": 12743
+    },
+    {
+      "step": "english_has_no_latin_letters",
+      "removed": 0,
+      "remaining": 12743
+    },
+    {
+      "step": "english_contains_chat_digit_word",
+      "removed": 4,
+      "remaining": 12739
+    },
+    {
+      "step": "target_has_no_arabic_letters",
+      "removed": 0,
+      "remaining": 12739
+    },
+    {
+      "step": "target_latin_ratio_above_threshold",
+      "removed": 5,
+      "remaining": 12734
+    },
+    {
+      "step": "url_or_email",
+      "removed": 0,
+      "remaining": 12734
+    },
+    {
+      "step": "length_out_of_range",
+      "removed": 0,
+      "remaining": 12734
+    },
+    {
+      "step": "length_ratio_outlier",
+      "removed": 4,
+      "remaining": 12730
+    },
+    {
+      "step": "digit_letter_corruption_in_target",
+      "removed": 12,
+      "remaining": 12718
+    },
+    {
+      "step": "digit_mismatch",
+      "removed": 1,
+      "remaining": 12717
+    },
+    {
+      "step": "latin_vs_arabic_darija_wordcount_mismatch",
+      "removed": 0,
+      "remaining": 12717
+    },
+    {
+      "step": "empty_key_after_normalisation",
+      "removed": 0,
+      "remaining": 12717
+    },
+    {
+      "step": "duplicate_pair_after_normalisation",
+      "removed": 509,
+      "remaining": 12208
+    }
+  ],
+  "clean_pairs": 12208,
+  "clean_alignment_diagnostics": {
+    "english_ends_with_question_mark_but_target_has_no_arabic_qmark": 0.016218872870249017,
+    "pairs_per_english": {
+      "mean": 1.0950843200574094,
+      "min": 1.0,
+      "p5": 1.0,
+      "p25": 1.0,
+      "p50": 1.0,
+      "p75": 1.0,
+      "p95": 2.0,
+      "p99": 3.0,
+      "max": 10.0
+    }
+  },
+  "splits": {
+    "train": {
+      "pairs": 11003,
+      "unique_english": 10034,
+      "unique_targets": 10788,
+      "src_words": {
+        "mean": 5.988912114877761,
+        "min": 1.0,
+        "p5": 2.0,
+        "p25": 4.0,
+        "p50": 5.0,
+        "p75": 7.0,
+        "p95": 13.0,
+        "p99": 17.0,
+        "max": 38.0
+      },
+      "tgt_words": {
+        "mean": 4.442333908933927,
+        "min": 1.0,
+        "p5": 1.0,
+        "p25": 2.0,
+        "p50": 4.0,
+        "p75": 6.0,
+        "p95": 10.0,
+        "p99": 14.0,
+        "max": 29.0
+      },
+      "pairs_per_english_mean": 1.0965716563683476
+    },
+    "val": {
+      "pairs": 604,
+      "unique_english": 557,
+      "unique_targets": 603,
+      "src_words": {
+        "mean": 6.137417218543046,
+        "min": 1.0,
+        "p5": 2.0,
+        "p25": 4.0,
+        "p50": 5.0,
+        "p75": 7.0,
+        "p95": 13.0,
+        "p99": 18.970000000000027,
+        "max": 23.0
+      },
+      "tgt_words": {
+        "mean": 4.518211920529802,
+        "min": 1.0,
+        "p5": 2.0,
+        "p25": 2.0,
+        "p50": 4.0,
+        "p75": 6.0,
+        "p95": 10.0,
+        "p99": 15.0,
+        "max": 19.0
+      },
+      "pairs_per_english_mean": 1.0843806104129263,
+      "target_string_also_in_train_rate": 0.03642384105960265
+    },
+    "test": {
+      "pairs": 601,
+      "unique_english": 557,
+      "unique_targets": 600,
+      "src_words": {
+        "mean": 6.023294509151414,
+        "min": 1.0,
+        "p5": 2.0,
+        "p25": 4.0,
+        "p50": 5.0,
+        "p75": 7.0,
+        "p95": 13.0,
+        "p99": 17.0,
+        "max": 19.0
+      },
+      "tgt_words": {
+        "mean": 4.502495840266223,
+        "min": 1.0,
+        "p5": 2.0,
+        "p25": 2.0,
+        "p50": 4.0,
+        "p75": 6.0,
+        "p95": 10.0,
+        "p99": 13.0,
+        "max": 18.0
+      },
+      "pairs_per_english_mean": 1.0789946140035906,
+      "target_string_also_in_train_rate": 0.02329450915141431
+    },
+    "english_key_overlap": {
+      "train_val": 0,
+      "train_test": 0,
+      "val_test": 0
+    }
+  },
+  "mono_darija_sentences_for_tokenizer": 74335
+}

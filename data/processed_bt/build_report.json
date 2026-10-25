@@ -1,0 +1,8 @@
+{
+  "real_pairs": 11003,
+  "real_upsample": 1,
+  "synthetic_pairs": 32669,
+  "total_train_pairs": 43672,
+  "synthetic_share": 0.7480536728338524,
+  "tagged": true
+}

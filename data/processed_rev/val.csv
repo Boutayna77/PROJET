@@ -1,0 +1,605 @@
+id,src,tgt,group
+val-0,تايباليا غانمشي!,I think I'm going to leave!,تايباليا غانمشي
+val-1,والاكين غانجاوب عليهوم فل أوقات ت لخدما,But I will only answer them during working hours,والاكين غانجاوب عليهوم فل اوقات ت لخدما
+val-2,والاكين أنا ماعندي التا حاجا نحتافل بيها,but I don't have anything to celebrate,والاكين انا ماعندي التا حاجا نحتافل بيها
+val-3,أش باليك؟,what do you think?,اش باليك
+val-4,أه والاكين الترجاما كانت غالطا,Yes but the translation was wrong,اه والاكين الترجاما كانت غالطا
+val-5,بسلاما,Good-bye,بسلاما
+val-6,الله إسعد الصاباح أ شريف.,"Good morning, sir.",الله اسعد الصاباح ا شريف
+val-7,صافي قنعتيني,"Okay, you convinced me",صافي قنعتيني
+val-8,كانحس براسي بيخير,I feel very good,كانحس براسي بيخير
+val-9,واش متيقن؟,Are you sure?,واش متيقن
+val-10,عرفتي شنو، من لبلاصا مناش طحنا، ماكاينش شي فرق كبير,"You know, from where we fall, it doesn't make much difference",عرفتي شنو من لبلاصا مناش طحنا ماكاينش شي فرق كبير
+val-11,والاكين الشراب إمكن فيكرا مزيانا,But drinking is probably a good idea,والاكين الشراب امكن فيكرا مزيانا
+val-12,أه، هادشي زين,"Oh, that's cool",اه هادشي زين
+val-13,تعطلتي ليوم تاني. شنو لعودر ديالك ليوم؟,You're late again. What is your excuse today?,تعطلتي ليوم تاني شنو لعودر ديالك ليوم
+val-14,كايبان بحالا كان عندك موشكيل معا ل أسإلا,You seem to have had difficulty with the equations,كايبان بحالا كان عندك موشكيل معا ل اسالا
+val-15,أ تلقنا,Hurry up,ا تلقنا
+val-16,نسا عليا هادشي,just forget about it,نسا عليا هادشي
+val-17,والاكين مامتيقنش أنا هادشي كافي,"But, I'm not sure that's enough",والاكين مامتيقنش انا هادشي كافي
+val-18,من بعد نمشيو ناكلو فشي بلاصا فلمدينا,then we can eat somewhere in town,من بعد نمشيو ناكلو فشي بلاصا فلمدينا
+val-19,أيه، مرحبا!,"Yes, with pleasure!",ايه مرحبا
+val-20,أخير مرا حاولت ب تيليفوني والاكين ماكانش السينيال أ داك ل بوتون ديال لالارم ماخدمش,Last time I tried my phone but there is no signal and the alarm button didn't work.,اخير مرا حاولت ب تيليفوني والاكين ماكانش السينيال ا داك ل بوتون ديال لالارم ماخدمش
+val-21,أجي نجربو ل بوتون ت لالارم.,Let's try the alarm button.,اجي نجربو ل بوتون ت لالارم
+val-22,كانتسنا هير إمتا نعرف أش مورا هاد لحيط,I can't wait to find out what's behind this wall,كانتسنا هير امتا نعرف اش مورا هاد لحيط
+val-23,واش نتا متءكد؟,Are you sure?,واش نتا متءكد
+val-24,تايبان أناهو وڭفنا.,We appear to have stopped moving.,تايبان اناهو وڭفنا
+val-25,واخا تشرح ليا عافاك أش كاتعني ب 'عادي'؟,Can you please explain what you mean by 'normal'?,واخا تشرح ليا عافاك اش كاتعني ب عادي
+val-26,واش هاد لموشكيل قديم فعاإلتكوم؟,Is there a history of this problem in your family?,واش هاد لموشكيل قديم فعاالتكوم
+val-27,اللا، فلغدا.,"No, for lunch.",اللا فلغدا
+val-28,خاسنا نرجعو فحالنا بلمعقول,We really need to get back,خاسنا نرجعو فحالنا بلمعقول
+val-29,ماعرفتش أش كنا غانديرو بلا لخاريطا,I'm not sure what we can do without the map,ماعرفتش اش كنا غانديرو بلا لخاريطا
+val-30,كايباليا بديت كانحماق!,I think I'm losing my mind!,كايباليا بديت كانحماق
+val-31,أش واقع؟,What's going on?,اش واقع
+val-32,إوا، هدرت معا لواليدا أ لمرا هاد السباح، أ من بعد حطيت صباطي علا برا,"Well, I called my mother and my wife this morning, and then put my shoes outside",اوا هدرت معا لواليدا ا لمرا هاد السباح ا من بعد حطيت صباطي علا برا
+val-33,ف الجيها لخرا من شاريع كاين ل بيرو ديال دوكتور نابيل، طبيب ت الريجيم مومتاز,"Right across the street there's Dr. Nabil's office, he's an excellent diet doctor",ف الجيها لخرا من شاريع كاين ل بيرو ديال دوكتور نابيل طبيب ت الريجيم مومتاز
+val-34,زيد عليها أناهو ساهبي بزاف,"And besides, he's a very good friend of mine",زيد عليها اناهو ساهبي بزاف
+val-35,قشابتو واسعا!,He has a good sense of humor!,قشابتو واسعا
+val-36,لماكلا إقدر تكون عندها أتار كبير علا كيفاش كاتحس، فراسك.,"Food can have a very important effect on how you feel, you know.",لماكلا اقدر تكون عندها اتار كبير علا كيفاش كاتحس فراسك
+val-37,خسهوم إكونو قراب لبعضيياتهوم,They'd need to be very close together,خسهوم اكونو قراب لبعضيياتهوم
+val-38,علاش كاتضن كاتستاحق كتر؟,Why do you think you deserve more?,علاش كاتضن كاتستاحق كتر
+val-39,وجدتي شي موسيقا موناسيبا؟,Have you got some music that will be suitable?,وجدتي شي موسيقا موناسيبا
+val-40,ماغاضرش,It can't hurt,ماغاضرش
+val-41,مامتءكدش شنو كاتقصد والاكين كايباليا غايكونو لبوليس ف الدخلا!!,I am not sure what you mean but I think there could be the police at the entrance!!,مامتءكدش شنو كاتقصد والاكين كايباليا غايكونو لبوليس ف الدخلا
+val-42,ماتخافش!,Don't worry!,ماتخافش
+val-43,إوا تلقنا.,"Well, hurry up.",اوا تلقنا
+val-44,علاش كاين الروز فل پلاكار ألا ماعمرنا خدمناه؟,Why is there rice in the cupboard if we never serve it?,علاش كاين الروز فل پلاكار الا ماعمرنا خدمناه
+val-45,أه شفتهوم. غايكونو كابوس.,Yes I've seen them. They will be a nightmare.,اه شفتهوم غايكونو كابوس
+val-46,ل 5 تلأجيال؟,For 5 generations?,ل 5 تلاجيال
+val-47,ماكرهتش نتسركل شويا فشمش واهد شويا مازال,I'd like to hang out in the sun just a little longer,ماكرهتش نتسركل شويا فشمش واهد شويا مازال
+val-48,صافي، أنا هاني غادي ل قاهوا,"Okay, I'm going to the coffee shop",صافي انا هاني غادي ل قاهوا
+val-49,أ واش مومكين تڭول ل سرباي هادشي؟,And can you tell the waiter that?,ا واش مومكين تڭول ل سرباي هادشي
+val-50,منين نتا؟,where are you from?,منين نتا
+val-51,عييت,I am tired,عييت
+val-52,واش كاتقصد طبصيل,Do you mean dish?,واش كاتقصد طبصيل
+val-53,فواد، شحال من دقيقا باقيا قبل مايوجد الديسير ديال طبلا ربعا؟,"Fouad, how many more minutes before the desserts for table four will be ready?",فواد شحال من دقيقا باقيا قبل مايوجد الديسير ديال طبلا ربعا
+val-54,كانضن هادا لوقت باش نبداو من جديد,I think it's time to start over,كانضن هادا لوقت باش نبداو من جديد
+val-55,واش كاينا شي حاجة شاغلاك؟,Is there something bothering you?,واش كاينا شي حاجة شاغلاك
+val-56,وايه، راه كنت تانفكر فل بوتون ديال لالارم.,"Yeah, I was thinking about the alarm button.",وايه راه كنت تانفكر فل بوتون ديال لالارم
+val-57,ماكانحملش نتعطل تانا، والاكين كانضن ماعندنا مانديرو.,"I hate being late, too, but I guess there's nothing we can do about it.",ماكانحملش نتعطل تانا والاكين كانضن ماعندنا مانديرو
+val-58,يا لاطيف، كيولا مول پيكالا؟,"Oh god, how is the cyclist?",يا لاطيف كيولا مول پيكالا
+val-59,مانڭدش ناكلهوم!,You can't eat them!,مانڭدش ناكلهوم
+val-60,غايخسك تعلم تصنت ليا، ألا غادي نضبر علا واهد أخور.,"You'll have to learn to obey me, or I'll find another one.",غايخسك تعلم تصنت ليا الا غادي نضبر علا واهد اخور
+val-61,ماتهزش لهم,Don't worry,ماتهزش لهم
+val-62,ماكانسمعكش,I can't hear you,ماكانسمعكش
+val-63,مابغيتش نبرزطك,I don't want to bother you,مابغيتش نبرزطك
+val-64,كانخرج من لخدما معا 6,I get off of work at 6,كانخرج من لخدما معا 6
+val-65,عرفت,I know,عرفت
+val-66,دابا نخلص,I'll pay,دابا نخلص
+val-67,أنا كانساوب بيتي,I'm cleaning my room,انا كانساوب بيتي
+val-68,خليني نفكر فيها,let me think about it,خليني نفكر فيها
+val-69,هادشي فايت لقياس,that's too much,هادشي فايت لقياس
+val-70,هادشي موهيم بزاف,this is very important,هادشي موهيم بزاف
+val-71,مبرع، شوكران,"very good, thanks",مبرع شوكران
+val-72,نتي دكيا بزاف,you're very smart,نتي دكيا بزاف
+val-73,نتا دكي بزاف,you're very smart,نتا دكي بزاف
+val-74,إمتا وقع هادشي,when did this happen,امتا وقع هادشي
+val-75,خسني نتريني علا ل'انڭلايس,I need to practice my English,خسني نتريني علا ل انڭلايس
+val-76,هادي التسعود أ ربع,it's a quater past nine,هادي التسعود ا ربع
+val-77,واخا تقتارح عليا شي رستورا زوينا,can you recommend a good restaurant,واخا تقتارح عليا شي رستورا زوينا
+val-78,كنت فلمكتابا,I was in the library,كنت فلمكتابا
+val-79,فل إتاڭ التاني,on the second floor,فل اتاڭ التاني
+val-80,واش واخا نجربها,can I try it on,واش واخا نجربها
+val-81,كاتعسبني شي مرات,You do push my buttons sometimes,كاتعسبني شي مرات
+val-82,تلعات ليا لقردا دابا,I am getting fed up now,تلعات ليا لقردا دابا
+val-83,صاديقا ديالك أتكون هنا فلغاليب، علاش؟,"Your friend will probably be here, why?",صاديقا ديالك اتكون هنا فلغاليب علاش
+val-84,أنكون بوحدي ف بلاد ماكانعرف فيها تاواحد,I'll be all alone in a strange country.,انكون بوحدي ف بلاد ماكانعرف فيها تاواحد
+val-85,والاكين ل أستادا ديالي ديك لوقت كانت كادووز لوقتا ديالها كامل كاتخييت فلقيسم أ ماعمرها شرحات لينا شي حاجا,But my teacher back in school used to spend all her time knitting in class and would never explain anything properly.,والاكين ل استادا ديالي ديك لوقت كانت كادووز لوقتا ديالها كامل كاتخييت فلقيسم ا ماعمرها شرحات لينا شي حاجا
+val-86,ماعمر باتفهم ليا ديك لڭرامير,I just can't get the grammar.,ماعمر باتفهم ليا ديك لڭرامير
+val-87,وايه، لوز كايكونو قباح شي مرات,Yes the swans can be quite aggressive.,وايه لوز كايكونو قباح شي مرات
+val-88,كاندكرك أنا هاد لحيصا ضاروريا.,I remind you that class is required.,كاندكرك انا هاد لحيصا ضاروريا
+val-89,مزيانا ب نيسبا ل شي واحد فعمرو خمسا أ تمانين عام.,Not bad for someone eighty five years old.,مزيانا ب نيسبا ل شي واحد فعمرو خمسا ا تمانين عام
+val-90,أيه، شي كاس ديال لقهوا.,"Yes, I'll have a cup of coffee.",ايه شي كاس ديال لقهوا
+val-91,واش كاتخرج مرا مرا؟,Do you go out once in a while?,واش كاتخرج مرا مرا
+val-92,داكشي موتاناويع.,It is very varied.,داكشي موتاناويع
+val-93,كاندير پيانو مرا مرا.,I do the piano sometimes.,كاندير پيانو مرا مرا
+val-94,ف جاميع لحالات، هادشي كافيني.,"Anyway, that's enough about me.",ف جاميع لحالات هادشي كافيني
+val-95,اللا، نتا ناوي ترحل ل مراكش.,"Not at all, you plan to move to Marrakech.",اللا نتا ناوي ترحل ل مراكش
+val-96,هادي واصفا خاصا.,It's a special recipe.,هادي واصفا خاصا
+val-97,أه هادشي كايفرح، أ مبرع ب نيسبا ل دار لعاجازا,"Oh that does sound good, and quite fancy for a retirement home",اه هادشي كايفرح ا مبرع ب نيسبا ل دار لعاجازا
+val-98,شي 15 ل داقيقا هادي باش شفتها، توحشتها!,"It's been 15 minutes since I've seen her, I miss her!",شي 15 ل داقيقا هادي باش شفتها توحشتها
+val-99,والاكين لحاقيقا أقال رومانسيا - فيها تسماك، نسيان، أ صداع أ ل ألام.,"But the reality is bit less romantic - it's mostly deafness, forgetfulness, and aches and pains.",والاكين لحاقيقا اقال رومانسيا فيها تسماك نسيان ا صداع ا ل الام
+val-100,غادي نشري دكوراسيون!,I'll buy the decorations!,غادي نشري دكوراسيون
+val-101,خود السلا.,Take the basket.,خود السلا
+val-102,ڭولتي عزيز عليك قنيات، ولا اللا؟,"You did say you liked rabbits, didn't you?",ڭولتي عزيز عليك قنيات ولا اللا
+val-103,غادي ناخد السلا إلا كانت عامرا!,I'll take the basket if it's full!,غادي ناخد السلا الا كانت عامرا
+val-104,أ شي شويا ديال طرابش.,And a couple of hats.,ا شي شويا ديال طرابش
+val-105,غادي ناخد لا كارت بانكاير ديالك أ نخلص علينا بجوج أ علا جارنا إلا ماعندكش موشكيل.,I'm just gonna take your credit card and pay for both of us and our next-door neighbor if you don't mind.,غادي ناخد لا كارت بانكاير ديالك ا نخلص علينا بجوج ا علا جارنا الا ماعندكش موشكيل
+val-106,تفرقت معاه!,I left him!,تفرقت معاه
+val-107,غير نوصلو طريق غادي يكون هادشي ساهل.,Once we rach the road it will be easy.,غير نوصلو طريق غادي يكون هادشي ساهل
+val-108,هاني أنمشي نجيب لكارتا دابا,I ll get the cards now,هاني انمشي نجيب لكارتا دابا
+val-109,كايعجبني لا پيسين، والاكين ماغاديش نبقاو هنا لعشيا كاملا!,"I like the pool, but we're not gonna be here all afternoon!",كايعجبني لا پيسين والاكين ماغاديش نبقاو هنا لعشيا كاملا
+val-110,موحال واش كاين أصلان والاكين علا ل أقال أنكونو فوق جبل كانقلبو عليه بلاصت مانبقاو كانتناقشو.,Well he probably doesn't exist but at least we would be up a mountain looking for him instead of having this stupid argument.,موحال واش كاين اصلان والاكين علا ل اقال انكونو فوق جبل كانقلبو عليه بلاصت مانبقاو كانتناقشو
+val-111,نديروها ف الدار؟,Shall we have it at home?,نديروها ف الدار
+val-112,واش عارف شحال كايسوا؟,Do you know how much it costs?,واش عارف شحال كايسوا
+val-113,واش كليتي؟,Have you eaten yet?,واش كليتي
+val-114,هووا عزيز عليه لعاصير والاكين ماكايحملش لحليب,He likes juice but he doesn't like milk,هووا عزيز عليه لعاصير والاكين ماكايحملش لحليب
+val-115,شحال ديال الناس؟,How many people?,شحال ديال الناس
+val-116,كاينا واهد رسطورا لهيه، والاكين ماكانضنش زوينا,"There's a restaurant over there, but I don't think it's very good",كاينا واهد رسطورا لهيه والاكين ماكانضنش زوينا
+val-117,واش نتا ميريكاني؟,Are you American?,واش نتا ميريكاني
+val-118,واش غادي تاخود طيارا ألا تران؟,Are you going to take a plane or train?,واش غادي تاخود طيارا الا تران
+val-119,عجبك لحال هنا؟,Do you like it here?,عجبك لحال هنا
+val-120,هيا كبر مني,She's older than me,هيا كبر مني
+val-121,بغيت نشري واهد لا كارت ديال تيليفون عافاك.,I'd like to buy a phone card please.,بغيت نشري واهد لا كارت ديال تيليفون عافاك
+val-122,واش كايعجبوك الناس لي خدامين معاك؟,Do you like your co-workers?,واش كايعجبوك الناس لي خدامين معاك
+val-123,واش كاتفهم؟,Do you understand?,واش كاتفهم
+val-124,أش درتي الليلا اللي فات؟,What did you do last night?,اش درتي الليلا اللي فات
+val-125,شكون اللي كايضوور؟,Who's calling?,شكون اللي كايضوور
+val-126,واخا تدووز ليا لملحا عافاك؟,Will you pass me the salt please?,واخا تدووز ليا لملحا عافاك
+val-127,طوموبيلتي ماخداماش,My car isn't working,طوموبيلتي ماخداماش
+val-128,هادا كتاب ديالها,That's her book,هادا كتاب ديالها
+val-129,إمتا بغيتي نتلاقاو؟,When would you like to meet?,امتا بغيتي نتلاقاو
+val-130,عندك لحق.,You're right.,عندك لحق
+val-131,وو، كنت كاندن واش غادي تڭول ليا بلي حنا ماحتاجين لحاجات لموهيما!,"Wow, I thought you would tell me that we need the basics!",وو كنت كاندن واش غادي تڭول ليا بلي حنا ماحتاجين لحاجات لموهيما
+val-132,نقدر نغاني أغنييا مودحيكا علا جوتات مايتين، الدود كايدخل أ كايخرج,"I could sing a funny English song about dead bodies, the worms go in and the worms go out",نقدر نغاني اغنييا مودحيكا علا جوتات مايتين الدود كايدخل ا كايخرج
+val-133,أمريكانو؟,Americano?,امريكانو
+val-134,هاها، راك هراستيني!,"Haha, you crack me up!",هاها راك هراستيني
+val-135,كان عندي روتويلر، والاكين تفكيت منو، راه كلا جاري.,"I had a Rottweiler, but I had to get rid of it, he ate my neighbor.",كان عندي روتويلر والاكين تفكيت منو راه كلا جاري
+val-136,ماحسش بسادما؟,Was he not traumatised?,ماحسش بسادما
+val-137,سماحليا سداعتاك,Sorry to bother you,سماحليا سداعتاك
+val-138,أ شوكران علا طرف ديال شوكولاتا,And thank you for the chocolate bar,ا شوكران علا طرف ديال شوكولاتا
+val-139,فدلام، أ فوست ڭاع هاد لغايس ...,"in the dark, and through all that mud ...",فدلام ا فوست ڭاع هاد لغايس
+val-140,يالاه نتحاركو دابا، ألا غادي نبقاو هنا شي يامات!,"let's move now, or we'll be here in a few days!",يالاه نتحاركو دابا الا غادي نبقاو هنا شي يامات
+val-141,أنا ماكنشبهش ليه...,I don't look like him...,انا ماكنشبهش ليه
+val-142,أنا بساح بغيت نخروج شوييا.,I really want to get out a bit.,انا بساح بغيت نخروج شوييا
+val-143,أ كيفاش غادي نوالي نبان,And what would I look like?,ا كيفاش غادي نوالي نبان
+val-144,أجي دغيا.,come over as soon as you can.,اجي دغيا
+val-145,دجاج؟,Chickens?,دجاج
+val-146,ماتقالقش.,Don't worry.,ماتقالقش
+val-147,لا، راه غير نوكتا.,"No, it's a joke.",لا راه غير نوكتا
+val-148,ألا بغيتي تاستافاد من لماوقيف باش تدوز واقت مازيان معا بعضياتنا أبلا إعتيداء,Or do you want to take advantage of the situation to have a good time together and without aggression?,الا بغيتي تاستافاد من لماوقيف باش تدوز واقت مازيان معا بعضياتنا ابلا اعتيداء
+val-149,غادي تسوا لملاين,It would cost millions,غادي تسوا لملاين
+val-150,مودهيش,Amazing.,مودهيش
+val-151,خاساك تبدا تغاوت معايا باش نعايتو علا 911,You should start screaming with me to call 911.,خاساك تبدا تغاوت معايا باش نعايتو علا 911
+val-152,بغاو يواكلو لباط لبيسكوي؟,They want to feed the ducks with cookies?,بغاو يواكلو لباط لبيسكوي
+val-153,فواقت باكري من لمووسيم ڭاع ل أزواج تل باط باقي عندهوم بزاف تل فراخ ديال لباط,Early in the season all of the mating pairs still have lots of ducklings,فواقت باكري من لمووسيم ڭاع ل ازواج تل باط باقي عندهوم بزاف تل فراخ ديال لباط
+val-154,كايعاجبوني لفكارن بزاف,I like turtles a lot!,كايعاجبوني لفكارن بزاف
+val-155,أ لباجاع عودواني بزاف فهاد لواقت من لعام,And swans are very aggressive this time of year,ا لباجاع عودواني بزاف فهاد لواقت من لعام
+val-156,كولشي كايعاجبوه لفكارن!,Everyone likes turtles!,كولشي كايعاجبوه لفكارن
+val-157,بعد لمارات كايكونو محضوضين أ كاياخدو كلييب ولا قطا فبلاستهوم,Sometimes they are lucky and get a small dog or cat instead,بعد لمارات كايكونو محضوضين ا كاياخدو كلييب ولا قطا فبلاستهوم
+val-158,والاكين مابغيتش ندير دورات,But I don't want to do laps.,والاكين مابغيتش ندير دورات
+val-159,كانبني لقيلاع راملييا أ كاناكول پولو أ كانمشي نتنازاه كيف ڭلت,"I build sand castles eat lollies and go for walks, as I said.",كانبني لقيلاع راملييا ا كاناكول پولو ا كانمشي نتنازاه كيف ڭلت
+val-160,غادي تجيب لينا شي مشروبات؟,Will you get us some drinks?,غادي تجيب لينا شي مشروبات
+val-161,أه، أي حاجا كاتباعاد علا هاد لماسباح خامسا دقايق,"Yes, anything to get away from this poolside for five minutes",اه اي حاجا كاتباعاد علا هاد لماسباح خامسا دقايق
+val-162,جيب لييا قاهوا، عافاك!,"Get me a coffee, please!",جيب لييا قاهوا عافاك
+val-163,واخا، واحاد قهوا، جوج من ڤودكا أ مارتيني جايين,"Ok, one coffee, two vodka shots and a Martini coming up",واخا واحاد قهوا جوج من ڤودكا ا مارتيني جايين
+val-164,هادشي كايبان مازيان,That sounds nice,هادشي كايبان مازيان
+val-165,كانضن غادي إكونو ميا أعشرين.,I think they'll be a hundred and twenty.,كانضن غادي اكونو ميا اعشرين
+val-166,واش خراجتي من توموبيل ديالنا باش تشاد تراين,You dropped out of our car to catch the train?,واش خراجتي من توموبيل ديالنا باش تشاد تراين
+val-167,كانضن بلي غادي إكون غالي باش تسلاحها,I think it is going to be expensive to fix,كانضن بلي غادي اكون غالي باش تسلاحها
+val-168,إدان، راه عيد ميلادي سيمانا جايا، أبغيت ندير حفلا كبيرا.,"So, it's my birthday next week, and I'd like to throw a big party!",ادان راه عيد ميلادي سيمانا جايا ابغيت ندير حفلا كبيرا
+val-169,داري ماكبيراش بزاف,my place it's not big enough,داري ماكبيراش بزاف
+val-170,غاليبان فات عليك لحال باش تكري شي بيت,It's probably too late to rent a room,غاليبان فات عليك لحال باش تكري شي بيت
+val-171,هاداك ديسكو كتر من بار، والاكين خسك تكون قادر ت رسرڤي شي بلاصا,"It's more of a pub than a bar, but you should be able to book a space",هاداك ديسكو كتر من بار والاكين خسك تكون قادر ت رسرڤي شي بلاصا
+val-172,لا، أنا ماشي بيخير.,"No, I'm not.",لا انا ماشي بيخير
+val-173,فيكرا مزيانا، أصليا، غادي نتستامتاعو بيها.,"It's a good idea, original, which will probably enjoy our living.",فيكرا مزيانا اصليا غادي نتستامتاعو بيها
+val-174,مفرڭع!,Fabulous!,مفرڭع
+val-175,أ ستاكشفنا لباراكين ف لجازيرا، تكينا ف راملا ديال لبحار أتماتاعنا بلغوروب .,"We explored the volcanoes on the island, lay on the beach and enjoyed the sunsets.",ا ستاكشفنا لباراكين ف لجازيرا تكينا ف راملا ديال لبحار اتماتاعنا بلغوروب
+val-176,أ فين غادي تعيش دابا؟,And where are you going to live now?,ا فين غادي تعيش دابا
+val-177,أش كايدير راجلاك؟,What does your husband do?,اش كايدير راجلاك
+val-178,ألي كيفاش راك كاتولف فشاريكا؟,So Ali how are you settling in at the company?,الي كيفاش راك كاتولف فشاريكا
+val-179,كانضن بغا ياهدار علا ترقييا ديالي,I think he wants to talk about my promotion,كانضن بغا ياهدار علا ترقييا ديالي
+val-180,حنا محبوسين,We're blocked,حنا محبوسين
+val-181,هاد أسسنسور كايخسر بزاف أ ل ألارم ماكايخدامش,This lift often breaks and the alarm bell does not work,هاد اسسنسور كايخسر بزاف ا ل الارم ماكايخدامش
+val-182,كانتمناو نلقاو بزاربا بيلا شي حاجا ماشي عادييا واقعا,"Hopefully, we'll soon find out there's something unusual going on.",كانتمناو نلقاو بزاربا بيلا شي حاجا ماشي عادييا واقعا
+val-183,تشاجاع، لموساعادا جايا,"Courage, help is coming!",تشاجاع لموساعادا جايا
+val-184,مرحبا، ساعا ساعيدا ملي شفناك، راك عارف.,"Please, it's always nice to see you, you know.",مرحبا ساعا ساعيدا ملي شفناك راك عارف
+val-185,كيدازت ريحلا ديالك؟,How was your journey?,كيدازت ريحلا ديالك
+val-186,كان كايهدار معا ساحبو أ هووا كايتمشا معا كلبو,He was talking to a friend while walking his dog,كان كايهدار معا ساحبو ا هووا كايتمشا معا كلبو
+val-187,فين تعالامتي دير هادشي؟,Where did you learn to do that?,فين تعالامتي دير هادشي
+val-188,كانو تما شي شوييا,There were a few,كانو تما شي شوييا
+val-189,واش نتا مهتام بعيلم لماعادين؟,Are you interested in mineralogy?,واش نتا مهتام بعيلم لماعادين
+val-190,والاكين عاود لييا علا نهارك,"But, tell me about your day.",والاكين عاود لييا علا نهارك
+val-191,أه، بتاعريف,Yes--by definition.,اه بتاعريف
+val-192,كايخاليك تافهام لحاضير أ تواجاد لموستاقبال كا طاليب ديال لماضي,It allows you to understand the present and prepare the future as a student of the past.,كايخاليك تافهام لحاضير ا تواجاد لموستاقبال كا طاليب ديال لماضي
+val-193,ماكاتبهراكش حاضارتك لقديما؟,"And it doesn't fascinate you, ancient civilizations?",ماكاتبهراكش حاضارتك لقديما
+val-194,أ بلاستها بناو أروپا,And they built Europe instead,ا بلاستها بناو اروپا
+val-195,واش غانحتاج ديپلوم باش نلقا خدما؟,Do I need a Degree to get a job?,واش غانحتاج ديپلوم باش نلقا خدما
+val-196,خاسك تقلب مزيان,You should look into it,خاسك تقلب مزيان
+val-197,غادي ناغسال يادي دابا!,I'll wash my hands right now!,غادي ناغسال يادي دابا
+val-198,مغاديش تانقاس من لماداق,it won't detract from the flavour,مغاديش تانقاس من لماداق
+val-199,كاين بزاف ديال فرايس طازاج، ياقدار نبداو نحاتوها ف سوكار أ شي ماشروبات كوحولييا,"There are plenty of fresh strawberries, perhaps you could start by mascerating them in sugar and some liqueur",كاين بزاف ديال فرايس طازاج ياقدار نبداو نحاتوها ف سوكار ا شي ماشروبات كوحولييا
+val-200,أنا شافت لمدينا أ مانباهرتش بزاف,I've seen the town and I'm not impressed.,انا شافت لمدينا ا مانباهرتش بزاف
+val-201,كايجيني داكشي مجبد بزاف أ ماتقدارش تايقو,I find many of them just too far fetched to be believable.,كايجيني داكشي مجبد بزاف ا ماتقدارش تايقو
+val-202,كايبغيو نيت ياكلو جلبانا مجامدا,They really like eating frozen peas,كايبغيو نيت ياكلو جلبانا مجامدا
+val-203,واش كايبغيو حوايج خرين؟,Do they like other things?,واش كايبغيو حوايج خرين
+val-204,والاكين دابا منين فكارت فيها، كاتجيني لقاهوا كاتردها حسن ڭاع.,"But now that I think about it, I think that coffee makes it even better.",والاكين دابا منين فكارت فيها كاتجيني لقاهوا كاتردها حسن ڭاع
+val-205,أنا مسترسي شويا دابا,I am pretty stressed out right now,انا مسترسي شويا دابا
+val-206,مابغيتش نصادعاك,I don't want to bother you,مابغيتش نصادعاك
+val-207,واش بغيتي مني نحاياد سباط؟,Would you like me to take my shoes off?,واش بغيتي مني نحاياد سباط
+val-208,واش مافيكش سخونييا؟,Aren't you hot?,واش مافيكش سخونييا
+val-209,واش حتا نتا كاتسماع ليهوم مورا لحيوط؟,Do you listen to them through the walls too?,واش حتا نتا كاتسماع ليهوم مورا لحيوط
+val-210,هوا ل أستاد ديال رييادييات ديالك، ياك؟,"He's your maths teacher, right?",هوا ل استاد ديال رييادييات ديالك ياك
+val-211,راه كايخاطو كاملين باش ماتخراج حتا ماعلوما,They're plotting together in order not to let any of the information escape,راه كايخاطو كاملين باش ماتخراج حتا ماعلوما
+val-212,كانخادمو باش نتفرج ف تلفازا أ لقرايا ت لكتوبا,I use it for watching TV and reading books,كانخادمو باش نتفرج ف تلفازا ا لقرايا ت لكتوبا
+val-213,راه وراني كيفاش كاتخدم,He showed me how it works,راه وراني كيفاش كاتخدم
+val-214,مالك كاتبان حازين بزاف؟,why do you look so down in the dumps?,مالك كاتبان حازين بزاف
+val-215,كانطالب ب حتيرام موتابادال ف زواج,I demand mutual respect in a marriage,كانطالب ب حتيرام موتابادال ف زواج
+val-216,والاكين إمكان ليا بصاح نستاعمل شوييا تلموساعادا ف باش نلبسو أنصاوبو,But I could really use some help wearing it and set it up,والاكين امكان ليا بصاح نستاعمل شوييا تلموساعادا ف باش نلبسو انصاوبو
+val-217,كاين واهد كانعارفو فيه بزاف ديال لواشوم، زيف علا عينيه، أباباغء علا كاتفو,"There's one I know with lots of tattoos, a patch on his eye, and a parrot on his shoulder",كاين واهد كانعارفو فيه بزاف ديال لواشوم زيف علا عينيه اباباغء علا كاتفو
+val-218,واش هادشي ماشي غاريب شوييا؟,Isn't that a bit weird?,واش هادشي ماشي غاريب شوييا
+val-219,واش هادشي ماشي فشكل شوييا؟,Isn't that a bit weird?,واش هادشي ماشي فشكل شوييا
+val-220,حيت إمكان أيخاسني ناكول شي حاجة,as perhaps I should eat something,حيت امكان ايخاسني ناكول شي حاجة
+val-221,إمكن خسني ندي لكليان ديالي لبلاصا خرا,I might have to take my customer elsewhere,امكن خسني ندي لكليان ديالي لبلاصا خرا
+val-222,باش كاتنصاحني؟,what can you advise me?,باش كاتنصاحني
+val-223,دوي معا شف ديالك أشوف واش إقدرو إعاونوك,speak to your manager and see if they can help you,دوي معا شف ديالك اشوف واش اقدرو اعاونوك
+val-224,كانءملو لمودير ديالك إقدر داكشي,Hopefully your boss will be able to appreciate that,كانءملو لمودير ديالك اقدر داكشي
+val-225,ماعطانيش واقت باش نشراح لواضع ديالي,He didn't give me time to explain my situation,ماعطانيش واقت باش نشراح لواضع ديالي
+val-226,لپيانو شي حاجا كبيرا,A piano is a big thing,لپيانو شي حاجا كبيرا
+val-227,إمكان ليه إلاڭيك بشي موءساسا خيريا,He could certainly put you in touch with a charity,امكان ليه الاڭيك بشي موءساسا خيريا
+val-228,كانتمنا نقدر نرجع قاريبان,I hope I can come back soon,كانتمنا نقدر نرجع قاريبان
+val-229,عندي شي طريفات,I have a few slices,عندي شي طريفات
+val-230,كايغنيو بشاكال زوين بزاف,They sing beautifully,كايغنيو بشاكال زوين بزاف
+val-231,بغيت نمشي ل أرجونتين أنشوف كوندورس,I'd like to go to Argentina and see the condors,بغيت نمشي ل ارجونتين انشوف كوندورس
+val-232,غادي تلقا تما حاياونات كتار من هاد لمشاش!,You'll find more animals there than those cats!,غادي تلقا تما حاياونات كتار من هاد لمشاش
+val-233,أش بان ليك؟,what do you think?,اش بان ليك
+val-234,هوا كايعتاقد بلي تعطي لخوبز لمشاش ماشي مازيان ليهوم,He believes that giving cats bread is not good for them,هوا كايعتاقد بلي تعطي لخوبز لمشاش ماشي مازيان ليهوم
+val-235,إلا تواسلنا إقدار إجيو إتغداو.,"If we reach out, maybe they'll come for lunch.",الا تواسلنا اقدار اجيو اتغداو
+val-236,راه جاو,they came over,راه جاو
+val-237,واخا، غادي نقلاب علا الناس أ نرجاع!,"All right, I'll look for people and I'll be right back!",واخا غادي نقلاب علا الناس ا نرجاع
+val-238,بحالا أنا ف لموحاكاما,More like me being on trial,بحالا انا ف لموحاكاما
+val-239,علا من كانتي كاتجاساس؟,Who were you spying on?,علا من كانتي كاتجاساس
+val-240,هي، نتا، واش يالاه دخلتي لحاي؟,"Hey, you, did you just get in the neighborhood?",هي نتا واش يالاه دخلتي لحاي
+val-241,ملي قالتي تابلا عاديا، كنت كاندان واش كنت ڭالس ف تابلا ديال شي وهاد أخور,When you said regular table I thought I was sitting at another customer's regular table,ملي قالتي تابلا عاديا كنت كاندان واش كنت ڭالس ف تابلا ديال شي وهاد اخور
+val-242,طابعان، غادي نجيب لبيرا,"Sure, I'll bring the beer",طابعان غادي نجيب لبيرا
+val-243,عاود لييا علا نهارك,Tell me about your day,عاود لييا علا نهارك
+val-244,غادي تكون مومتيعا,It'll be fun!,غادي تكون مومتيعا
+val-245,غادوز زاهيا,It'll be fun!,غادوز زاهيا
+val-246,علاش غادي نحشم؟,Why would I be ashamed?,علاش غادي نحشم
+val-247,عاندا شي أطباق خاصا,We have some special plates,عاندا شي اطباق خاصا
+val-248,أنا ماجيعانش ساراحا,I'm not that hungry actually,انا ماجيعانش ساراحا
+val-249,أنا مافياش جوع بزاف ساراحا,I'm not that hungry actually,انا مافياش جوع بزاف ساراحا
+val-250,واش تاقدار تڭولييا كيفاش نقادها؟,Could you tell me how to make it,واش تاقدار تڭولييا كيفاش نقادها
+val-251,واش كاتهدار اللوغا؟,Do you speak the language?,واش كاتهدار اللوغا
+val-252,سبت 11 يونيو,Saturday 11 June?,سبت 11 يونيو
+val-253,واش هادشي بساح؟,Is that right?,واش هادشي بساح
+val-254,عيد ميلادك موهيم والاكين كانتافاق معاك علا أنو ماخاساكش تخسار بزاف ديال لفلوس باش تقاد حافلا زوينا,Your birthday is important but I agree you don't have to spend a lot to make a great party,عيد ميلادك موهيم والاكين كانتافاق معاك علا انو ماخاساكش تخسار بزاف ديال لفلوس باش تقاد حافلا زوينا
+val-255,خلينا غير نبقاو ف روكك,Let's just stay rock,خلينا غير نبقاو ف روكك
+val-256,پوپ أيكون مباراع,pop will be great,پوپ ايكون مباراع
+val-257,لا، هادي ماشي لمارا لاولا ليكانسافار بيها ف طايارا، والاكين مازال كانحاس بتاواتور كبير,"No, it's not my first time flying, but I still get extremely anxious",لا هادي ماشي لمارا لاولا ليكانسافار بيها ف طايارا والاكين مازال كانحاس بتاواتور كبير
+val-258,حيت غادي تسافار فساعا ديال زحام,because she will be travelling through rush hour,حيت غادي تسافار فساعا ديال زحام
+val-259,حيت إلا كان شي توقب فلهايكال، راه موحتامال نموتو قاريبان,"cause if there's a hole in the hull, we'll probably be dead soon",حيت الا كان شي توقب فلهايكال راه موحتامال نموتو قاريبان
+val-260,واش كافيين تباسل أ لكيسان لي عندك؟,Do you have enough plates and galsses?,واش كافيين تباسل ا لكيسان لي عندك
+val-261,لا، ماخاسناش نعاقدو لأمور بشي ماودوع,"No, there's no need to complicate things with a theme",لا ماخاسناش نعاقدو لامور بشي ماودوع
+val-262,أنا كانفاضال غير نڭلاس سافي,I'd prefer to just sit,انا كانفاضال غير نڭلاس سافي
+val-263,خاسنا نخورجو من هنا!,We have got to get out of here!,خاسنا نخورجو من هنا
+val-264,باتري ديال تيليفونك ناقسا بزاف,Your phone is very low in battery,باتري ديال تيليفونك ناقسا بزاف
+val-265,منيمتا أ حنا كانمشيو فهاد طريق؟,How long have we walked on this path?,منيمتا ا حنا كانمشيو فهاد طريق
+val-266,أه، والاكين خلينا نحافضو عليها,"Yes, but let's save it",اه والاكين خلينا نحافضو عليها
+val-267,واش ڭلتي ليها هادشي,Did you tell her that?,واش ڭلتي ليها هادشي
+val-268,أه أ أنا كانجيب لفلوس,Yes and I'm bringing in the money,اه ا انا كانجيب لفلوس
+val-269,ماتيحش,Don't fall in,ماتيحش
+val-270,شوكران ليك، راه تعاكالت!,"Thank you, I tripped!",شوكران ليك راه تعاكالت
+val-271,أه، أنا ماكانمشيش حدا لغابا,Oh I never go near the woods,اه انا ماكانمشيش حدا لغابا
+val-272,تلافت تريق ديالي,I've lost my way,تلافت تريق ديالي
+val-273,تلافت علا تريق,I've lost my way,تلافت علا تريق
+val-274,واش نتا متأكاد؟,Are you sure?,واش نتا متاكاد
+val-275,لا، نتا أتحاج ليها حطا نتا,"No, you need it, too",لا نتا اتحاج ليها حطا نتا
+val-276,أ ميمتي هادشي غايخلق موشكيل,Oh dear that will be a problem,ا ميمتي هادشي غايخلق موشكيل
+val-277,هادا عامال جاماعي,it's a team effort,هادا عامال جاماعي
+val-278,عندي بزاف ديال لماواعيد ت ل أساتيدا لخرين,I have a lot of deadlines from other teachers,عندي بزاف ديال لماواعيد ت ل اساتيدا لخرين
+val-279,تجاهلني إلا بديت نتنافاس,ignore me if I start over breathing,تجاهلني الا بديت نتنافاس
+val-280,مايمكنش ليا حتا نبين بلي داكشي ماكايوقاعش!,I can't even pretend it's not happening!,مايمكنش ليا حتا نبين بلي داكشي ماكايوقاعش
+val-281,واش كادان بلي هادا إمكان إلعاب شي داور فهادشي كاملو؟,Do you think that could play a part in all this?,واش كادان بلي هادا امكان العاب شي داور فهادشي كاملو
+val-282,أعاز وحدا عندي هيا ڤانيلا,My favourite is vanilla,اعاز وحدا عندي هيا ڤانيلا
+val-283,أيخسني نڭول بلي لخلسا مامزياناش هنا,I have to say that the pay isn't great here,ايخسني نڭول بلي لخلسا مامزياناش هنا
+val-284,شكون عرف,who knows,شكون عرف
+val-285,نقدرو مازال نوصلو ل إجتيماع فلواقت!,we might even still be able to make the meeting on time!,نقدرو مازال نوصلو ل اجتيماع فلواقت
+val-286,ويناقشو معاك لفلوس,And discuss the financial aspect,ويناقشو معاك لفلوس
+val-287,هادشي كايبان هوا هاداك,That sounds perfect,هادشي كايبان هوا هاداك
+val-288,هوا راه ماشي سيحي فلكوزينا,it is not hygienic in the kitchen,هوا راه ماشي سيحي فلكوزينا
+val-289,نتا غي كايتفلاو عليك,You are deluded,نتا غي كايتفلاو عليك
+val-290,غادي ناخود شوييا منهوم,I'll have some of those then,غادي ناخود شوييا منهوم
+val-291,غادي نجيب ليك لماكلا ديالك,I'll get you your food,غادي نجيب ليك لماكلا ديالك
+val-292,عافاك، غادي ناعتيه ليك,"Please, I'll give it to you",عافاك غادي ناعتيه ليك
+val-293,أش عانداك؟,What have you got?,اش عانداك
+val-294,أش خديتي؟,What have you got?,اش خديتي
+val-295,أش شديتي؟,What have you got?,اش شديتي
+val-296,نسا خدامتاك، راه خديتي نعاس كافي,"Forget your work, you've had enough sleep",نسا خدامتاك راه خديتي نعاس كافي
+val-297,أجي، نود، ماغاتشرابش أنتا متكي,"Come on, get up, you're not drinking lying down",اجي نود ماغاتشرابش انتا متكي
+val-298,واش عمرك تعالامتي تشاعال لعافيا ب سووان؟,Did you ever learn to make a fire with a flint?,واش عمرك تعالامتي تشاعال لعافيا ب سووان
+val-299,لا لا معنديش,"No, I'm afraid not",لا لا معنديش
+val-300,مابغيتش نموت هنا,I don't want to die here!,مابغيتش نموت هنا
+val-301,نتا ماشي ديما فميزاج خايب,you're not always in a bad mood,نتا ماشي ديما فميزاج خايب
+val-302,بغيتي واحدا؟,Would you like one?,بغيتي واحدا
+val-303,أه، راه وسالت لتارتيب تمانيا,"Ah, the order of eight has arrived",اه راه وسالت لتارتيب تمانيا
+val-304,كاتعقال علا لواصفا، ياك؟,"You remember the recipe, don't you?",كاتعقال علا لواصفا ياك
+val-305,راه ساهلا بزاف,It's very simple,راه ساهلا بزاف
+val-306,واش هادشي لي كاين,Is that right?,واش هادشي لي كاين
+val-307,أهلان بغيت لقاهوا معا عاسير ليمون عافاك,"Hi, I'm having coffee with an orange juice, please.",اهلان بغيت لقاهوا معا عاسير ليمون عافاك
+val-308,نقادرو غير نعاردو علا ناس نهار لحاد,We can just invite people on the Sunday,نقادرو غير نعاردو علا ناس نهار لحاد
+val-309,كانعراف شي ماطاعيم تايلانديين والاكين مارخاسش,I know a couple of Thai restaurants but they're not cheap,كانعراف شي ماطاعيم تايلانديين والاكين مارخاسش
+val-310,واش ماكاتعراف حتا بلاسا؟,Don't you know anywhere?,واش ماكاتعراف حتا بلاسا
+val-311,كيف كايڭولو، إلا كانتي ماكاتبغيش تعيش هنا، سير عيش ف بلاسا خرا,"as they say, if you don't like living here, then go live elsewhere",كيف كايڭولو الا كانتي ماكاتبغيش تعيش هنا سير عيش ف بلاسا خرا
+val-312,أه لا بيناتنا,"Oh, no, we're between us!",اه لا بيناتنا
+val-313,غادي نقاد لحالوا,I'm gonna make cake for dessert,غادي نقاد لحالوا
+val-314,أه لا، مسكين,Oh no poor you,اه لا مسكين
+val-315,ماتالان إلا كان عند شي حاد من لفرقا شي حاجا كايحتافال بيها,"For example, if one of the team-members has something to celebrate",ماتالان الا كان عند شي حاد من لفرقا شي حاجا كايحتافال بيها
+val-316,أ كولشي مسترسي معا هاد لمودير؟,And everybody is stressed by this manager?,ا كولشي مسترسي معا هاد لمودير
+val-317,سير تنازاه تاحت شامش,go for walks in the sunshine!,سير تنازاه تاحت شامش
+val-318,كانضن غادي نمشي,i think i'm going to leave!,كانضن غادي نمشي
+val-319,منين نتي؟,Where are you from?,منين نتي
+val-320,منين نتوما؟,Where are you from?,منين نتوما
+val-321,أنا ميريكاني,I am American,انا ميريكاني
+val-322,أنا ميريكانيا,I am American,انا ميريكانيا
+val-323,بغيت نقرا شويا,I want to read a little bit,بغيت نقرا شويا
+val-324,بغيت نمشي النعس,I want to go to bed,بغيت نمشي النعس
+val-325,بغيت شي مانطا,I want a blanket,بغيت شي مانطا
+val-326,هاد لمرا,this woman,هاد لمرا
+val-327,ضريس كاين ف الدار,Driss is at home,ضريس كاين ف الدار
+val-328,عندي جوج خوت توام,I have two twin siblings,عندي جوج خوت توام
+val-329,ختي لكبيرا أستادا,My older sister is a teacher,ختي لكبيرا استادا
+val-330,فيناهيا لوبنا عافاك؟,Where is Loubna please?,فيناهيا لوبنا عافاك
+val-331,ماشاف التا حد,He saw no one,ماشاف التا حد
+val-332,عمرك مشيتي ل فرانسا؟,Have you ever gone to France?,عمرك مشيتي ل فرانسا
+val-333,أنا عارف!,I know!,انا عارف
+val-334,خديتي سوس، دابا,"You get the sauce, now",خديتي سوس دابا
+val-335,سالسا جاهيزا,Sauce is ready,سالسا جاهيزا
+val-336,لا سوس واجدا,Sauce is ready,لا سوس واجدا
+val-337,ويجها ناضار تاقدار تكون تاريخييا ولا إجتيماعييا,The point of view may be historic or sociological,ويجها ناضار تاقدار تكون تاريخييا ولا اجتيماعييا
+val-338,واش كادان بلي هاد توت كايتكال؟,Do you think those berries are edible?,واش كادان بلي هاد توت كايتكال
+val-339,فيكرا واعرا، غادي نبادال لقاإما,"Great idea, I'll change the menu",فيكرا واعرا غادي نبادال لقااما
+val-340,بغيت نبقا فشامس مازال شوييا,I'd like to hang out in the sun just a little longer,بغيت نبقا فشامس مازال شوييا
+val-341,واش بغيتي شي واحدا؟,Would you like one?,واش بغيتي شي واحدا
+val-342,ماشي حسان,No better,ماشي حسان
+val-343,أيخاس إكونو قراب بزاف من بعاديياتهوم,They'd need to be very close together,ايخاس اكونو قراب بزاف من بعاديياتهوم
+val-344,مامتءكادش أشنو إمكان لينا نديرو بلا خاريطا,I'm not sure what we can do without the map,مامتءكادش اشنو امكان لينا نديرو بلا خاريطا
+val-345,بغيت نشري زيت لعود,I want to buy olive oil,بغيت نشري زيت لعود
+val-346,غانخمل الدار,I am cleaning the house,غانخمل الدار
+val-347,فقت بكري,i woke up early,فقت بكري
+val-348,إنا لون كايعجبك؟,what color do you like?,انا لون كايعجبك
+val-349,ماعنديش الزهر,I don't have luck,ماعنديش الزهر
+val-350,عندي حاساسييا,I am allergic to,عندي حاساسييا
+val-351,عصبتيني,you made me angry?,عصبتيني
+val-352,سير فحالك,go away,سير فحالك
+val-353,ماعجباتنيش لهضرا لي ڭلتي,I didn't like what you said,ماعجباتنيش لهضرا لي ڭلتي
+val-354,كولا نهار,everyday,كولا نهار
+val-355,هاد الدار رخيصا,this house is cheap,هاد الدار رخيصا
+val-356,أنا حاملا,I'm pregnant,انا حاملا
+val-357,لبنكا سادا,the bank is closed,لبنكا سادا
+val-358,هاد لمخدا ماشي موريحا,this pillow isn't comfortable,هاد لمخدا ماشي موريحا
+val-359,عندك الزهر,you are lucky,عندك الزهر
+val-360,ماعجبنيش هاد لفيلم,I didn't like this movie,ماعجبنيش هاد لفيلم
+val-361,عنداك تنسا,don't forget,عنداك تنسا
+val-362,لغالاط ديالي,it's my fault,لغالاط ديالي
+val-363,غير بشوييا عليك,take it easy,غير بشوييا عليك
+val-364,ف ناضاري,in my opinion,ف ناضاري
+val-365,ماخاصكش تڭول هادشي,you should not say this,ماخاصكش تڭول هادشي
+val-366,معلقا سغيرا,a small spoon,معلقا سغيرا
+val-367,دري زوين,a handsome boy,دري زوين
+val-368,ماكانخدمش ليوم,I don't work today,ماكانخدمش ليوم
+val-369,شوف تماك,look there,شوف تماك
+val-370,نتا حساس بزاف,you are very sensitive,نتا حساس بزاف
+val-371,ديما كانسمع ليه,I always listen to him,ديما كانسمع ليه
+val-372,ديما كايهضر معايا,he always talks to me,ديما كايهضر معايا
+val-373,بابا مات,my father died,بابا مات
+val-374,كانغلي لما,I'm boiling water,كانغلي لما
+val-375,رجليه صغار,his feet are small,رجليه صغار
+val-376,دار لييا موفاجاأ,he prepared a surprise for me,دار لييا موفاجاا
+val-377,أنا حمق,I'm crazy,انا حمق
+val-378,لبحر خاطير,the sea is dangerous,لبحر خاطير
+val-379,مسح هادشي,clean this,مسح هادشي
+val-380,كانشف شعري,I dry my hair,كانشف شعري
+val-381,كانتمنا يكون عجبك,I hope you liked it,كانتمنا يكون عجبك
+val-382,باقي فييا النعاس,I'm still asleep,باقي فييا النعاس
+val-383,غانتصور,I'll take pictures,غانتصور
+val-384,الشرجم مسدود,the window is closed,الشرجم مسدود
+val-385,قبل ماتبدا,before you start,قبل ماتبدا
+val-386,مرا فشحال,once in a while,مرا فشحال
+val-387,ماقريتش هادشي,I haven't studied this,ماقريتش هادشي
+val-388,شنو هووا لحل؟,what's the solution?,شنو هووا لحل
+val-389,ماكانطيبش,I don't cook,ماكانطيبش
+val-390,خاصك تشرب بزاف ديال لما,you have to drink a lot of water,خاصك تشرب بزاف ديال لما
+val-391,هووا موجريم خاطير,he is a dangerous criminal,هووا موجريم خاطير
+val-392,برزطيني,you disturbed me,برزطيني
+val-393,ماكانعرفش نقرا,I don't know how to read,ماكانعرفش نقرا
+val-394,هاد التريكو سخون,this sweater is warm,هاد التريكو سخون
+val-395,سصحا نيعما,health is a bless,سصحا نيعما
+val-396,هووا ماكايبغينيش,he doesn't love me,هووا ماكايبغينيش
+val-397,ماعنديش لجورأ,I don't have the courage,ماعنديش لجورا
+val-398,موستاوا ناقص,low level,موستاوا ناقص
+val-399,لهودوع و لحوب,peace and love,لهودوع و لحوب
+val-400,واش هادشي ليك؟,is this for you?,واش هادشي ليك
+val-401,أول نهار,first day,اول نهار
+val-402,عندي خويا أ جوج خواتات,I have one brother and two sisters,عندي خويا ا جوج خواتات
+val-403,والاكين كان سخون بزاف,But it was too hot,والاكين كان سخون بزاف
+val-404,كايحل ل قرعا بشوييا,He opens the jar carefully,كايحل ل قرعا بشوييا
+val-405,كان كاياكول أ كايهضر,He was eating and talking,كان كاياكول ا كايهضر
+val-406,كايتعلم لونڭلي البوحدو,He is learning English by himself,كايتعلم لونڭلي البوحدو
+val-407,ماكايقولش لحاقيقا,he isn' telling the truth,ماكايقولش لحاقيقا
+val-408,هووا لي قتلو,He killed him,هووا لي قتلو
+val-409,كايتقدا من ل إنترنت,He went shopping online,كايتقدا من ل انترنت
+val-410,مشا يتفرج ف عارد ل أزياء,He went to a fashion show,مشا يتفرج ف عارد ل ازياء
+val-411,ليوم نهار مشمش,Today is a sunny day,ليوم نهار مشمش
+val-412,كايتفرج ف التلفازا النهار كامل,He watched TV all day,كايتفرج ف التلفازا النهار كامل
+val-413,عام ف لا الپيسين,He swam in the pool,عام ف لا الپيسين
+val-414,ماشي بصح,It is not true,ماشي بصح
+val-415,سير و حضر ل حيصا,Go and attend the class,سير و حضر ل حيصا
+val-416,فين هووا صباطي,Where are my shoes?,فين هووا صباطي
+val-417,تطير ڭالس فوق لغوصن,The bird is sitting on the branch,تطير ڭالس فوق لغوصن
+val-418,شحال عندك ف الساعا؟,What's the time by your watch?,شحال عندك ف الساعا
+val-419,دغيا! بزربا!,Hurry up!,دغيا بزربا
+val-420,كايديع لييا وقتي,He is wasting my time,كايديع لييا وقتي
+val-421,داير ريجيم,He is on a diet,داير ريجيم
+val-422,هاد لخدما مامناسباش ليه,This work is not suiteble for him,هاد لخدما مامناسباش ليه
+val-423,مايقدرش يتسنا مازال,He can't wait any longer,مايقدرش يتسنا مازال
+val-424,واش متءكد؟,Are you sure?,واش متءكد
+val-425,شنو بان ليك؟,What do you think ?,شنو بان ليك
+val-426,هادي أقال حاجا نديرها,It was the least I could do,هادي اقال حاجا نديرها
+val-427,فوقاش غادي توصل؟,When will you reach?,فوقاش غادي توصل
+val-428,عطيني نهار واحد,Give me a day,عطيني نهار واحد
+val-429,ماخصكش تأدي لحاياوانات,You should not hurt animals,ماخصكش تادي لحاياوانات
+val-430,عندو لاكاڤ,He has a basement,عندو لاكاڤ
+val-431,لاڤابو الموسخ,The sink is dirty,لاڤابو الموسخ
+val-432,ناري! لحيط كايتحرك,OMG! the wall is moving,ناري لحيط كايتحرك
+val-433,الرملا كانت بيضا,The sand was white,الرملا كانت بيضا
+val-434,عييت من خدمتي,I am tired of my work,عييت من خدمتي
+val-435,أنا صاحافي,I'm a journalsit,انا صاحافي
+val-436,كانبغي نطيب,I love to cook,كانبغي نطيب
+val-437,سصوبا حماضت,The soup has gone sour,سصوبا حماضت
+val-438,هووا عاون ماماه فطياب,He aided his mom in cooking,هووا عاون ماماه فطياب
+val-439,ماعنديش هتيمام ب الطياب,I don't have much interest in cooking,ماعنديش هتيمام ب الطياب
+val-440,كاس ديال لحليب بارد,A cup of cold milk,كاس ديال لحليب بارد
+val-441,واش عقلتي؟,Did you remember?,واش عقلتي
+val-442,وجهو كان مازال صفر,His face was still pale,وجهو كان مازال صفر
+val-443,كاينعس بشعر مضفور,he sleeps with braided hair,كاينعس بشعر مضفور
+val-444,حجباني غلاض,My eyebrows are thick,حجباني غلاض
+val-445,هووا زوين,He is handsome,هووا زوين
+val-446,هوا بوڭوس,He is handsome,هوا بوڭوس
+val-447,سصفر ماكاياجيش معايا بمارا,Yellow doesn't suit me at all,سصفر ماكاياجيش معايا بمارا
+val-448,كان شاد ستيلو,He was holding a pen,كان شاد ستيلو
+val-449,عرفتها غير من الشاپو لبيض ديالها,I recognized her by her white hat,عرفتها غير من الشاپو لبيض ديالها
+val-450,كانفضل شال ديال لحرير,I prefer the silk scarft,كانفضل شال ديال لحرير
+val-451,حوايج راسميين,Formal wear,حوايج راسميين
+val-452,لقالام كاين ف لاتروسا,The pencil is in the pencil case,لقالام كاين ف لاتروسا
+val-453,خصني مقص,I need a scissor,خصني مقص
+val-454,درت اللصاق كامل,I've used uo all the glue,درت اللصاق كامل
+val-455,بغيت نكون أوستاد,I want to be a professor,بغيت نكون اوستاد
+val-456,عرس مالاكي,Royal wedding,عرس مالاكي
+val-457,مشيت ل أروپا مرا وحدا,I went to Europe once,مشيت ل اروپا مرا وحدا
+val-458,إفريقيا قارا كبيرا بزاف,Africa is a large continent,افريقيا قارا كبيرا بزاف
+val-459,دوز الطوفولا ديالو ف إفريقيا,he spent his childhood in Africa,دوز الطوفولا ديالو ف افريقيا
+val-460,كاناضا كاينا ف أمريكا الشامالييا,Canada is located in north America,كاناضا كاينا ف امريكا الشامالييا
+val-461,ل موحيط ل أطلاصي كبير بزاف,The atlantic ocean is immense,ل موحيط ل اطلاصي كبير بزاف
+val-462,سربي سربي,Chop chop,سربي سربي
+val-463,بلاما تبقا الضور فلهضرا,Stop beating around the bush,بلاما تبقا الضور فلهضرا
+val-464,قدر راصك,Appreciate yourself,قدر راصك
+val-465,عطي لقيما ل راصك,Value yourself,عطي لقيما ل راصك
+val-466,إدان، واش نقدرو نكملو؟,"So, are we good to go?",ادان واش نقدرو نكملو
+val-467,باراكا ماتشوف فييا,Stop looking at me,باراكا ماتشوف فييا
+val-468,دير جهدك,Do your best,دير جهدك
+val-469,كان كايقمر بزاف,He's been gambling heavely,كان كايقمر بزاف
+val-470,علامن كنتي كاتجسس؟,Who were you spying on?,علامن كنتي كاتجسس
+val-471,خليت ليها صداق مهور,I set aside a good dowry for her,خليت ليها صداق مهور
+val-472,رخف علا راسك,Take it easy,رخف علا راسك
+val-473,حتا أنا,Same here,حتا انا
+val-474,هادا كادو ديال خويا,It's a gift for my brother,هادا كادو ديال خويا
+val-475,حسن ليك ماعرفتيش,Ignorence is bliss,حسن ليك ماعرفتيش
+val-476,لكورا عندك,The ball is in your court,لكورا عندك
+val-477,نتمناو كولشي يمشي مزيان,Let's hope everything goes well,نتمناو كولشي يمشي مزيان
+val-478,شكون بحالك,you are lucky,شكون بحالك
+val-479,هز حجبانو,He raised his eyebrows,هز حجبانو
+val-480,مشات من بالي تامامان,It completely slipped my mind,مشات من بالي تامامان
+val-481,هادا سوأل موهيم,That is an important question,هادا سوال موهيم
+val-482,كانعقل عليه مزيان,I remember him very well,كانعقل عليه مزيان
+val-483,هادي أحسان حاجا شفتها,It's the best I've ever seen,هادي احسان حاجا شفتها
+val-484,شنو درتي لبارح بليل؟,What did you do last night?,شنو درتي لبارح بليل
+val-485,خصنا نديرو خوطا,We need to make a plan,خصنا نديرو خوطا
+val-486,كانتسالك وحدا,I owe you one,كانتسالك وحدا
+val-487,ماكاينش هنا,He is not here,ماكاينش هنا
+val-488,دقا دقا,Step by step,دقا دقا
+val-489,غير خلي لوقت يبيين ليك,Just let the time show you,غير خلي لوقت يبيين ليك
+val-490,غير خلي زمان يوري ليك,Just let the time show you,غير خلي زمان يوري ليك
+val-491,واش بغيتي تهدر علا هادشي؟,Do you want to talk about it ?,واش بغيتي تهدر علا هادشي
+val-492,مافهمتش علاش؟,I don't understand why?,مافهمتش علاش
+val-493,واش نقدرو نتلاقاو الجمعا الجايا؟,Can we met next Friday?,واش نقدرو نتلاقاو الجمعا الجايا
+val-494,واش مستاعد لهادشي؟,Are you ready for this?,واش مستاعد لهادشي
+val-495,واش كاين شي سوأل؟,Any question?,واش كاين شي سوال
+val-496,واش فهمتي؟,Got it?,واش فهمتي
+val-497,خليني نوضح ليك,Let me clarify for you,خليني نوضح ليك
+val-498,درتها علا قبلك,I did it because of you,درتها علا قبلك
+val-499,درتها علا ودك,I did it because of you,درتها علا ودك
+val-500,ماقدرتش نجي ل لحفلا ديالك,I coudn't come to your party,ماقدرتش نجي ل لحفلا ديالك
+val-501,عافاك هضر بشوييا,Please speak slowly,عافاك هضر بشوييا
+val-502,شفت سبع,I saw a lion,شفت سبع
+val-503,مابغيتش نصدعك,I don't want to bother you,مابغيتش نصدعك
+val-504,واش مشا عليك الطوبيس؟,Did you miss the bus?,واش مشا عليك الطوبيس
+val-505,فيا,in me,فيا
+val-506,يالاه,let us,يالاه
+val-507,لا شوكرا عالا واجيب,you are welcome,لا شوكرا عالا واجيب
+val-508,لعافو,you are welcome,لعافو
+val-509,لعافوو,you are welcome,لعافوو
+val-510,بصحا,your good health,بصحا
+val-511,الله إرحمو,god have mercy on him,الله ارحمو
+val-512,كولا نهار,daily,كولا نهار
+val-513,كولا ساعا,hourly,كولا ساعا
+val-514,سمن أ عسل,sweet,سمن ا عسل
+val-515,عشيا,evening,عشيا
+val-516,اشيا,evening,اشيا
+val-517,تويشيا,thing,تويشيا
+val-518,لعيبا,thing,لعيبا
+val-519,لعايبا,thing,لعايبا
+val-520,قوزقوزاح,rainbow,قوزقوزاح
+val-521,قوسقوزاح,rainbow,قوسقوزاح
+val-522,قاوسقوزاح,rainbow,قاوسقوزاح
+val-523,قاوس قوزاح,rainbow,قاوس قوزاح
+val-524,ديال لمشخارا,ridiculous,ديال لمشخارا
+val-525,فييا لحاساسييا ديال...,i am allergic to...,فييا لحاساسييا ديال
+val-526,واسه نقدر نجربو؟,can i try it on?,واسه نقدر نجربو
+val-527,مابغيتسه هادا,i don't want this one,مابغيتسه هادا
+val-528,بغيت مانتا,i want a blanket,بغيت مانتا
+val-529,ختي لكبيرا وستادا,my older sister is a teacher,ختي لكبيرا وستادا
+val-530,أسميت هادا؟,what's this called?,اسميت هادا
+val-531,تعاتل لواقت، خاسني نامشي,"it's late, i have to go!",تعاتل لواقت خاسني نامشي
+val-532,عانداك شي بيت خاوي؟,do you have a room available?,عانداك شي بيت خاوي
+val-533,واش عارفا فين ناقدار نالقاها؟,do you know where i could find him?,واش عارفا فين ناقدار نالقاها
+val-534,لبڭر خانز,cows are smelly,لبڭر خانز
+val-535,غلقت,i ate a lot,غلقت
+val-536,فرقتي ربحات هاد لماتش,my favorite team won the match,فرقتي ربحات هاد لماتش
+val-537,عينيا كيحرقوني,my eyes are burning,عينيا كيحرقوني
+val-538,هادش لي كاين هاد ساعا,that's everything for now,هادش لي كاين هاد ساعا
+val-539,كانتسالك ألف درهام,i owe you 1000dh,كانتسالك الف درهام
+val-540,غا ماعنديش دكشو باش نعتيه ليك دابا,i just don't have that to give right now,غا ماعنديش دكشو باش نعتيه ليك دابا
+val-541,نتا/نتي كولشي بنيسبا ليا,you're everything to me,نتا نتي كولشي بنيسبا ليا
+val-542,واش داخلا فيه ل ڭوارانتي ؟,does it come with a guarantee/warranty?,واش داخلا فيه ل ڭوارانتي
+val-543,كانعتادر علا...,i apologize for...,كانعتادر علا
+val-544,أنا خابيي,how stupid thoughtless of me,انا خابيي
+val-545,لفاميلا دوزتا لعوتلا فلوندون,our family spent the holiday in london,لفاميلا دوزتا لعوتلا فلوندون
+val-546,واحد لقنييات هربو من لخابا,some rabbits ran out of the forest,واحد لقنييات هربو من لخابا
+val-547,خويا كانت داراه درس سيمانا لي فاتت,my brother had a toothache last week,خويا كانت داراه درس سيمانا لي فاتت
+val-548,توحشت سحابي,i miss my friends,توحشت سحابي
+val-549,راه لسق واحد تسويرا فلحيت,he hung a picture on the wall,راه لسق واحد تسويرا فلحيت
+val-550,ماكيعجبونيش هادوك لبولات ديال لبيرووات,i don't like desk lamps,ماكيعجبونيش هادوك لبولات ديال لبيرووات
+val-551,تامانات ديال ديور تلعو هاد لعام,house prices have gone up this year,تامانات ديال ديور تلعو هاد لعام
+val-552,تسدمات ملي شافت واحد رتيلا كبيرا,she froze at the sight of the big spider,تسدمات ملي شافت واحد رتيلا كبيرا
+val-553,لعوتلا لي فاتت ركبت عاود,last time i went on vacation i rode a horse,لعوتلا لي فاتت ركبت عاود
+val-554,ماتحلش لباب,don't open the door!,ماتحلش لباب
+val-555,دراري تقدرو تمشيو فين ما رشقات ليكوم,you guys can leave whenever you want,دراري تقدرو تمشيو فين ما رشقات ليكوم
+val-556,كانقلب علا لبعويد,i am looking for some pears,كانقلب علا لبعويد
+val-557,لپك سخن,the laptop became warm,لپك سخن
+val-558,لعاليم دار شي تاجاريب فلابو,the scientist conducted experiments in the lab,لعاليم دار شي تاجاريب فلابو
+val-559,دحكا ديال دري كانت هيستيرييا,the child's laughter was loud,دحكا ديال دري كانت هيستيرييا
+val-560,لماحال عتا كرتات لكليان لقدام,the store offered a discount for loyalty program members,لماحال عتا كرتات لكليان لقدام
+val-561,لخوتا ديال لفراقي فتيران كانت ناديا,the team's strategy on the field was well coordinated,لخوتا ديال لفراقي فتيران كانت ناديا
+val-562,أشناهووا أحسن كونسرت مشيتي ليه ؟,what's the best concert you've attended?,اشناهووا احسن كونسرت مشيتي ليه
+val-563,واش كايعجبك لفن ؟,are you into art ?,واش كايعجبك لفن
+val-564,كيفاش كاتوازن بين لخدما و حياتك ؟,how do you find balance between work and personal life?,كيفاش كاتوازن بين لخدما و حياتك
+val-565,كيفاش كاترتاح مورا شي نهار قاسح ؟,how do you unwind and relax after a stressful day?,كيفاش كاترتاح مورا شي نهار قاسح
+val-566,كيداير لجو ليوما ؟,how's the weather today?,كيداير لجو ليوما
+val-567,كيفاش كاتبقا مركز؟,how do you stay focused?,كيفاش كاتبقا مركز
+val-568,كيعاجبك تيب معا سحابك ؟,do you enjoy cooking with friends?,كيعاجبك تيب معا سحابك
+val-569,واش كايعجبك لمسرح ؟,are you a fan of theater?,واش كايعجبك لمسرح
+val-570,لمبوتيلاڭ كتير,the traffic is quite heavy,لمبوتيلاڭ كتير
+val-571,شتا كاتخبت فشراجم,the rain is tapping on the windows,شتا كاتخبت فشراجم
+val-572,لاعبين كاش كاش,he's playing hide and seek,لاعبين كاش كاش
+val-573,أشناهوما لوخات لي كايدويو نيهوم فهاد لبلاد ؟,what languages are commonly spoken in this country?,اشناهوما لوخات لي كايدويو نيهوم فهاد لبلاد
+val-574,أشناهوما أهام أحدات تاريخييا ديال هاد لبلاد,what are the most important historical events of this country?,اشناهوما اهام احدات تاريخييا ديال هاد لبلاد
+val-575,كيفاش ناس كيسلمو علا بعديياتهوم فهاد تاقافا,how do people greet each other in this culture?,كيفاش ناس كيسلمو علا بعديياتهوم فهاد تاقافا
+val-576,كيفاش كيتافلو ناس بلعراسات فهاد لبلاد ؟,how are weddings celebrated in this country?,كيفاش كيتافلو ناس بلعراسات فهاد لبلاد
+val-577,أشنو كايستعملو باش يسنعو لحوايج ؟,what are the traditional clothing materials used?,اشنو كايستعملو باش يسنعو لحوايج
+val-578,كيفاش ناس هنا كيحتارمو تايعا ؟,how do people respect the environment here?,كيفاش ناس هنا كيحتارمو تايعا
+val-579,واش عندك شي فرقا ديال كورا عزيز عليك ؟,do you have a favorite football team?,واش عندك شي فرقا ديال كورا عزيز عليك
+val-580,توحشت لييام ملي سايف كان كولو دحك,i miss the days when summer break meant endless fun,توحشت لييام ملي سايف كان كولو دحك
+val-581,يالاه نبلانيو شي ليلا ناديا بلمانتات و لماكلا و شي أفلام,"let's plan a cozy night in blankets, comfort food, and movies",يالاه نبلانيو شي ليلا ناديا بلمانتات و لماكلا و شي افلام
+val-582,شنو أحسن ديكرا عندك موأخاران ؟,what is your favorite recent memory?,شنو احسن ديكرا عندك مواخاران
+val-583,شنو كاتمنا ناس إتفهمو عليك ؟,what do you wish more people understand about you?,شنو كاتمنا ناس اتفهمو عليك
+val-584,شنو هيا أخبا حاجا كنتي متيق فاش كنتي سخير ؟,what is the most ridiculous thing you believed as a child?,شنو هيا اخبا حاجا كنتي متيق فاش كنتي سخير
+val-585,كيان شي كتاب لي بدل ليك حياتك ؟,what book changed your life?,كيان شي كتاب لي بدل ليك حياتك
+val-586,كيفاش كيعجبك تريني ؟,how do you prefer to exercise?,كيفاش كيعجبك تريني
+val-587,عندك شي حاساسيا من شي حاجا ؟,what are you allergic to?,عندك شي حاساسيا من شي حاجا
+val-588,أنا متءكد أنانا نقدرو كتاب كامل علا لقيساس ديالنا ديال سخر را كيقتلو بدحك,i'm convinced that we could write a book filled with our hilarious childhood stories,انا متءكد انانا نقدرو كتاب كامل علا لقيساس ديالنا ديال سخر را كيقتلو بدحك
+val-589,بايا لييا خانبدا نخدم فجاردا,i'm thinking of starting a garden,بايا لييا خانبدا نخدم فجاردا
+val-590,تقدر تشوف معاكو أش باقي م هاد لپرودويت فلماحال,can you check if you have more of this item in the back of the store?,تقدر تشوف معاكو اش باقي م هاد لپرودويت فلماحال
+val-591,واش نقدر نقسم تامان نس نخلسو بكارتا و نس لاخور كاسه,is it possible to split the payment between cash and card?,واش نقدر نقسم تامان نس نخلسو بكارتا و نس لاخور كاسه
+val-592,تقدرت شوف لييا معاك واش هاد لرپدويت كاين فيه لوانات و قياسات أخرين ؟,could you check if this item is available in other colors or sizes?,تقدرت شوف لييا معاك واش هاد لرپدويت كاين فيه لوانات و قياسات اخرين
+val-593,علماتنا بزاف ديال لحوايج,it taught us many things,علماتنا بزاف ديال لحوايج
+val-594,كيفاش ديما كاتعرف دوي ملي ماكاتكونش راشقا لييا,how do you always know the right words to say when i'm feeling down?,كيفاش ديما كاتعرف دوي ملي ماكاتكونش راشقا لييا
+val-595,أش بان ليك نديرو حيساس نتعلمو فيهوم شتيح مجموعين,what's your opinion on taking a dance class together?,اش بان ليك نديرو حيساس نتعلمو فيهوم شتيح مجموعين
+val-596,كيفاش ديما كاتخليني حاسا بلحوب ديالك ؟,how do you always know how to make me feel so loved and cherished?,كيفاش ديما كاتخليني حاسا بلحوب ديالك
+val-597,أش بان ليك نبداو نديرو شي هيوايا جديدا بحال راسم ولا سباغا ؟,"what's your opinion on starting a hobby together, like drawing or painting?",اش بان ليك نبداو نديرو شي هيوايا جديدا بحال راسم ولا سباغا
+val-598,فاش كنتي كاتفكر ملي ماركتي هاد لڭوال لي نادي ؟,what was going through your mind when you scored that incredible goal?,فاش كنتي كاتفكر ملي ماركتي هاد لڭوال لي نادي
+val-599,كيفاكك كاتوجد راسك ماعناوييان لماتشات دد لخاريم ولا فراقي كبار تاريخييان ؟,how do you mentally prepare for matches against rivals or historically strong opponents?,كيفاكك كاتوجد راسك ماعناوييان لماتشات دد لخاريم ولا فراقي كبار تاريخييان
+val-600,أشناهووا سير باشتبقا ديما باخي خير تربح ؟,what do you believe is the secret behind maintaining a winning mentality?,اشناهووا سير باشتبقا ديما باخي خير تربح
+val-601,كان خاسنا نزربو حيت لخاسم كان سحيح,the opponent's physicality required us to be agile and quick in our movements,كان خاسنا نزربو حيت لخاسم كان سحيح
+val-602,كايفكرني فشحال حنا سخار فهاد دنيا,it's a reminder of how small we are in this vast universe,كايفكرني فشحال حنا سخار فهاد دنيا
+val-603,واعرا تفرج الفيلم فكران كبيرا,there's something special about watching a movie on the big screen,واعرا تفرج الفيلم فكران كبيرا

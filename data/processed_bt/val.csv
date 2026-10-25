@@ -1,0 +1,605 @@
+id,src,tgt,group
+val-0,I think I'm going to leave!,تايباليا غانمشي!,i think i m going to leave
+val-1,But I will only answer them during working hours,والاكين غانجاوب عليهوم فل أوقات ت لخدما,but i will only answer them during working hours
+val-2,but I don't have anything to celebrate,والاكين أنا ماعندي التا حاجا نحتافل بيها,but i don t have anything to celebrate
+val-3,what do you think?,أش باليك؟,what do you think
+val-4,Yes but the translation was wrong,أه والاكين الترجاما كانت غالطا,yes but the translation was wrong
+val-5,Good-bye,بسلاما,good bye
+val-6,"Good morning, sir.",الله إسعد الصاباح أ شريف.,good morning sir
+val-7,"Okay, you convinced me",صافي قنعتيني,okay you convinced me
+val-8,I feel very good,كانحس براسي بيخير,i feel very good
+val-9,Are you sure?,واش متيقن؟,are you sure
+val-10,"You know, from where we fall, it doesn't make much difference",عرفتي شنو، من لبلاصا مناش طحنا، ماكاينش شي فرق كبير,you know from where we fall it doesn t make much difference
+val-11,But drinking is probably a good idea,والاكين الشراب إمكن فيكرا مزيانا,but drinking is probably a good idea
+val-12,"Oh, that's cool",أه، هادشي زين,oh that s cool
+val-13,You're late again. What is your excuse today?,تعطلتي ليوم تاني. شنو لعودر ديالك ليوم؟,you re late again what is your excuse today
+val-14,You seem to have had difficulty with the equations,كايبان بحالا كان عندك موشكيل معا ل أسإلا,you seem to have had difficulty with the equations
+val-15,Hurry up,أ تلقنا,hurry up
+val-16,just forget about it,نسا عليا هادشي,just forget about it
+val-17,"But, I'm not sure that's enough",والاكين مامتيقنش أنا هادشي كافي,but i m not sure that s enough
+val-18,then we can eat somewhere in town,من بعد نمشيو ناكلو فشي بلاصا فلمدينا,then we can eat somewhere in town
+val-19,"Yes, with pleasure!",أيه، مرحبا!,yes with pleasure
+val-20,Last time I tried my phone but there is no signal and the alarm button didn't work.,أخير مرا حاولت ب تيليفوني والاكين ماكانش السينيال أ داك ل بوتون ديال لالارم ماخدمش,last time i tried my phone but there is no signal and the alarm button didn t work
+val-21,Let's try the alarm button.,أجي نجربو ل بوتون ت لالارم.,let s try the alarm button
+val-22,I can't wait to find out what's behind this wall,كانتسنا هير إمتا نعرف أش مورا هاد لحيط,i can t wait to find out what s behind this wall
+val-23,Are you sure?,واش نتا متءكد؟,are you sure
+val-24,We appear to have stopped moving.,تايبان أناهو وڭفنا.,we appear to have stopped moving
+val-25,Can you please explain what you mean by 'normal'?,واخا تشرح ليا عافاك أش كاتعني ب 'عادي'؟,can you please explain what you mean by normal
+val-26,Is there a history of this problem in your family?,واش هاد لموشكيل قديم فعاإلتكوم؟,is there a history of this problem in your family
+val-27,"No, for lunch.",اللا، فلغدا.,no for lunch
+val-28,We really need to get back,خاسنا نرجعو فحالنا بلمعقول,we really need to get back
+val-29,I'm not sure what we can do without the map,ماعرفتش أش كنا غانديرو بلا لخاريطا,i m not sure what we can do without the map
+val-30,I think I'm losing my mind!,كايباليا بديت كانحماق!,i think i m losing my mind
+val-31,What's going on?,أش واقع؟,what s going on
+val-32,"Well, I called my mother and my wife this morning, and then put my shoes outside",إوا، هدرت معا لواليدا أ لمرا هاد السباح، أ من بعد حطيت صباطي علا برا,well i called my mother and my wife this morning and then put my shoes outside
+val-33,"Right across the street there's Dr. Nabil's office, he's an excellent diet doctor",ف الجيها لخرا من شاريع كاين ل بيرو ديال دوكتور نابيل، طبيب ت الريجيم مومتاز,right across the street there s dr nabil s office he s an excellent diet doctor
+val-34,"And besides, he's a very good friend of mine",زيد عليها أناهو ساهبي بزاف,and besides he s a very good friend of mine
+val-35,He has a good sense of humor!,قشابتو واسعا!,he has a good sense of humor
+val-36,"Food can have a very important effect on how you feel, you know.",لماكلا إقدر تكون عندها أتار كبير علا كيفاش كاتحس، فراسك.,food can have a very important effect on how you feel you know
+val-37,They'd need to be very close together,خسهوم إكونو قراب لبعضيياتهوم,they d need to be very close together
+val-38,Why do you think you deserve more?,علاش كاتضن كاتستاحق كتر؟,why do you think you deserve more
+val-39,Have you got some music that will be suitable?,وجدتي شي موسيقا موناسيبا؟,have you got some music that will be suitable
+val-40,It can't hurt,ماغاضرش,it can t hurt
+val-41,I am not sure what you mean but I think there could be the police at the entrance!!,مامتءكدش شنو كاتقصد والاكين كايباليا غايكونو لبوليس ف الدخلا!!,i am not sure what you mean but i think there could be the police at the entrance
+val-42,Don't worry!,ماتخافش!,don t worry
+val-43,"Well, hurry up.",إوا تلقنا.,well hurry up
+val-44,Why is there rice in the cupboard if we never serve it?,علاش كاين الروز فل پلاكار ألا ماعمرنا خدمناه؟,why is there rice in the cupboard if we never serve it
+val-45,Yes I've seen them. They will be a nightmare.,أه شفتهوم. غايكونو كابوس.,yes i ve seen them they will be a nightmare
+val-46,For 5 generations?,ل 5 تلأجيال؟,for 5 generations
+val-47,I'd like to hang out in the sun just a little longer,ماكرهتش نتسركل شويا فشمش واهد شويا مازال,i d like to hang out in the sun just a little longer
+val-48,"Okay, I'm going to the coffee shop",صافي، أنا هاني غادي ل قاهوا,okay i m going to the coffee shop
+val-49,And can you tell the waiter that?,أ واش مومكين تڭول ل سرباي هادشي؟,and can you tell the waiter that
+val-50,where are you from?,منين نتا؟,where are you from
+val-51,I am tired,عييت,i am tired
+val-52,Do you mean dish?,واش كاتقصد طبصيل,do you mean dish
+val-53,"Fouad, how many more minutes before the desserts for table four will be ready?",فواد، شحال من دقيقا باقيا قبل مايوجد الديسير ديال طبلا ربعا؟,fouad how many more minutes before the desserts for table four will be ready
+val-54,I think it's time to start over,كانضن هادا لوقت باش نبداو من جديد,i think it s time to start over
+val-55,Is there something bothering you?,واش كاينا شي حاجة شاغلاك؟,is there something bothering you
+val-56,"Yeah, I was thinking about the alarm button.",وايه، راه كنت تانفكر فل بوتون ديال لالارم.,yeah i was thinking about the alarm button
+val-57,"I hate being late, too, but I guess there's nothing we can do about it.",ماكانحملش نتعطل تانا، والاكين كانضن ماعندنا مانديرو.,i hate being late too but i guess there s nothing we can do about it
+val-58,"Oh god, how is the cyclist?",يا لاطيف، كيولا مول پيكالا؟,oh god how is the cyclist
+val-59,You can't eat them!,مانڭدش ناكلهوم!,you can t eat them
+val-60,"You'll have to learn to obey me, or I'll find another one.",غايخسك تعلم تصنت ليا، ألا غادي نضبر علا واهد أخور.,you ll have to learn to obey me or i ll find another one
+val-61,Don't worry,ماتهزش لهم,don t worry
+val-62,I can't hear you,ماكانسمعكش,i can t hear you
+val-63,I don't want to bother you,مابغيتش نبرزطك,i don t want to bother you
+val-64,I get off of work at 6,كانخرج من لخدما معا 6,i get off of work at 6
+val-65,I know,عرفت,i know
+val-66,I'll pay,دابا نخلص,i ll pay
+val-67,I'm cleaning my room,أنا كانساوب بيتي,i m cleaning my room
+val-68,let me think about it,خليني نفكر فيها,let me think about it
+val-69,that's too much,هادشي فايت لقياس,that s too much
+val-70,this is very important,هادشي موهيم بزاف,this is very important
+val-71,"very good, thanks",مبرع، شوكران,very good thanks
+val-72,you're very smart,نتي دكيا بزاف,you re very smart
+val-73,you're very smart,نتا دكي بزاف,you re very smart
+val-74,when did this happen,إمتا وقع هادشي,when did this happen
+val-75,I need to practice my English,خسني نتريني علا ل'انڭلايس,i need to practice my english
+val-76,it's a quater past nine,هادي التسعود أ ربع,it s a quater past nine
+val-77,can you recommend a good restaurant,واخا تقتارح عليا شي رستورا زوينا,can you recommend a good restaurant
+val-78,I was in the library,كنت فلمكتابا,i was in the library
+val-79,on the second floor,فل إتاڭ التاني,on the second floor
+val-80,can I try it on,واش واخا نجربها,can i try it on
+val-81,You do push my buttons sometimes,كاتعسبني شي مرات,you do push my buttons sometimes
+val-82,I am getting fed up now,تلعات ليا لقردا دابا,i am getting fed up now
+val-83,"Your friend will probably be here, why?",صاديقا ديالك أتكون هنا فلغاليب، علاش؟,your friend will probably be here why
+val-84,I'll be all alone in a strange country.,أنكون بوحدي ف بلاد ماكانعرف فيها تاواحد,i ll be all alone in a strange country
+val-85,But my teacher back in school used to spend all her time knitting in class and would never explain anything properly.,والاكين ل أستادا ديالي ديك لوقت كانت كادووز لوقتا ديالها كامل كاتخييت فلقيسم أ ماعمرها شرحات لينا شي حاجا,but my teacher back in school used to spend all her time knitting in class and would never explain anything properly
+val-86,I just can't get the grammar.,ماعمر باتفهم ليا ديك لڭرامير,i just can t get the grammar
+val-87,Yes the swans can be quite aggressive.,وايه، لوز كايكونو قباح شي مرات,yes the swans can be quite aggressive
+val-88,I remind you that class is required.,كاندكرك أنا هاد لحيصا ضاروريا.,i remind you that class is required
+val-89,Not bad for someone eighty five years old.,مزيانا ب نيسبا ل شي واحد فعمرو خمسا أ تمانين عام.,not bad for someone eighty five years old
+val-90,"Yes, I'll have a cup of coffee.",أيه، شي كاس ديال لقهوا.,yes i ll have a cup of coffee
+val-91,Do you go out once in a while?,واش كاتخرج مرا مرا؟,do you go out once in a while
+val-92,It is very varied.,داكشي موتاناويع.,it is very varied
+val-93,I do the piano sometimes.,كاندير پيانو مرا مرا.,i do the piano sometimes
+val-94,"Anyway, that's enough about me.",ف جاميع لحالات، هادشي كافيني.,anyway that s enough about me
+val-95,"Not at all, you plan to move to Marrakech.",اللا، نتا ناوي ترحل ل مراكش.,not at all you plan to move to marrakech
+val-96,It's a special recipe.,هادي واصفا خاصا.,it s a special recipe
+val-97,"Oh that does sound good, and quite fancy for a retirement home",أه هادشي كايفرح، أ مبرع ب نيسبا ل دار لعاجازا,oh that does sound good and quite fancy for a retirement home
+val-98,"It's been 15 minutes since I've seen her, I miss her!",شي 15 ل داقيقا هادي باش شفتها، توحشتها!,it s been 15 minutes since i ve seen her i miss her
+val-99,"But the reality is bit less romantic - it's mostly deafness, forgetfulness, and aches and pains.",والاكين لحاقيقا أقال رومانسيا - فيها تسماك، نسيان، أ صداع أ ل ألام.,but the reality is bit less romantic it s mostly deafness forgetfulness and aches and pains
+val-100,I'll buy the decorations!,غادي نشري دكوراسيون!,i ll buy the decorations
+val-101,Take the basket.,خود السلا.,take the basket
+val-102,"You did say you liked rabbits, didn't you?",ڭولتي عزيز عليك قنيات، ولا اللا؟,you did say you liked rabbits didn t you
+val-103,I'll take the basket if it's full!,غادي ناخد السلا إلا كانت عامرا!,i ll take the basket if it s full
+val-104,And a couple of hats.,أ شي شويا ديال طرابش.,and a couple of hats
+val-105,I'm just gonna take your credit card and pay for both of us and our next-door neighbor if you don't mind.,غادي ناخد لا كارت بانكاير ديالك أ نخلص علينا بجوج أ علا جارنا إلا ماعندكش موشكيل.,i m just gonna take your credit card and pay for both of us and our next door neighbor if you don t mind
+val-106,I left him!,تفرقت معاه!,i left him
+val-107,Once we rach the road it will be easy.,غير نوصلو طريق غادي يكون هادشي ساهل.,once we rach the road it will be easy
+val-108,I ll get the cards now,هاني أنمشي نجيب لكارتا دابا,i ll get the cards now
+val-109,"I like the pool, but we're not gonna be here all afternoon!",كايعجبني لا پيسين، والاكين ماغاديش نبقاو هنا لعشيا كاملا!,i like the pool but we re not gonna be here all afternoon
+val-110,Well he probably doesn't exist but at least we would be up a mountain looking for him instead of having this stupid argument.,موحال واش كاين أصلان والاكين علا ل أقال أنكونو فوق جبل كانقلبو عليه بلاصت مانبقاو كانتناقشو.,well he probably doesn t exist but at least we would be up a mountain looking for him instead of having this stupid argument
+val-111,Shall we have it at home?,نديروها ف الدار؟,shall we have it at home
+val-112,Do you know how much it costs?,واش عارف شحال كايسوا؟,do you know how much it costs
+val-113,Have you eaten yet?,واش كليتي؟,have you eaten yet
+val-114,He likes juice but he doesn't like milk,هووا عزيز عليه لعاصير والاكين ماكايحملش لحليب,he likes juice but he doesn t like milk
+val-115,How many people?,شحال ديال الناس؟,how many people
+val-116,"There's a restaurant over there, but I don't think it's very good",كاينا واهد رسطورا لهيه، والاكين ماكانضنش زوينا,there s a restaurant over there but i don t think it s very good
+val-117,Are you American?,واش نتا ميريكاني؟,are you american
+val-118,Are you going to take a plane or train?,واش غادي تاخود طيارا ألا تران؟,are you going to take a plane or train
+val-119,Do you like it here?,عجبك لحال هنا؟,do you like it here
+val-120,She's older than me,هيا كبر مني,she s older than me
+val-121,I'd like to buy a phone card please.,بغيت نشري واهد لا كارت ديال تيليفون عافاك.,i d like to buy a phone card please
+val-122,Do you like your co-workers?,واش كايعجبوك الناس لي خدامين معاك؟,do you like your co workers
+val-123,Do you understand?,واش كاتفهم؟,do you understand
+val-124,What did you do last night?,أش درتي الليلا اللي فات؟,what did you do last night
+val-125,Who's calling?,شكون اللي كايضوور؟,who s calling
+val-126,Will you pass me the salt please?,واخا تدووز ليا لملحا عافاك؟,will you pass me the salt please
+val-127,My car isn't working,طوموبيلتي ماخداماش,my car isn t working
+val-128,That's her book,هادا كتاب ديالها,that s her book
+val-129,When would you like to meet?,إمتا بغيتي نتلاقاو؟,when would you like to meet
+val-130,You're right.,عندك لحق.,you re right
+val-131,"Wow, I thought you would tell me that we need the basics!",وو، كنت كاندن واش غادي تڭول ليا بلي حنا ماحتاجين لحاجات لموهيما!,wow i thought you would tell me that we need the basics
+val-132,"I could sing a funny English song about dead bodies, the worms go in and the worms go out",نقدر نغاني أغنييا مودحيكا علا جوتات مايتين، الدود كايدخل أ كايخرج,i could sing a funny english song about dead bodies the worms go in and the worms go out
+val-133,Americano?,أمريكانو؟,americano
+val-134,"Haha, you crack me up!",هاها، راك هراستيني!,haha you crack me up
+val-135,"I had a Rottweiler, but I had to get rid of it, he ate my neighbor.",كان عندي روتويلر، والاكين تفكيت منو، راه كلا جاري.,i had a rottweiler but i had to get rid of it he ate my neighbor
+val-136,Was he not traumatised?,ماحسش بسادما؟,was he not traumatised
+val-137,Sorry to bother you,سماحليا سداعتاك,sorry to bother you
+val-138,And thank you for the chocolate bar,أ شوكران علا طرف ديال شوكولاتا,and thank you for the chocolate bar
+val-139,"in the dark, and through all that mud ...",فدلام، أ فوست ڭاع هاد لغايس ...,in the dark and through all that mud
+val-140,"let's move now, or we'll be here in a few days!",يالاه نتحاركو دابا، ألا غادي نبقاو هنا شي يامات!,let s move now or we ll be here in a few days
+val-141,I don't look like him...,أنا ماكنشبهش ليه...,i don t look like him
+val-142,I really want to get out a bit.,أنا بساح بغيت نخروج شوييا.,i really want to get out a bit
+val-143,And what would I look like?,أ كيفاش غادي نوالي نبان,and what would i look like
+val-144,come over as soon as you can.,أجي دغيا.,come over as soon as you can
+val-145,Chickens?,دجاج؟,chickens
+val-146,Don't worry.,ماتقالقش.,don t worry
+val-147,"No, it's a joke.",لا، راه غير نوكتا.,no it s a joke
+val-148,Or do you want to take advantage of the situation to have a good time together and without aggression?,ألا بغيتي تاستافاد من لماوقيف باش تدوز واقت مازيان معا بعضياتنا أبلا إعتيداء,or do you want to take advantage of the situation to have a good time together and without aggression
+val-149,It would cost millions,غادي تسوا لملاين,it would cost millions
+val-150,Amazing.,مودهيش,amazing
+val-151,You should start screaming with me to call 911.,خاساك تبدا تغاوت معايا باش نعايتو علا 911,you should start screaming with me to call 911
+val-152,They want to feed the ducks with cookies?,بغاو يواكلو لباط لبيسكوي؟,they want to feed the ducks with cookies
+val-153,Early in the season all of the mating pairs still have lots of ducklings,فواقت باكري من لمووسيم ڭاع ل أزواج تل باط باقي عندهوم بزاف تل فراخ ديال لباط,early in the season all of the mating pairs still have lots of ducklings
+val-154,I like turtles a lot!,كايعاجبوني لفكارن بزاف,i like turtles a lot
+val-155,And swans are very aggressive this time of year,أ لباجاع عودواني بزاف فهاد لواقت من لعام,and swans are very aggressive this time of year
+val-156,Everyone likes turtles!,كولشي كايعاجبوه لفكارن!,everyone likes turtles
+val-157,Sometimes they are lucky and get a small dog or cat instead,بعد لمارات كايكونو محضوضين أ كاياخدو كلييب ولا قطا فبلاستهوم,sometimes they are lucky and get a small dog or cat instead
+val-158,But I don't want to do laps.,والاكين مابغيتش ندير دورات,but i don t want to do laps
+val-159,"I build sand castles eat lollies and go for walks, as I said.",كانبني لقيلاع راملييا أ كاناكول پولو أ كانمشي نتنازاه كيف ڭلت,i build sand castles eat lollies and go for walks as i said
+val-160,Will you get us some drinks?,غادي تجيب لينا شي مشروبات؟,will you get us some drinks
+val-161,"Yes, anything to get away from this poolside for five minutes",أه، أي حاجا كاتباعاد علا هاد لماسباح خامسا دقايق,yes anything to get away from this poolside for five minutes
+val-162,"Get me a coffee, please!",جيب لييا قاهوا، عافاك!,get me a coffee please
+val-163,"Ok, one coffee, two vodka shots and a Martini coming up",واخا، واحاد قهوا، جوج من ڤودكا أ مارتيني جايين,ok one coffee two vodka shots and a martini coming up
+val-164,That sounds nice,هادشي كايبان مازيان,that sounds nice
+val-165,I think they'll be a hundred and twenty.,كانضن غادي إكونو ميا أعشرين.,i think they ll be a hundred and twenty
+val-166,You dropped out of our car to catch the train?,واش خراجتي من توموبيل ديالنا باش تشاد تراين,you dropped out of our car to catch the train
+val-167,I think it is going to be expensive to fix,كانضن بلي غادي إكون غالي باش تسلاحها,i think it is going to be expensive to fix
+val-168,"So, it's my birthday next week, and I'd like to throw a big party!",إدان، راه عيد ميلادي سيمانا جايا، أبغيت ندير حفلا كبيرا.,so it s my birthday next week and i d like to throw a big party
+val-169,my place it's not big enough,داري ماكبيراش بزاف,my place it s not big enough
+val-170,It's probably too late to rent a room,غاليبان فات عليك لحال باش تكري شي بيت,it s probably too late to rent a room
+val-171,"It's more of a pub than a bar, but you should be able to book a space",هاداك ديسكو كتر من بار، والاكين خسك تكون قادر ت رسرڤي شي بلاصا,it s more of a pub than a bar but you should be able to book a space
+val-172,"No, I'm not.",لا، أنا ماشي بيخير.,no i m not
+val-173,"It's a good idea, original, which will probably enjoy our living.",فيكرا مزيانا، أصليا، غادي نتستامتاعو بيها.,it s a good idea original which will probably enjoy our living
+val-174,Fabulous!,مفرڭع!,fabulous
+val-175,"We explored the volcanoes on the island, lay on the beach and enjoyed the sunsets.",أ ستاكشفنا لباراكين ف لجازيرا، تكينا ف راملا ديال لبحار أتماتاعنا بلغوروب .,we explored the volcanoes on the island lay on the beach and enjoyed the sunsets
+val-176,And where are you going to live now?,أ فين غادي تعيش دابا؟,and where are you going to live now
+val-177,What does your husband do?,أش كايدير راجلاك؟,what does your husband do
+val-178,So Ali how are you settling in at the company?,ألي كيفاش راك كاتولف فشاريكا؟,so ali how are you settling in at the company
+val-179,I think he wants to talk about my promotion,كانضن بغا ياهدار علا ترقييا ديالي,i think he wants to talk about my promotion
+val-180,We're blocked,حنا محبوسين,we re blocked
+val-181,This lift often breaks and the alarm bell does not work,هاد أسسنسور كايخسر بزاف أ ل ألارم ماكايخدامش,this lift often breaks and the alarm bell does not work
+val-182,"Hopefully, we'll soon find out there's something unusual going on.",كانتمناو نلقاو بزاربا بيلا شي حاجا ماشي عادييا واقعا,hopefully we ll soon find out there s something unusual going on
+val-183,"Courage, help is coming!",تشاجاع، لموساعادا جايا,courage help is coming
+val-184,"Please, it's always nice to see you, you know.",مرحبا، ساعا ساعيدا ملي شفناك، راك عارف.,please it s always nice to see you you know
+val-185,How was your journey?,كيدازت ريحلا ديالك؟,how was your journey
+val-186,He was talking to a friend while walking his dog,كان كايهدار معا ساحبو أ هووا كايتمشا معا كلبو,he was talking to a friend while walking his dog
+val-187,Where did you learn to do that?,فين تعالامتي دير هادشي؟,where did you learn to do that
+val-188,There were a few,كانو تما شي شوييا,there were a few
+val-189,Are you interested in mineralogy?,واش نتا مهتام بعيلم لماعادين؟,are you interested in mineralogy
+val-190,"But, tell me about your day.",والاكين عاود لييا علا نهارك,but tell me about your day
+val-191,Yes--by definition.,أه، بتاعريف,yes by definition
+val-192,It allows you to understand the present and prepare the future as a student of the past.,كايخاليك تافهام لحاضير أ تواجاد لموستاقبال كا طاليب ديال لماضي,it allows you to understand the present and prepare the future as a student of the past
+val-193,"And it doesn't fascinate you, ancient civilizations?",ماكاتبهراكش حاضارتك لقديما؟,and it doesn t fascinate you ancient civilizations
+val-194,And they built Europe instead,أ بلاستها بناو أروپا,and they built europe instead
+val-195,Do I need a Degree to get a job?,واش غانحتاج ديپلوم باش نلقا خدما؟,do i need a degree to get a job
+val-196,You should look into it,خاسك تقلب مزيان,you should look into it
+val-197,I'll wash my hands right now!,غادي ناغسال يادي دابا!,i ll wash my hands right now
+val-198,it won't detract from the flavour,مغاديش تانقاس من لماداق,it won t detract from the flavour
+val-199,"There are plenty of fresh strawberries, perhaps you could start by mascerating them in sugar and some liqueur",كاين بزاف ديال فرايس طازاج، ياقدار نبداو نحاتوها ف سوكار أ شي ماشروبات كوحولييا,there are plenty of fresh strawberries perhaps you could start by mascerating them in sugar and some liqueur
+val-200,I've seen the town and I'm not impressed.,أنا شافت لمدينا أ مانباهرتش بزاف,i ve seen the town and i m not impressed
+val-201,I find many of them just too far fetched to be believable.,كايجيني داكشي مجبد بزاف أ ماتقدارش تايقو,i find many of them just too far fetched to be believable
+val-202,They really like eating frozen peas,كايبغيو نيت ياكلو جلبانا مجامدا,they really like eating frozen peas
+val-203,Do they like other things?,واش كايبغيو حوايج خرين؟,do they like other things
+val-204,"But now that I think about it, I think that coffee makes it even better.",والاكين دابا منين فكارت فيها، كاتجيني لقاهوا كاتردها حسن ڭاع.,but now that i think about it i think that coffee makes it even better
+val-205,I am pretty stressed out right now,أنا مسترسي شويا دابا,i am pretty stressed out right now
+val-206,I don't want to bother you,مابغيتش نصادعاك,i don t want to bother you
+val-207,Would you like me to take my shoes off?,واش بغيتي مني نحاياد سباط؟,would you like me to take my shoes off
+val-208,Aren't you hot?,واش مافيكش سخونييا؟,aren t you hot
+val-209,Do you listen to them through the walls too?,واش حتا نتا كاتسماع ليهوم مورا لحيوط؟,do you listen to them through the walls too
+val-210,"He's your maths teacher, right?",هوا ل أستاد ديال رييادييات ديالك، ياك؟,he s your maths teacher right
+val-211,They're plotting together in order not to let any of the information escape,راه كايخاطو كاملين باش ماتخراج حتا ماعلوما,they re plotting together in order not to let any of the information escape
+val-212,I use it for watching TV and reading books,كانخادمو باش نتفرج ف تلفازا أ لقرايا ت لكتوبا,i use it for watching tv and reading books
+val-213,He showed me how it works,راه وراني كيفاش كاتخدم,he showed me how it works
+val-214,why do you look so down in the dumps?,مالك كاتبان حازين بزاف؟,why do you look so down in the dumps
+val-215,I demand mutual respect in a marriage,كانطالب ب حتيرام موتابادال ف زواج,i demand mutual respect in a marriage
+val-216,But I could really use some help wearing it and set it up,والاكين إمكان ليا بصاح نستاعمل شوييا تلموساعادا ف باش نلبسو أنصاوبو,but i could really use some help wearing it and set it up
+val-217,"There's one I know with lots of tattoos, a patch on his eye, and a parrot on his shoulder",كاين واهد كانعارفو فيه بزاف ديال لواشوم، زيف علا عينيه، أباباغء علا كاتفو,there s one i know with lots of tattoos a patch on his eye and a parrot on his shoulder
+val-218,Isn't that a bit weird?,واش هادشي ماشي غاريب شوييا؟,isn t that a bit weird
+val-219,Isn't that a bit weird?,واش هادشي ماشي فشكل شوييا؟,isn t that a bit weird
+val-220,as perhaps I should eat something,حيت إمكان أيخاسني ناكول شي حاجة,as perhaps i should eat something
+val-221,I might have to take my customer elsewhere,إمكن خسني ندي لكليان ديالي لبلاصا خرا,i might have to take my customer elsewhere
+val-222,what can you advise me?,باش كاتنصاحني؟,what can you advise me
+val-223,speak to your manager and see if they can help you,دوي معا شف ديالك أشوف واش إقدرو إعاونوك,speak to your manager and see if they can help you
+val-224,Hopefully your boss will be able to appreciate that,كانءملو لمودير ديالك إقدر داكشي,hopefully your boss will be able to appreciate that
+val-225,He didn't give me time to explain my situation,ماعطانيش واقت باش نشراح لواضع ديالي,he didn t give me time to explain my situation
+val-226,A piano is a big thing,لپيانو شي حاجا كبيرا,a piano is a big thing
+val-227,He could certainly put you in touch with a charity,إمكان ليه إلاڭيك بشي موءساسا خيريا,he could certainly put you in touch with a charity
+val-228,I hope I can come back soon,كانتمنا نقدر نرجع قاريبان,i hope i can come back soon
+val-229,I have a few slices,عندي شي طريفات,i have a few slices
+val-230,They sing beautifully,كايغنيو بشاكال زوين بزاف,they sing beautifully
+val-231,I'd like to go to Argentina and see the condors,بغيت نمشي ل أرجونتين أنشوف كوندورس,i d like to go to argentina and see the condors
+val-232,You'll find more animals there than those cats!,غادي تلقا تما حاياونات كتار من هاد لمشاش!,you ll find more animals there than those cats
+val-233,what do you think?,أش بان ليك؟,what do you think
+val-234,He believes that giving cats bread is not good for them,هوا كايعتاقد بلي تعطي لخوبز لمشاش ماشي مازيان ليهوم,he believes that giving cats bread is not good for them
+val-235,"If we reach out, maybe they'll come for lunch.",إلا تواسلنا إقدار إجيو إتغداو.,if we reach out maybe they ll come for lunch
+val-236,they came over,راه جاو,they came over
+val-237,"All right, I'll look for people and I'll be right back!",واخا، غادي نقلاب علا الناس أ نرجاع!,all right i ll look for people and i ll be right back
+val-238,More like me being on trial,بحالا أنا ف لموحاكاما,more like me being on trial
+val-239,Who were you spying on?,علا من كانتي كاتجاساس؟,who were you spying on
+val-240,"Hey, you, did you just get in the neighborhood?",هي، نتا، واش يالاه دخلتي لحاي؟,hey you did you just get in the neighborhood
+val-241,When you said regular table I thought I was sitting at another customer's regular table,ملي قالتي تابلا عاديا، كنت كاندان واش كنت ڭالس ف تابلا ديال شي وهاد أخور,when you said regular table i thought i was sitting at another customer s regular table
+val-242,"Sure, I'll bring the beer",طابعان، غادي نجيب لبيرا,sure i ll bring the beer
+val-243,Tell me about your day,عاود لييا علا نهارك,tell me about your day
+val-244,It'll be fun!,غادي تكون مومتيعا,it ll be fun
+val-245,It'll be fun!,غادوز زاهيا,it ll be fun
+val-246,Why would I be ashamed?,علاش غادي نحشم؟,why would i be ashamed
+val-247,We have some special plates,عاندا شي أطباق خاصا,we have some special plates
+val-248,I'm not that hungry actually,أنا ماجيعانش ساراحا,i m not that hungry actually
+val-249,I'm not that hungry actually,أنا مافياش جوع بزاف ساراحا,i m not that hungry actually
+val-250,Could you tell me how to make it,واش تاقدار تڭولييا كيفاش نقادها؟,could you tell me how to make it
+val-251,Do you speak the language?,واش كاتهدار اللوغا؟,do you speak the language
+val-252,Saturday 11 June?,سبت 11 يونيو,saturday 11 june
+val-253,Is that right?,واش هادشي بساح؟,is that right
+val-254,Your birthday is important but I agree you don't have to spend a lot to make a great party,عيد ميلادك موهيم والاكين كانتافاق معاك علا أنو ماخاساكش تخسار بزاف ديال لفلوس باش تقاد حافلا زوينا,your birthday is important but i agree you don t have to spend a lot to make a great party
+val-255,Let's just stay rock,خلينا غير نبقاو ف روكك,let s just stay rock
+val-256,pop will be great,پوپ أيكون مباراع,pop will be great
+val-257,"No, it's not my first time flying, but I still get extremely anxious",لا، هادي ماشي لمارا لاولا ليكانسافار بيها ف طايارا، والاكين مازال كانحاس بتاواتور كبير,no it s not my first time flying but i still get extremely anxious
+val-258,because she will be travelling through rush hour,حيت غادي تسافار فساعا ديال زحام,because she will be travelling through rush hour
+val-259,"cause if there's a hole in the hull, we'll probably be dead soon",حيت إلا كان شي توقب فلهايكال، راه موحتامال نموتو قاريبان,cause if there s a hole in the hull we ll probably be dead soon
+val-260,Do you have enough plates and galsses?,واش كافيين تباسل أ لكيسان لي عندك؟,do you have enough plates and galsses
+val-261,"No, there's no need to complicate things with a theme",لا، ماخاسناش نعاقدو لأمور بشي ماودوع,no there s no need to complicate things with a theme
+val-262,I'd prefer to just sit,أنا كانفاضال غير نڭلاس سافي,i d prefer to just sit
+val-263,We have got to get out of here!,خاسنا نخورجو من هنا!,we have got to get out of here
+val-264,Your phone is very low in battery,باتري ديال تيليفونك ناقسا بزاف,your phone is very low in battery
+val-265,How long have we walked on this path?,منيمتا أ حنا كانمشيو فهاد طريق؟,how long have we walked on this path
+val-266,"Yes, but let's save it",أه، والاكين خلينا نحافضو عليها,yes but let s save it
+val-267,Did you tell her that?,واش ڭلتي ليها هادشي,did you tell her that
+val-268,Yes and I'm bringing in the money,أه أ أنا كانجيب لفلوس,yes and i m bringing in the money
+val-269,Don't fall in,ماتيحش,don t fall in
+val-270,"Thank you, I tripped!",شوكران ليك، راه تعاكالت!,thank you i tripped
+val-271,Oh I never go near the woods,أه، أنا ماكانمشيش حدا لغابا,oh i never go near the woods
+val-272,I've lost my way,تلافت تريق ديالي,i ve lost my way
+val-273,I've lost my way,تلافت علا تريق,i ve lost my way
+val-274,Are you sure?,واش نتا متأكاد؟,are you sure
+val-275,"No, you need it, too",لا، نتا أتحاج ليها حطا نتا,no you need it too
+val-276,Oh dear that will be a problem,أ ميمتي هادشي غايخلق موشكيل,oh dear that will be a problem
+val-277,it's a team effort,هادا عامال جاماعي,it s a team effort
+val-278,I have a lot of deadlines from other teachers,عندي بزاف ديال لماواعيد ت ل أساتيدا لخرين,i have a lot of deadlines from other teachers
+val-279,ignore me if I start over breathing,تجاهلني إلا بديت نتنافاس,ignore me if i start over breathing
+val-280,I can't even pretend it's not happening!,مايمكنش ليا حتا نبين بلي داكشي ماكايوقاعش!,i can t even pretend it s not happening
+val-281,Do you think that could play a part in all this?,واش كادان بلي هادا إمكان إلعاب شي داور فهادشي كاملو؟,do you think that could play a part in all this
+val-282,My favourite is vanilla,أعاز وحدا عندي هيا ڤانيلا,my favourite is vanilla
+val-283,I have to say that the pay isn't great here,أيخسني نڭول بلي لخلسا مامزياناش هنا,i have to say that the pay isn t great here
+val-284,who knows,شكون عرف,who knows
+val-285,we might even still be able to make the meeting on time!,نقدرو مازال نوصلو ل إجتيماع فلواقت!,we might even still be able to make the meeting on time
+val-286,And discuss the financial aspect,ويناقشو معاك لفلوس,and discuss the financial aspect
+val-287,That sounds perfect,هادشي كايبان هوا هاداك,that sounds perfect
+val-288,it is not hygienic in the kitchen,هوا راه ماشي سيحي فلكوزينا,it is not hygienic in the kitchen
+val-289,You are deluded,نتا غي كايتفلاو عليك,you are deluded
+val-290,I'll have some of those then,غادي ناخود شوييا منهوم,i ll have some of those then
+val-291,I'll get you your food,غادي نجيب ليك لماكلا ديالك,i ll get you your food
+val-292,"Please, I'll give it to you",عافاك، غادي ناعتيه ليك,please i ll give it to you
+val-293,What have you got?,أش عانداك؟,what have you got
+val-294,What have you got?,أش خديتي؟,what have you got
+val-295,What have you got?,أش شديتي؟,what have you got
+val-296,"Forget your work, you've had enough sleep",نسا خدامتاك، راه خديتي نعاس كافي,forget your work you ve had enough sleep
+val-297,"Come on, get up, you're not drinking lying down",أجي، نود، ماغاتشرابش أنتا متكي,come on get up you re not drinking lying down
+val-298,Did you ever learn to make a fire with a flint?,واش عمرك تعالامتي تشاعال لعافيا ب سووان؟,did you ever learn to make a fire with a flint
+val-299,"No, I'm afraid not",لا لا معنديش,no i m afraid not
+val-300,I don't want to die here!,مابغيتش نموت هنا,i don t want to die here
+val-301,you're not always in a bad mood,نتا ماشي ديما فميزاج خايب,you re not always in a bad mood
+val-302,Would you like one?,بغيتي واحدا؟,would you like one
+val-303,"Ah, the order of eight has arrived",أه، راه وسالت لتارتيب تمانيا,ah the order of eight has arrived
+val-304,"You remember the recipe, don't you?",كاتعقال علا لواصفا، ياك؟,you remember the recipe don t you
+val-305,It's very simple,راه ساهلا بزاف,it s very simple
+val-306,Is that right?,واش هادشي لي كاين,is that right
+val-307,"Hi, I'm having coffee with an orange juice, please.",أهلان بغيت لقاهوا معا عاسير ليمون عافاك,hi i m having coffee with an orange juice please
+val-308,We can just invite people on the Sunday,نقادرو غير نعاردو علا ناس نهار لحاد,we can just invite people on the sunday
+val-309,I know a couple of Thai restaurants but they're not cheap,كانعراف شي ماطاعيم تايلانديين والاكين مارخاسش,i know a couple of thai restaurants but they re not cheap
+val-310,Don't you know anywhere?,واش ماكاتعراف حتا بلاسا؟,don t you know anywhere
+val-311,"as they say, if you don't like living here, then go live elsewhere",كيف كايڭولو، إلا كانتي ماكاتبغيش تعيش هنا، سير عيش ف بلاسا خرا,as they say if you don t like living here then go live elsewhere
+val-312,"Oh, no, we're between us!",أه لا بيناتنا,oh no we re between us
+val-313,I'm gonna make cake for dessert,غادي نقاد لحالوا,i m gonna make cake for dessert
+val-314,Oh no poor you,أه لا، مسكين,oh no poor you
+val-315,"For example, if one of the team-members has something to celebrate",ماتالان إلا كان عند شي حاد من لفرقا شي حاجا كايحتافال بيها,for example if one of the team members has something to celebrate
+val-316,And everybody is stressed by this manager?,أ كولشي مسترسي معا هاد لمودير؟,and everybody is stressed by this manager
+val-317,go for walks in the sunshine!,سير تنازاه تاحت شامش,go for walks in the sunshine
+val-318,i think i'm going to leave!,كانضن غادي نمشي,i think i m going to leave
+val-319,Where are you from?,منين نتي؟,where are you from
+val-320,Where are you from?,منين نتوما؟,where are you from
+val-321,I am American,أنا ميريكاني,i am american
+val-322,I am American,أنا ميريكانيا,i am american
+val-323,I want to read a little bit,بغيت نقرا شويا,i want to read a little bit
+val-324,I want to go to bed,بغيت نمشي النعس,i want to go to bed
+val-325,I want a blanket,بغيت شي مانطا,i want a blanket
+val-326,this woman,هاد لمرا,this woman
+val-327,Driss is at home,ضريس كاين ف الدار,driss is at home
+val-328,I have two twin siblings,عندي جوج خوت توام,i have two twin siblings
+val-329,My older sister is a teacher,ختي لكبيرا أستادا,my older sister is a teacher
+val-330,Where is Loubna please?,فيناهيا لوبنا عافاك؟,where is loubna please
+val-331,He saw no one,ماشاف التا حد,he saw no one
+val-332,Have you ever gone to France?,عمرك مشيتي ل فرانسا؟,have you ever gone to france
+val-333,I know!,أنا عارف!,i know
+val-334,"You get the sauce, now",خديتي سوس، دابا,you get the sauce now
+val-335,Sauce is ready,سالسا جاهيزا,sauce is ready
+val-336,Sauce is ready,لا سوس واجدا,sauce is ready
+val-337,The point of view may be historic or sociological,ويجها ناضار تاقدار تكون تاريخييا ولا إجتيماعييا,the point of view may be historic or sociological
+val-338,Do you think those berries are edible?,واش كادان بلي هاد توت كايتكال؟,do you think those berries are edible
+val-339,"Great idea, I'll change the menu",فيكرا واعرا، غادي نبادال لقاإما,great idea i ll change the menu
+val-340,I'd like to hang out in the sun just a little longer,بغيت نبقا فشامس مازال شوييا,i d like to hang out in the sun just a little longer
+val-341,Would you like one?,واش بغيتي شي واحدا؟,would you like one
+val-342,No better,ماشي حسان,no better
+val-343,They'd need to be very close together,أيخاس إكونو قراب بزاف من بعاديياتهوم,they d need to be very close together
+val-344,I'm not sure what we can do without the map,مامتءكادش أشنو إمكان لينا نديرو بلا خاريطا,i m not sure what we can do without the map
+val-345,I want to buy olive oil,بغيت نشري زيت لعود,i want to buy olive oil
+val-346,I am cleaning the house,غانخمل الدار,i am cleaning the house
+val-347,i woke up early,فقت بكري,i woke up early
+val-348,what color do you like?,إنا لون كايعجبك؟,what color do you like
+val-349,I don't have luck,ماعنديش الزهر,i don t have luck
+val-350,I am allergic to,عندي حاساسييا,i am allergic to
+val-351,you made me angry?,عصبتيني,you made me angry
+val-352,go away,سير فحالك,go away
+val-353,I didn't like what you said,ماعجباتنيش لهضرا لي ڭلتي,i didn t like what you said
+val-354,everyday,كولا نهار,everyday
+val-355,this house is cheap,هاد الدار رخيصا,this house is cheap
+val-356,I'm pregnant,أنا حاملا,i m pregnant
+val-357,the bank is closed,لبنكا سادا,the bank is closed
+val-358,this pillow isn't comfortable,هاد لمخدا ماشي موريحا,this pillow isn t comfortable
+val-359,you are lucky,عندك الزهر,you are lucky
+val-360,I didn't like this movie,ماعجبنيش هاد لفيلم,i didn t like this movie
+val-361,don't forget,عنداك تنسا,don t forget
+val-362,it's my fault,لغالاط ديالي,it s my fault
+val-363,take it easy,غير بشوييا عليك,take it easy
+val-364,in my opinion,ف ناضاري,in my opinion
+val-365,you should not say this,ماخاصكش تڭول هادشي,you should not say this
+val-366,a small spoon,معلقا سغيرا,a small spoon
+val-367,a handsome boy,دري زوين,a handsome boy
+val-368,I don't work today,ماكانخدمش ليوم,i don t work today
+val-369,look there,شوف تماك,look there
+val-370,you are very sensitive,نتا حساس بزاف,you are very sensitive
+val-371,I always listen to him,ديما كانسمع ليه,i always listen to him
+val-372,he always talks to me,ديما كايهضر معايا,he always talks to me
+val-373,my father died,بابا مات,my father died
+val-374,I'm boiling water,كانغلي لما,i m boiling water
+val-375,his feet are small,رجليه صغار,his feet are small
+val-376,he prepared a surprise for me,دار لييا موفاجاأ,he prepared a surprise for me
+val-377,I'm crazy,أنا حمق,i m crazy
+val-378,the sea is dangerous,لبحر خاطير,the sea is dangerous
+val-379,clean this,مسح هادشي,clean this
+val-380,I dry my hair,كانشف شعري,i dry my hair
+val-381,I hope you liked it,كانتمنا يكون عجبك,i hope you liked it
+val-382,I'm still asleep,باقي فييا النعاس,i m still asleep
+val-383,I'll take pictures,غانتصور,i ll take pictures
+val-384,the window is closed,الشرجم مسدود,the window is closed
+val-385,before you start,قبل ماتبدا,before you start
+val-386,once in a while,مرا فشحال,once in a while
+val-387,I haven't studied this,ماقريتش هادشي,i haven t studied this
+val-388,what's the solution?,شنو هووا لحل؟,what s the solution
+val-389,I don't cook,ماكانطيبش,i don t cook
+val-390,you have to drink a lot of water,خاصك تشرب بزاف ديال لما,you have to drink a lot of water
+val-391,he is a dangerous criminal,هووا موجريم خاطير,he is a dangerous criminal
+val-392,you disturbed me,برزطيني,you disturbed me
+val-393,I don't know how to read,ماكانعرفش نقرا,i don t know how to read
+val-394,this sweater is warm,هاد التريكو سخون,this sweater is warm
+val-395,health is a bless,سصحا نيعما,health is a bless
+val-396,he doesn't love me,هووا ماكايبغينيش,he doesn t love me
+val-397,I don't have the courage,ماعنديش لجورأ,i don t have the courage
+val-398,low level,موستاوا ناقص,low level
+val-399,peace and love,لهودوع و لحوب,peace and love
+val-400,is this for you?,واش هادشي ليك؟,is this for you
+val-401,first day,أول نهار,first day
+val-402,I have one brother and two sisters,عندي خويا أ جوج خواتات,i have one brother and two sisters
+val-403,But it was too hot,والاكين كان سخون بزاف,but it was too hot
+val-404,He opens the jar carefully,كايحل ل قرعا بشوييا,he opens the jar carefully
+val-405,He was eating and talking,كان كاياكول أ كايهضر,he was eating and talking
+val-406,He is learning English by himself,كايتعلم لونڭلي البوحدو,he is learning english by himself
+val-407,he isn' telling the truth,ماكايقولش لحاقيقا,he isn telling the truth
+val-408,He killed him,هووا لي قتلو,he killed him
+val-409,He went shopping online,كايتقدا من ل إنترنت,he went shopping online
+val-410,He went to a fashion show,مشا يتفرج ف عارد ل أزياء,he went to a fashion show
+val-411,Today is a sunny day,ليوم نهار مشمش,today is a sunny day
+val-412,He watched TV all day,كايتفرج ف التلفازا النهار كامل,he watched tv all day
+val-413,He swam in the pool,عام ف لا الپيسين,he swam in the pool
+val-414,It is not true,ماشي بصح,it is not true
+val-415,Go and attend the class,سير و حضر ل حيصا,go and attend the class
+val-416,Where are my shoes?,فين هووا صباطي,where are my shoes
+val-417,The bird is sitting on the branch,تطير ڭالس فوق لغوصن,the bird is sitting on the branch
+val-418,What's the time by your watch?,شحال عندك ف الساعا؟,what s the time by your watch
+val-419,Hurry up!,دغيا! بزربا!,hurry up
+val-420,He is wasting my time,كايديع لييا وقتي,he is wasting my time
+val-421,He is on a diet,داير ريجيم,he is on a diet
+val-422,This work is not suiteble for him,هاد لخدما مامناسباش ليه,this work is not suiteble for him
+val-423,He can't wait any longer,مايقدرش يتسنا مازال,he can t wait any longer
+val-424,Are you sure?,واش متءكد؟,are you sure
+val-425,What do you think ?,شنو بان ليك؟,what do you think
+val-426,It was the least I could do,هادي أقال حاجا نديرها,it was the least i could do
+val-427,When will you reach?,فوقاش غادي توصل؟,when will you reach
+val-428,Give me a day,عطيني نهار واحد,give me a day
+val-429,You should not hurt animals,ماخصكش تأدي لحاياوانات,you should not hurt animals
+val-430,He has a basement,عندو لاكاڤ,he has a basement
+val-431,The sink is dirty,لاڤابو الموسخ,the sink is dirty
+val-432,OMG! the wall is moving,ناري! لحيط كايتحرك,omg the wall is moving
+val-433,The sand was white,الرملا كانت بيضا,the sand was white
+val-434,I am tired of my work,عييت من خدمتي,i am tired of my work
+val-435,I'm a journalsit,أنا صاحافي,i m a journalsit
+val-436,I love to cook,كانبغي نطيب,i love to cook
+val-437,The soup has gone sour,سصوبا حماضت,the soup has gone sour
+val-438,He aided his mom in cooking,هووا عاون ماماه فطياب,he aided his mom in cooking
+val-439,I don't have much interest in cooking,ماعنديش هتيمام ب الطياب,i don t have much interest in cooking
+val-440,A cup of cold milk,كاس ديال لحليب بارد,a cup of cold milk
+val-441,Did you remember?,واش عقلتي؟,did you remember
+val-442,His face was still pale,وجهو كان مازال صفر,his face was still pale
+val-443,he sleeps with braided hair,كاينعس بشعر مضفور,he sleeps with braided hair
+val-444,My eyebrows are thick,حجباني غلاض,my eyebrows are thick
+val-445,He is handsome,هووا زوين,he is handsome
+val-446,He is handsome,هوا بوڭوس,he is handsome
+val-447,Yellow doesn't suit me at all,سصفر ماكاياجيش معايا بمارا,yellow doesn t suit me at all
+val-448,He was holding a pen,كان شاد ستيلو,he was holding a pen
+val-449,I recognized her by her white hat,عرفتها غير من الشاپو لبيض ديالها,i recognized her by her white hat
+val-450,I prefer the silk scarft,كانفضل شال ديال لحرير,i prefer the silk scarft
+val-451,Formal wear,حوايج راسميين,formal wear
+val-452,The pencil is in the pencil case,لقالام كاين ف لاتروسا,the pencil is in the pencil case
+val-453,I need a scissor,خصني مقص,i need a scissor
+val-454,I've used uo all the glue,درت اللصاق كامل,i ve used uo all the glue
+val-455,I want to be a professor,بغيت نكون أوستاد,i want to be a professor
+val-456,Royal wedding,عرس مالاكي,royal wedding
+val-457,I went to Europe once,مشيت ل أروپا مرا وحدا,i went to europe once
+val-458,Africa is a large continent,إفريقيا قارا كبيرا بزاف,africa is a large continent
+val-459,he spent his childhood in Africa,دوز الطوفولا ديالو ف إفريقيا,he spent his childhood in africa
+val-460,Canada is located in north America,كاناضا كاينا ف أمريكا الشامالييا,canada is located in north america
+val-461,The atlantic ocean is immense,ل موحيط ل أطلاصي كبير بزاف,the atlantic ocean is immense
+val-462,Chop chop,سربي سربي,chop chop
+val-463,Stop beating around the bush,بلاما تبقا الضور فلهضرا,stop beating around the bush
+val-464,Appreciate yourself,قدر راصك,appreciate yourself
+val-465,Value yourself,عطي لقيما ل راصك,value yourself
+val-466,"So, are we good to go?",إدان، واش نقدرو نكملو؟,so are we good to go
+val-467,Stop looking at me,باراكا ماتشوف فييا,stop looking at me
+val-468,Do your best,دير جهدك,do your best
+val-469,He's been gambling heavely,كان كايقمر بزاف,he s been gambling heavely
+val-470,Who were you spying on?,علامن كنتي كاتجسس؟,who were you spying on
+val-471,I set aside a good dowry for her,خليت ليها صداق مهور,i set aside a good dowry for her
+val-472,Take it easy,رخف علا راسك,take it easy
+val-473,Same here,حتا أنا,same here
+val-474,It's a gift for my brother,هادا كادو ديال خويا,it s a gift for my brother
+val-475,Ignorence is bliss,حسن ليك ماعرفتيش,ignorence is bliss
+val-476,The ball is in your court,لكورا عندك,the ball is in your court
+val-477,Let's hope everything goes well,نتمناو كولشي يمشي مزيان,let s hope everything goes well
+val-478,you are lucky,شكون بحالك,you are lucky
+val-479,He raised his eyebrows,هز حجبانو,he raised his eyebrows
+val-480,It completely slipped my mind,مشات من بالي تامامان,it completely slipped my mind
+val-481,That is an important question,هادا سوأل موهيم,that is an important question
+val-482,I remember him very well,كانعقل عليه مزيان,i remember him very well
+val-483,It's the best I've ever seen,هادي أحسان حاجا شفتها,it s the best i ve ever seen
+val-484,What did you do last night?,شنو درتي لبارح بليل؟,what did you do last night
+val-485,We need to make a plan,خصنا نديرو خوطا,we need to make a plan
+val-486,I owe you one,كانتسالك وحدا,i owe you one
+val-487,He is not here,ماكاينش هنا,he is not here
+val-488,Step by step,دقا دقا,step by step
+val-489,Just let the time show you,غير خلي لوقت يبيين ليك,just let the time show you
+val-490,Just let the time show you,غير خلي زمان يوري ليك,just let the time show you
+val-491,Do you want to talk about it ?,واش بغيتي تهدر علا هادشي؟,do you want to talk about it
+val-492,I don't understand why?,مافهمتش علاش؟,i don t understand why
+val-493,Can we met next Friday?,واش نقدرو نتلاقاو الجمعا الجايا؟,can we met next friday
+val-494,Are you ready for this?,واش مستاعد لهادشي؟,are you ready for this
+val-495,Any question?,واش كاين شي سوأل؟,any question
+val-496,Got it?,واش فهمتي؟,got it
+val-497,Let me clarify for you,خليني نوضح ليك,let me clarify for you
+val-498,I did it because of you,درتها علا قبلك,i did it because of you
+val-499,I did it because of you,درتها علا ودك,i did it because of you
+val-500,I coudn't come to your party,ماقدرتش نجي ل لحفلا ديالك,i coudn t come to your party
+val-501,Please speak slowly,عافاك هضر بشوييا,please speak slowly
+val-502,I saw a lion,شفت سبع,i saw a lion
+val-503,I don't want to bother you,مابغيتش نصدعك,i don t want to bother you
+val-504,Did you miss the bus?,واش مشا عليك الطوبيس؟,did you miss the bus
+val-505,in me,فيا,in me
+val-506,let us,يالاه,let us
+val-507,you are welcome,لا شوكرا عالا واجيب,you are welcome
+val-508,you are welcome,لعافو,you are welcome
+val-509,you are welcome,لعافوو,you are welcome
+val-510,your good health,بصحا,your good health
+val-511,god have mercy on him,الله إرحمو,god have mercy on him
+val-512,daily,كولا نهار,daily
+val-513,hourly,كولا ساعا,hourly
+val-514,sweet,سمن أ عسل,sweet
+val-515,evening,عشيا,evening
+val-516,evening,اشيا,evening
+val-517,thing,تويشيا,thing
+val-518,thing,لعيبا,thing
+val-519,thing,لعايبا,thing
+val-520,rainbow,قوزقوزاح,rainbow
+val-521,rainbow,قوسقوزاح,rainbow
+val-522,rainbow,قاوسقوزاح,rainbow
+val-523,rainbow,قاوس قوزاح,rainbow
+val-524,ridiculous,ديال لمشخارا,ridiculous
+val-525,i am allergic to...,فييا لحاساسييا ديال...,i am allergic to
+val-526,can i try it on?,واسه نقدر نجربو؟,can i try it on
+val-527,i don't want this one,مابغيتسه هادا,i don t want this one
+val-528,i want a blanket,بغيت مانتا,i want a blanket
+val-529,my older sister is a teacher,ختي لكبيرا وستادا,my older sister is a teacher
+val-530,what's this called?,أسميت هادا؟,what s this called
+val-531,"it's late, i have to go!",تعاتل لواقت، خاسني نامشي,it s late i have to go
+val-532,do you have a room available?,عانداك شي بيت خاوي؟,do you have a room available
+val-533,do you know where i could find him?,واش عارفا فين ناقدار نالقاها؟,do you know where i could find him
+val-534,cows are smelly,لبڭر خانز,cows are smelly
+val-535,i ate a lot,غلقت,i ate a lot
+val-536,my favorite team won the match,فرقتي ربحات هاد لماتش,my favorite team won the match
+val-537,my eyes are burning,عينيا كيحرقوني,my eyes are burning
+val-538,that's everything for now,هادش لي كاين هاد ساعا,that s everything for now
+val-539,i owe you 1000dh,كانتسالك ألف درهام,i owe you 1000dh
+val-540,i just don't have that to give right now,غا ماعنديش دكشو باش نعتيه ليك دابا,i just don t have that to give right now
+val-541,you're everything to me,نتا/نتي كولشي بنيسبا ليا,you re everything to me
+val-542,does it come with a guarantee/warranty?,واش داخلا فيه ل ڭوارانتي ؟,does it come with a guarantee warranty
+val-543,i apologize for...,كانعتادر علا...,i apologize for
+val-544,how stupid thoughtless of me,أنا خابيي,how stupid thoughtless of me
+val-545,our family spent the holiday in london,لفاميلا دوزتا لعوتلا فلوندون,our family spent the holiday in london
+val-546,some rabbits ran out of the forest,واحد لقنييات هربو من لخابا,some rabbits ran out of the forest
+val-547,my brother had a toothache last week,خويا كانت داراه درس سيمانا لي فاتت,my brother had a toothache last week
+val-548,i miss my friends,توحشت سحابي,i miss my friends
+val-549,he hung a picture on the wall,راه لسق واحد تسويرا فلحيت,he hung a picture on the wall
+val-550,i don't like desk lamps,ماكيعجبونيش هادوك لبولات ديال لبيرووات,i don t like desk lamps
+val-551,house prices have gone up this year,تامانات ديال ديور تلعو هاد لعام,house prices have gone up this year
+val-552,she froze at the sight of the big spider,تسدمات ملي شافت واحد رتيلا كبيرا,she froze at the sight of the big spider
+val-553,last time i went on vacation i rode a horse,لعوتلا لي فاتت ركبت عاود,last time i went on vacation i rode a horse
+val-554,don't open the door!,ماتحلش لباب,don t open the door
+val-555,you guys can leave whenever you want,دراري تقدرو تمشيو فين ما رشقات ليكوم,you guys can leave whenever you want
+val-556,i am looking for some pears,كانقلب علا لبعويد,i am looking for some pears
+val-557,the laptop became warm,لپك سخن,the laptop became warm
+val-558,the scientist conducted experiments in the lab,لعاليم دار شي تاجاريب فلابو,the scientist conducted experiments in the lab
+val-559,the child's laughter was loud,دحكا ديال دري كانت هيستيرييا,the child s laughter was loud
+val-560,the store offered a discount for loyalty program members,لماحال عتا كرتات لكليان لقدام,the store offered a discount for loyalty program members
+val-561,the team's strategy on the field was well coordinated,لخوتا ديال لفراقي فتيران كانت ناديا,the team s strategy on the field was well coordinated
+val-562,what's the best concert you've attended?,أشناهووا أحسن كونسرت مشيتي ليه ؟,what s the best concert you ve attended
+val-563,are you into art ?,واش كايعجبك لفن ؟,are you into art
+val-564,how do you find balance between work and personal life?,كيفاش كاتوازن بين لخدما و حياتك ؟,how do you find balance between work and personal life
+val-565,how do you unwind and relax after a stressful day?,كيفاش كاترتاح مورا شي نهار قاسح ؟,how do you unwind and relax after a stressful day
+val-566,how's the weather today?,كيداير لجو ليوما ؟,how s the weather today
+val-567,how do you stay focused?,كيفاش كاتبقا مركز؟,how do you stay focused
+val-568,do you enjoy cooking with friends?,كيعاجبك تيب معا سحابك ؟,do you enjoy cooking with friends
+val-569,are you a fan of theater?,واش كايعجبك لمسرح ؟,are you a fan of theater
+val-570,the traffic is quite heavy,لمبوتيلاڭ كتير,the traffic is quite heavy
+val-571,the rain is tapping on the windows,شتا كاتخبت فشراجم,the rain is tapping on the windows
+val-572,he's playing hide and seek,لاعبين كاش كاش,he s playing hide and seek
+val-573,what languages are commonly spoken in this country?,أشناهوما لوخات لي كايدويو نيهوم فهاد لبلاد ؟,what languages are commonly spoken in this country
+val-574,what are the most important historical events of this country?,أشناهوما أهام أحدات تاريخييا ديال هاد لبلاد,what are the most important historical events of this country
+val-575,how do people greet each other in this culture?,كيفاش ناس كيسلمو علا بعديياتهوم فهاد تاقافا,how do people greet each other in this culture
+val-576,how are weddings celebrated in this country?,كيفاش كيتافلو ناس بلعراسات فهاد لبلاد ؟,how are weddings celebrated in this country
+val-577,what are the traditional clothing materials used?,أشنو كايستعملو باش يسنعو لحوايج ؟,what are the traditional clothing materials used
+val-578,how do people respect the environment here?,كيفاش ناس هنا كيحتارمو تايعا ؟,how do people respect the environment here
+val-579,do you have a favorite football team?,واش عندك شي فرقا ديال كورا عزيز عليك ؟,do you have a favorite football team
+val-580,i miss the days when summer break meant endless fun,توحشت لييام ملي سايف كان كولو دحك,i miss the days when summer break meant endless fun
+val-581,"let's plan a cozy night in blankets, comfort food, and movies",يالاه نبلانيو شي ليلا ناديا بلمانتات و لماكلا و شي أفلام,let s plan a cozy night in blankets comfort food and movies
+val-582,what is your favorite recent memory?,شنو أحسن ديكرا عندك موأخاران ؟,what is your favorite recent memory
+val-583,what do you wish more people understand about you?,شنو كاتمنا ناس إتفهمو عليك ؟,what do you wish more people understand about you
+val-584,what is the most ridiculous thing you believed as a child?,شنو هيا أخبا حاجا كنتي متيق فاش كنتي سخير ؟,what is the most ridiculous thing you believed as a child
+val-585,what book changed your life?,كيان شي كتاب لي بدل ليك حياتك ؟,what book changed your life
+val-586,how do you prefer to exercise?,كيفاش كيعجبك تريني ؟,how do you prefer to exercise
+val-587,what are you allergic to?,عندك شي حاساسيا من شي حاجا ؟,what are you allergic to
+val-588,i'm convinced that we could write a book filled with our hilarious childhood stories,أنا متءكد أنانا نقدرو كتاب كامل علا لقيساس ديالنا ديال سخر را كيقتلو بدحك,i m convinced that we could write a book filled with our hilarious childhood stories
+val-589,i'm thinking of starting a garden,بايا لييا خانبدا نخدم فجاردا,i m thinking of starting a garden
+val-590,can you check if you have more of this item in the back of the store?,تقدر تشوف معاكو أش باقي م هاد لپرودويت فلماحال,can you check if you have more of this item in the back of the store
+val-591,is it possible to split the payment between cash and card?,واش نقدر نقسم تامان نس نخلسو بكارتا و نس لاخور كاسه,is it possible to split the payment between cash and card
+val-592,could you check if this item is available in other colors or sizes?,تقدرت شوف لييا معاك واش هاد لرپدويت كاين فيه لوانات و قياسات أخرين ؟,could you check if this item is available in other colors or sizes
+val-593,it taught us many things,علماتنا بزاف ديال لحوايج,it taught us many things
+val-594,how do you always know the right words to say when i'm feeling down?,كيفاش ديما كاتعرف دوي ملي ماكاتكونش راشقا لييا,how do you always know the right words to say when i m feeling down
+val-595,what's your opinion on taking a dance class together?,أش بان ليك نديرو حيساس نتعلمو فيهوم شتيح مجموعين,what s your opinion on taking a dance class together
+val-596,how do you always know how to make me feel so loved and cherished?,كيفاش ديما كاتخليني حاسا بلحوب ديالك ؟,how do you always know how to make me feel so loved and cherished
+val-597,"what's your opinion on starting a hobby together, like drawing or painting?",أش بان ليك نبداو نديرو شي هيوايا جديدا بحال راسم ولا سباغا ؟,what s your opinion on starting a hobby together like drawing or painting
+val-598,what was going through your mind when you scored that incredible goal?,فاش كنتي كاتفكر ملي ماركتي هاد لڭوال لي نادي ؟,what was going through your mind when you scored that incredible goal
+val-599,how do you mentally prepare for matches against rivals or historically strong opponents?,كيفاكك كاتوجد راسك ماعناوييان لماتشات دد لخاريم ولا فراقي كبار تاريخييان ؟,how do you mentally prepare for matches against rivals or historically strong opponents
+val-600,what do you believe is the secret behind maintaining a winning mentality?,أشناهووا سير باشتبقا ديما باخي خير تربح ؟,what do you believe is the secret behind maintaining a winning mentality
+val-601,the opponent's physicality required us to be agile and quick in our movements,كان خاسنا نزربو حيت لخاسم كان سحيح,the opponent s physicality required us to be agile and quick in our movements
+val-602,it's a reminder of how small we are in this vast universe,كايفكرني فشحال حنا سخار فهاد دنيا,it s a reminder of how small we are in this vast universe
+val-603,there's something special about watching a movie on the big screen,واعرا تفرج الفيلم فكران كبيرا,there s something special about watching a movie on the big screen

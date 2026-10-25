@@ -1,0 +1,87 @@
+row_id,reason,eng,darija,darija_ar
+5978,digit_letter_corruption_in_target,Probably around 9:00,t9riban jwayh 9:00,تقريبان جوايه ق:00
+5196,digit_letter_corruption_in_target,It's 8:00 already,ra8a 8:00 daba,راها ه:00 دابا
+623,digit_letter_corruption_in_target,I don't understand why I only got 12/20 in control,mafhemtch 3lach jebt hir 12/20 flmti7an,مافهمتش علاش جبت هير 1ء/ء0 فلمتيحان
+4702,digit_letter_corruption_in_target,"Yes, you see, there are 12 and come every day at 2:00","ah, kima katchof, kaynin 12 o kayjiw kol nhar m3a 2:00","أه, كيما كاتشوف, كاينين 12 أُ كايجيو كول نهار معا ء:00"
+2637,digit_letter_corruption_in_target,All we have is 12:30.,3ndna ghir 12:30,عندنا غير 1ء:ع0
+1014,digit_letter_corruption_in_target,"I had a meeting with Soukaina at 2:00, and I hate being late!","kan 3ndi jtima3 m3a Soukaina f 2:00, o makan7mlch nkon m3TTel!","كان عندي جتيماع معا صوكاينا ف ء:00, أُ ماكانحملش نكون معطّل!"
+630,digit_letter_corruption_in_target,"I understand that, but still, 12/20 for 14 pages, I don't think it's enough.","fhemt hadchi, walakin kimma kan l7al, 12/20 l 14 lSf7a, makanDennch kafia.","فهمت هادشي, والاكين كيمّا كان لحال, 1ء/ء0 ل 14 لصفحا, ماكانضنّش كافيا."
+6959,digit_letter_corruption_in_target,Could you come over from 15 hours to help me set it up!,wach imkan lik tji mn 15h bach t3awni ngaddo!,واش إمكان ليك تجي من 1خه باش تعاوني نڭادّو!
+1540,digit_letter_corruption_in_target,12:30... i don't get it?,12:30... mafemtch,1ء:ع0... مافمتش
+4201,digit_letter_corruption_in_target,I have an appointment at the rheumatologist at 3:00!,3ndi maw3id m3a 2akhisa2i dyal romatizm m3a 3:00!,عندي ماوعيد معا أخيساإ ديال روماتيزم معا ع:00!
+1290,digit_letter_corruption_in_target,it's 10:30,hadi 10:30,هادي 10:ع0
+3427,digit_letter_corruption_in_target,"So we have the back room, it's big enough, starting from 7:00.","donc 3ndna lbit lli fllor, rah kbir, ghatbda mn 7:00.","دونك عندنا لبيت اللي فلّور, راه كبير, غاتبدا من ح:00."
+6890,digit_mismatch,"2,000 words",2000 kalma,2000 كالما
+5581,duplicate_pair_after_normalisation,Ok!,wakha!,واخا!
+10394,duplicate_pair_after_normalisation,see you,nchoufouk,نشوفوك
+10977,duplicate_pair_after_normalisation,He has a good sense of humor,9echabto was3a,قشابتو واسعا
+10691,duplicate_pair_after_normalisation,june,ch8er setta,شهر ستّا
+10022,duplicate_pair_after_normalisation,he has,3endo,عندو
+11072,duplicate_pair_after_normalisation,i don't know,man3ref,مانعرف
+4214,duplicate_pair_after_normalisation,wow,wow,ووو
+10057,duplicate_pair_after_normalisation,they can,fi8oum,فيهوم
+5849,duplicate_pair_after_normalisation,Thanks!,chokran!,شوكران!
+7476,duplicate_pair_after_normalisation,why not?,3lach lla?,علاش اللا?
+5391,duplicate_pair_after_normalisation,Why not,3lach la,علاش لا
+10311,duplicate_pair_after_normalisation,at least,3ell a9all,علّ أقالّ
+7891,duplicate_pair_after_normalisation,follow me,tbe3ni,تبعني
+5092,duplicate_pair_after_normalisation,I'm sorry,sma7 liya,سماح لييا
+5170,duplicate_pair_after_normalisation,Thank you,chokran,شوكران
+10936,duplicate_pair_after_normalisation,bad guy,jla5a,جلاخا
+10202,duplicate_pair_after_normalisation,thank you,chokran,شوكران
+1651,duplicate_pair_after_normalisation,How was your day?,kidaz nharek?,كيداز نهارك?
+739,duplicate_pair_after_normalisation,Ok.,wakha.,واخا.
+3717,duplicate_pair_after_normalisation,It's okay,hania,هانيا
+10400,duplicate_pair_after_normalisation,why not,3lach la,علاش لا
+10713,duplicate_pair_after_normalisation,december,ch8r Tnach,شهر طناش
+10383,duplicate_pair_after_normalisation,be careful,redd lbal,ردّ لبال
+10765,duplicate_pair_after_normalisation,period,fetra,فترا
+10037,duplicate_pair_after_normalisation,in me,fyya,فيّا
+10623,duplicate_pair_after_normalisation,century,qarn,قارن
+10974,duplicate_pair_after_normalisation,he lost his mind,hreb li8,هرب ليه
+10262,duplicate_pair_after_normalisation,hello,2a8lan,أهلان
+8557,duplicate_pair_after_normalisation,Follow me,tbe3ni,تبعني
+10160,duplicate_pair_after_normalisation,she has,3nd8a,عندها
+1057,english_contains_chat_digit_word,3yyeT 3liha,call her,كالّ هر
+8297,english_contains_chat_digit_word,Have you been in a moroccan 7ammam before?,whach mchiti l 7mmam mghribi mn 9bel?,وهاش مشيتي ل حمّام مغريبي من قبل?
+1056,english_contains_chat_digit_word,3yyeT 3lih,call him,كالّ هيم
+1058,english_contains_chat_digit_word,3yyeT 3lihom,call them,كالّ تهم
+10542,length_ratio_outlier,turning a blind eye,Tmmer,طمّر
+11369,length_ratio_outlier,i will draw a portrait of you,anrsmk,أنرسمك
+9553,length_ratio_outlier,Don't put all your eggs in one bascket,matghamerch,ماتغامرش
+10543,length_ratio_outlier,turning a blind eye,myyek,ميّك
+19147,missing_english,,khaskom txofi l9adam,خاسكوم تشوفي لقادام
+59224,missing_english,,kanfker achno ghadi ndir,كانفكر أشنو غادي ندير
+39767,missing_english,,kathawl dir lmostahil,كاتهاول دير لموستاهيل
+27817,missing_english,,fin dawzti,فين داوزتي
+24130,missing_english,,tal3a liya s5ana,تالعا لييا سخانا
+57968,missing_english,,wafin gh rti?,وافين غ رتي?
+78850,missing_english,,tanfkker wach nchri mchta jdida,تانفكّر واش نشري مشتا جديدا
+18240,missing_english,,kna kandkhlo lih flwalal dsimana,كنا كاندخلو ليه فلوالال دسيمانا
+38249,missing_english,,chtek g3ma mhali frasek,شتك ڭعما مهالي فراسك
+69587,missing_english,,5assna nbedlou had routeur dial wifi rah ma5damch,خاسّنا نبدلو هاد روتور ديال ويفي راه ماخدامش
+74383,missing_english,,mou7al wach tfa3el m3a l2sotad fl9issem,موحال واش تفاعل معا لءسوتاد فلقيسّم
+75109,missing_english,,3lach mabghitich tn3ss,علاش مابغيتيش تنعسّ
+17106,missing_english,,lil twil bzaf,ليل تويل بزاف
+42633,missing_english,,mhawla bash ndir brassi knt kandhk,مهاولا باسه ندير براسّي كنت كاندهك
+41439,missing_english,,mab9awch kaybi3ouh,مابقاوش كايبيعوه
+43404,missing_english,,ana bnt twila,أنا بنت تويلا
+72411,missing_english,,rah 5ansafrou lchi mdina saa7iliya,راه خانسافرو لشي مدينا ساحيلييا
+27709,missing_english,,darba 9asha,داربا قاسها
+71090,missing_english,,rah 3ajil had l5bar ra 5aysdou lm7alat sirou t9edaw,راه عاجيل هاد لخبار را خايسدو لمحالات سيرو تقداو
+56365,missing_english,,khasna mant3tlo,خاسنا مانتعتلو
+41091,missing_english,,kaytrini 3ad kaymchi lkhedma,كايتريني عاد كايمشي لخدما
+82077,missing_english,,maymkench n sben lwa7j bdidi,مايمكنش ن سبن لواحج بديدي
+38882,missing_english,,maghankamlouch bjouj,ماغانكاملوش بجوج
+51990,missing_english,,aslan ti9a hiya kolchi,أسلان تيقا هييا كولشي
+54926,missing_english,,ghankhlik trtahi hit rhtak kathmni,غانخليك ترتاهي هيت رهتاك كاتهمني
+70322,missing_english,,mat9me3ch wladek ra ba9in s5ar,ماتقمعش ولادك را باقين سخار
+63473,missing_english,,ach dak sda3 hdak,أش داك سداع هداك
+31618,missing_english,,dik n3ma kayn li malqahach,ديك نعما كاين لي مالقاهاش
+54193,missing_english,,l3das kayan lyoma ola la,لعداس كايان ليوما أُلا لا
+84086,missing_english,,howa nit rayrja3lik kolchi,هووا نيت رايرجاعليك كولشي
+5899,target_latin_ratio_above_threshold,No phone from Instragram,makaynch téléphone man instagram,ماكاينش تéلéپهون مان إنستاڭرام
+11392,target_latin_ratio_above_threshold,i'm having a day off,5dit lyouma congé,خديت ليوما كونڭé
+5900,target_latin_ratio_above_threshold,"I'm going up, but I'm keeping my phone nah!","ghadi ntla3, walakin ankhki 3andi téléphone nah!","غادي نتلاع, والاكين أنخكي عاندي تéلéپهون ناه!"
+5087,target_latin_ratio_above_threshold,I'm feeling a little bit apprehensive about this,kan7as bchwiya dyal dérangement mn hadchi,كانحاس بشوييا ديال دéرانڭمنت من هادشي
+11059,target_latin_ratio_above_threshold,i want to do laundry,bġit nsbbn 7wayji,بġيت نسبّن حوايجي

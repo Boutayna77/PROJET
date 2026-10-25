@@ -1,0 +1,2 @@
+epoch,lr,train_loss_dropout,train_loss_eval,val_loss,val_ppl,val_bleu_greedy,val_chrf_greedy,epoch_seconds,total_seconds,mean_grad_norm,skipped_steps
+1,0.001,6.641549948226062,6.136852656773159,6.16653108032771,476.5301906781292,nan,nan,28.182943105697632,28.182947158813477,1.2868152583061263,0

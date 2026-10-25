@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+data/raw/*
+!data/raw/.gitkeep
+data/processed/
+data/tokenizer/
+runs/
+runs_hparam/
+*.pt
+*.pth
+*.ckpt
+.DS_Store
